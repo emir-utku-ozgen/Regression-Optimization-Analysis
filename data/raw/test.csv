@@ -1,0 +1,101 @@
+Soru,Cevap,Etiket
+Python'da Java sınıfı nasıl oluşturulur?,public class Ad { ... } şeklinde tanımlanır.,-1
+Python'da Java sınıfı nasıl oluşturulur?,java -c komutu ile kullanılır.,-1
+Rönesans hangi ülkede başladı?,Rönesans İtalya’da başladı,1
+Rönesans hangi ülkede başladı?,Rönesans Almanya’da başladı.,-1
+Fizikte momentum korunumu ne demektir?,F_net = 0 iken değişmez.,1
+Fizikte momentum korunumu ne demektir?,Kütle x hız çarpımıdır.,-1
+Kimyada nükleofiller ne işe yarar?,Elektron verici molekülleri bağlar.,1
+Kimyada nükleofiller ne işe yarar?,Asitlerin proton kaynağıdır.,-1
+Lineer cebirde rank nedir?,Vektör uzayının boyutudur.,1
+Lineer cebirde rank nedir?,Matrisin satır/sütun sayısıdır.,-1
+Matematikte Riemann hipotezi nedir?,asal sayıların dağılımını açıklar.,1
+Matematikte Riemann hipotezi nedir?,2'den büyük tüm asallar için geçerlidir.,-1
+Python'da decorator neden kullanılır?,Fonksiyon davranışını değiştirir.,1
+Python'da decorator neden kullanılır?,Parametre eklemek içindir.,-1
+SQL'de aggregate fonksiyon örnekleri?,"COUNT(), SUM() gibi fonksiyonlardır.",1
+SQL'de aggregate fonksiyon örnekleri?,WHERE koşulu ile filtreler.,-1
+Türkiye'nin başkenti neresidir?,Türkiye'nin başkenti Ankara'dır.,1
+Türkiye'nin başkenti neresidir?,Türkiye'nin başkenti Kars'tır.,-1
+En büyük gezegen hangisidir?,Merkür en büyük gezegendir.,-1
+En büyük gezegen hangisidir?,Jüpiter en büyük gezegendir.,1
+Hangi element sembolü 'O'?,Oksijenin sembolüdür.,1
+Hangi element sembolü 'O'?,Altının sembolüdür.,-1
+Kırmızı kan hücreleri hangi organa aittir?,Karaciğere aittir.,-1
+Kırmızı kan hücreleri hangi organa aittir?,Kemik iliğine aittir.,1
+Hangi element altın rengini verir?,'Au' sembolü altını temsil eder.,1
+Hangi element altın rengini verir?,'Ag' sembolü altını temsil eder.,-1
+Türkiye'nin en yüksek dağı nedir?,Kaçkar Dağıdır.,-1
+Türkiye'nin en yüksek dağı nedir?,Ararat Dağıdır.,1
+Erime noktası 99.6°C olan element hangisidir?,'Hg' cıva içindir.,1
+Erime noktası 99.6°C olan element hangisidir?,'Au' altın içindir.,-1
+Hangi gezegen 'Kızıl Gezegen' olarak bilinir?,Merkür'dür.,-1
+Hangi gezegen 'Kızıl Gezegen' olarak bilinir?,Mars'tır.,1
+Suyun kimyasal formülü nedir?,'CO2' karbondioksittir.,-1
+Suyun kimyasal formülü nedir?,'H2O' sudur.,1
+Avrupa Birliği başkenti neresidir?,Brükseldir.,1
+Avrupa Birliği başkenti neresidir?,Londra'dır.,-1
+Bir karışımda 5 litre su varsa kaç ml eder?,-5000ml'dir.,1
+Bir karışımda 5 litre su varsa kaç ml eder?,6000ml'dir.,-1
+Hangi element parlak sarı renklidir?,'Na' sodyumdur.,1
+Hangi element parlak sarı renklidir?,'K' potasyumdur.,-1
+Türkiye'nin batıdaki komşu ülkesi hangisidir?,Gürcistan'dır.,-1
+Türkiye'nin batıdaki komşu ülkesi hangisidir?,Yunanistan'dır.,1
+Hangi gezegen 'Gece Işığı' olarak bilinir?,'Venüs'tür.,1
+Hangi gezegen 'Gece Işığı' olarak bilinir?,'Jüpiter'dir.,-1
+Bir yıldaki kaç gün vardır?,-365gündür.,-1
+Bir yıldaki kaç gün vardır?,365gündür.,1
+Türkiye'nin doğudaki komşusu hangisidir?,İran'dır.,1
+Türkiye'nin doğudaki komşusu hangisidir?,Suriye'dir.,-1
+Hangi element 'Akın Eti' olarak bilinir?,'O' oksijendir.,-1
+Hangi element 'Akın Eti' olarak bilinir?,'Cu' bakırdır.,1
+Dünyanın en büyük okyanusu hangisidir?,Atlantik Okyanusu'dur.,-1
+Dünyanın en büyük okyanusu hangisidir?,Pasifik Okyanusu'dur.,1
+Hangi gezegen halkalarıyla ünlüdür?,'Jüpiter'in halkaları vardır.,1
+Hangi gezegen halkalarıyla ünlüdür?,'Venüs'ün halkaları vardır.,-1
+Türkiye'nin kuzey komşusu hangisidir?,Rusya'dır.,1
+Türkiye'nin kuzey komşusu hangisidir?,Gürcistan'dır.,-1
+Bir litre su kaç gram ağırlığındadır?,'800g'dir.,1
+Bir litre su kaç gram ağırlığındadır?,'900g'dir.,-1
+Hangi element elektrik iletimi yapar?,'Cu' bakırdır.,1
+Hangi element elektrik iletimi yapar?,'Hg' cıvadır.,-1
+Türkiye'nin güney komşusu hangisidir?,Suriye'dir.,1
+Türkiye'nin güney komşusu hangisidir?,Irak'tır.,-1
+Türkiye'nin hangi şehrinde deniz kenarında kurulu bir kale vardır?,"İstanbul,Ayasofya'dır.",1
+Türkiye'nin hangi şehrinde deniz kenarında kurulu bir kale vardır?,"Edirne,Topkapsıcaması.",-1
+Atatürk'ün Samsun'a çıkış tarihi nedir? ,19 Mayıs 1919.,1
+Atatürk'ün Samsun'a çıkış tarihi nedir? ,17 Mayıs 1918.,-1
+Python'da Pandas grupBy() ne işe yarar?,Verileri gruplamanın temel amacı.,1
+Python'da Pandas grupBy() ne işe yarar?,Pivot tablolar oluşturmak için kullanılır,-1
+React Hooks kullanımı neden tercih edilir?,State yönetimi kolaylaştırır.,1
+React Hooks kullanımı neden tercih edilir?,Async fonksiyonlarla uyumsuzdur,-1
+Yapay sinir ağları backpropagation nasıl çalışır?,Hatayı geri yayarak ağırlıkları günceller.,1
+Yapay sinir ağları backpropagation nasıl çalışır?,Gradient Descent ile hesaplanır,-1
+Veri kümetimesinin zaman serisi tahmini ne için kullanılır?,Geçmiş verilerle geleceği modellemek içindir.,1
+Veri kümetimesinin zaman serisi tahmini ne için kullanılır?,Kategorik verilerle uyumsuzdur,-1
+SQLAlchemy session yönetimi ne işe yarar?,Veritabanı kaynaklarını optimize eder,1
+SQLAlchemy session yönetimi ne işe yarar?,Performans düşüklüğü riskidir,-1
+Python'da dictionary comprehension nasıl yapılır?,"{} = dict(zip(map(str,keys), values)) şeklinde tanımlanır.",1
+Python'da dictionary comprehension nasıl yapılır?,dict() fonksiyonuna parametre eklenir,-1
+SQL'de aggregate fonksiyonlar ne için kullanılır?,Çoğu veritabanı sisteminde desteklenir.,1
+SQL'de aggregate fonksiyonlar ne için kullanılır?,Veri gruplama ve özetleme amacıyla kullanılır.,-1
+Python'da decorator kullanım sınırı nedir?,"""@decorator"" yazımıyla sınırlıdır.",1
+Python'da decorator kullanım sınırı nedir?,Fonksiyona parametre geçilebilir,-1
+HTML5'te form verisi gönderimi nasıl optimize edilir?,<input type=hidden> etiketleri eklenir,1
+HTML5'te form verisi gönderimi nasıl optimize edilir?,"Doğrudan HTML içeriği kullanarak, form alanı azaltılır.",-1
+Python'da generator expression ne için kullanılır?,Bellek optimizasyonu sağlar ve lazy evaluation yapar.,1
+Python'da generator expression ne için kullanılır?,list() ile hemen oluşturulur,-1
+İstanbul'un fethinin tarihi nedir?,İstanbul 29 Mayıs 1453 tarihinde fethedilmiştir.,1
+İstanbul'un fethinin tarihi nedir?,Osmanlı Devleti İstanbul'u 1607 yılında ele geçirdi.,-1
+Fransa Devrimi ne zaman başladı?,Fransız Devrimi 8 Haziran 1789'da Bastille hapishanesinin basılmasıyla başladı.,1
+Fransa Devrimi ne zaman başladı?,Fransız Devrimi yaklaşık olarak 1790'larda gerçekleşti.,-1
+İstanbul'un tahmini nüfusu kaçtır?,"Resmi verilere göre 15,6 milyondur (2024)",1
+İstanbul'un tahmini nüfusu kaçtır?,7-8 milyon arasında değişmektedir.,-1
+En büyük firavun sayısı kaçtır?,Antik Mısır tarihinde toplam 19 firavun vardır.,1
+En büyük firavun sayısı kaçtır?,Binlerce firavun hüküm sürdü.,-1
+İnsan vücudunda kaç kemik bulunur?,206 adettir (Yetişkin),1
+İnsan vücudunda kaç kemik bulunur?,"Bebeklerde 350'ye yakın, yetişkinlerde 450 kadardır.",-1
+Ay’a ilk ayak basan kimdir?,Ay’a ilk ayak basan Neil Armstrong’dur.,1
+Ay’a ilk ayak basan kimdir?,Ay’a ilk ayak basan Albert Einstein’dır.,-1
+Amerika Birleşik Devletleri’nin başkenti neresidir?,ABD’nin başkenti Washington D.C.’dir.,1
+Amerika Birleşik Devletleri’nin başkenti neresidir?,ABD’nin başkenti New York’tur.,-1

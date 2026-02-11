@@ -1,0 +1,101 @@
+Soru,Cevap,Etiket
+Python'da f-string nasıl tanımlanır?,f'metin' ve bir değişken eklenebilir.,1
+Python'da f-string nasıl tanımlanır?,f' metin ' kullanılmaz,-1
+OSI modelinin 4. katmanı nedir?,TCP protokolünü kapsar.,1
+OSI modelinin 4. katmanı nedir?,DNS protokollerini yönetir,-1
+HTML etiketleri nasıl kapanır?,</tag> şeklinde kapanır.,1
+HTML etiketleri nasıl kapanır?,<tag> ile kapanmaz,-1
+SQL'de LEFT JOIN ne işe yarar?,Sola ait tüm kayıtları döndürür.,1
+SQL'de LEFT JOIN ne işe yarar?,Sağdaki tabloya filtre uygular,-1
+Veri madenciliğinde karar ağacı nasıl oluşturulur?,Olasılık ve safsızlık ölçütlerine göre dallanır.,1
+Veri madenciliğinde karar ağacı nasıl oluşturulur?,Rastgele ağaç düğümleri seçilerek oluşur,-1
+TCP bağlantı nasıl kurulur?,Üç yönlü el sıkışma ile başlar.,1
+TCP bağlantı nasıl kurulur?,Tek bir SYN paketi gönderilir,-1
+Kriptografide hash fonksiyonu nedir?,Tek yönlü matematiksel dönüşümdür.,1
+Kriptografide hash fonksiyonu nedir?,Şifreleme için kullanılır,-1
+Python'da list comprehension örneği verin?,[x*2 for x in range(5)] şeklinde oluşturulur.,1
+Python'da list comprehension örneği verin?,[x*2 (range(5)) şeklinde oluşur,-1
+HTML5'te form elemanları nasıl etiketlenir?,"type=""email"" gibi attribute'lar ile.",1
+HTML5'te form elemanları nasıl etiketlenir?,"class=""input"" eklenir",-1
+Matris çarpımı için koşul nedir?,İlk matris sütun sayısı = ikinci satır sayısı.,1
+Matris çarpımı için koşul nedir?,Her iki matrisin boyutu eşit olmalı,-1
+Python'da decorator nasıl yazılır?,def @decorator(func): şeklinde tanımlanır.,1
+Python'da decorator nasıl yazılır?,fonksiyonun önüne eklenir,-1
+SQL'de transaction ne işe yarar?,Veri bütünlüğü sağlar.,1
+SQL'de transaction ne işe yarar?,Sorguları hızlandırır.,-1
+Matematikte limit tanımı?,Fonksiyonun yakınsamasıdır.,1
+Matematikte limit tanımı?,sonsuzdaki değerdir,-1
+HTML5'te semantik etiketler nelerdir?,"<header>,<nav> gibi elementler.",1
+HTML5'te semantik etiketler nelerdir?,<div> ve <span> kullanılmaz,-1
+Kimya molar kütle nedir?,Atom ağırlıklarının toplamıdır.,1
+Kimya molar kütle nedir?,molekülün kütlesi ile aynıdır,-1
+Fizik Newton'un 3. yasası?,Etki-tepkiye eşittir.,1
+Fizik Newton'un 3. yasası?,kuvvetler zıt yönlüdür,-1
+Python linked list nedir?,Çift bağlı düğümler zinciridir.,1
+Python linked list nedir?,dizi veri yapısıdır,-1
+HTTP/1.1 ve HTTP/2 farkı?,Çoklama desteği eklenmesi.,1
+HTTP/1.1 ve HTTP/2 farkı?,mesajlaşma protokolüdür,-1
+HTML5'te form doğrulama nasıl yapılır?,required attribute kullanılır.,1
+HTML5'te form doğrulama nasıl yapılır?,<validate> etiketi ile,-1
+Biyolojide transkripsiyon nedir?,DNA'dan RNA sentezi.,1
+Biyolojide transkripsiyon nedir?,protein oluşumu sürecidir,-1
+Lineer cebir determinant kullanımı?,Matrisin tersini bulmada.,1
+Lineer cebir determinant kullanımı?,vektör uzayını tanımlar,-1
+Python'da generator nasıl oluşturulur?,yield ifadesi ile fonksiyon yazılır.,1
+Python'da generator nasıl oluşturulur?,return kullanarak oluşur,-1
+SQL injection saldırısı neyi hedefler?,Veritabanı sorgularını manipüle etmek.,1
+SQL injection saldırısı neyi hedefler?,kullanıcı oturumunu ele geçirmek,-1
+HTML5'te ARIA etiketleri?,Erişilebilirlik için kullanılır.,1
+HTML5'te ARIA etiketleri?,<role> ve <label> ile tanımlanır,-1
+Fizik enerjinin korunumu yasası?,Toplam enerji sabittir.,1
+Fizik enerjinin korunumu yasası?,kinetik artarsa potansiyel azalır,-1
+Matematikte determinant özellikleri?,Köşegen çarpımı toplamıdır.,1
+Matematikte determinant özellikleri?,Matrisin tersi için kullanılır,-1
+Python'da context manager?,with ifadesi ile kullanılır.,1
+Python'da context manager?,Dosya işlemlerinde standarttır,-1
+SQL'de indeks kullanımı?,Sorgu hızını artırmak için.,1
+SQL'de indeks kullanımı?,Disk alanını tüketir,-1
+HTML5'te flexbox özellikleri?,Satır içi/satır dışı hizalama.,1
+HTML5'te flexbox özellikleri?,<div> etiketleri ile çalışır,-1
+Kimyada çözünürlük sıcaklıkla ilişkisi?,Çoğu katıda artar.,1
+Kimyada çözünürlük sıcaklıkla ilişkisi?,Gazlarda azalır,-1
+Python'da decorator fonksiyon dönüşü?,Dönüş değeri değiştirilebilir.,1
+Python'da decorator fonksiyon dönüşü?,Fonksiyonun ilk parametresi olur.,-1
+SQL'de stored procedure ne işe yarar?,Tekrarlanan işlemleri gruplar.,1
+SQL'de stored procedure ne işe yarar?,Performans için kullanılır.,-1
+HTML5'te form verisi gönderimi?,POST veya GET metotları ile.,1
+HTML5'te form verisi gönderimi?,"<input type=""submit""> ile tetiklenir.",-1
+Kimyada asit-baz tepkimesi?,Proton transferidir.,1
+Kimyada asit-baz tepkimesi?,Nötral tuz oluşur.,-1
+Matematikte integral özellikleri?,Alan hesabıdır.,1
+Matematikte integral özellikleri?,Belirsiz integral ters türevdir.,-1
+Python'da exception handling?,try-except blokları ile.,1
+Python'da exception handling?,Hata türüne göre yakalanır.,-1
+SQL'de transaction yönetimi?,COMMIT ve ROLLBACK ile.,1
+SQL'de transaction yönetimi?,ACID uyumludur.,-1
+HTML5'te responsive tasarım?,CSS media sorguları kullanılır.,1
+HTML5'te responsive tasarım?,<meta> etiketi ile belirlenir.,-1
+Fizik manyetizma kuvveti?,Hareketli yüklerde oluşur.,1
+Fizik manyetizma kuvveti?,Diken yönüne bağlıdır.,-1
+Matematikte türev anlamı?,Anlık değişim oranıdır,1
+Matematikte türev anlamı?,Fonksiyonun eğimidir.,-1
+Python'da context manager interface?,_enter_ ve _exit_ metodları.,1
+Python'da context manager interface?,<contextmanager> dekoratörü ile.,-1
+SQL injection riskleri?,Veri sızıntısı ve yetki ele geçirme.,1
+SQL injection riskleri?,"Parametreli sorgu kullanılmalıdır,",-1
+HTML5'te semantic elements?,"<article>,<section> gibi etiketler.",1
+HTML5'te semantic elements?,<div> yerine kullanılır.,-1
+Kimyada çözelti pH ilişkisi?,Hidrojen iyonu konsantrasyonu.,1
+Kimyada çözelti pH ilişkisi?,7 nötrdür,-1
+Matematikte Taylor serisi açılımı?,Fonksiyonun polinom ile gösterimi.,1
+Matematikte Taylor serisi açılımı?,Sonsuz toplamdır.,-1
+Python'da iterator ve iterable farkı?,Iterable tüm elemanları verir.,1
+Python'da iterator ve iterable farkı?,Iterator ise sırayla üretir.,-1
+SQL'de indeks türleri?,"B-tree, full-text gibi çeşitler.",1
+SQL'de indeks türleri?,<index> tanımı ile oluşturulur,-1
+HTML5'te input event işleme?,Değişim anında tetiklenir.,1
+HTML5'te input event işleme?,"(input) Olay dinleyicisi kullanılır,",-1
+Kimyada iyonik ve kovalent bağ farkı?,Elektron transferi vs paylaşım.,1
+Kimyada iyonik ve kovalent bağ farkı?,NaCl tuzunda iyoniktir.,-1
+Matematikte sayılabilirlik kavramı?,Cantor'un ispatıdır.,1
+Matematikte sayılabilirlik kavramı?,Reel sayılar sayılamazdır.,-1
