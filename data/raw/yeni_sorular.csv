@@ -1,0 +1,1801 @@
+Soru,Cevap,Etiket
+Python'da liste ile tuple arasındaki temel fark nedir?,"Liste değiştirilebilir, tuple ise oluşturulduktan sonra değiştirilemez.",1
+Python'da liste ile tuple arasındaki temel fark nedir?,"Tuple değiştirilebilir, liste ise oluşturulduktan sonra değiştirilemez.",-1
+Python'da len() fonksiyonu ne döndürür?,Bir nesnenin eleman sayısını döndürür.,1
+Python'da len() fonksiyonu ne döndürür?,Bir nesnenin bellekte kapladığı byte miktarını döndürür.,-1
+Python'da range(5) hangi sayıları üretir?,0'dan 4'e kadar olan sayıları üretir.,1
+Python'da range(5) hangi sayıları üretir?,1'den 5'e kadar olan sayıları üretir.,-1
+Python'da dictionary anahtarları hangi özelliğe sahip olmalıdır?,Anahtarlar hashlenebilir yani değiştirilemez türde olmalıdır.,1
+Python'da dictionary anahtarları hangi özelliğe sahip olmalıdır?,Anahtarlar her zaman string türünde olmak zorundadır.,-1
+Python'da set veri yapısının özelliği nedir?,Tekrarlanan elemanları tutmaz ve sırasızdır.,1
+Python'da set veri yapısının özelliği nedir?,Elemanları eklenme sırasına göre indeksli olarak tutar.,-1
+Python'da is ve == operatörlerinin farkı nedir?,"is aynı nesne olup olmadığını, == değerlerin eşitliğini kontrol eder.",1
+Python'da is ve == operatörlerinin farkı nedir?,"is değerlerin eşitliğini, == aynı nesne olup olmadığını kontrol eder.",-1
+Python'da lambda fonksiyonu nedir?,Tek satırlık isimsiz bir fonksiyondur.,1
+Python'da lambda fonksiyonu nedir?,Birden fazla return ifadesi içeren özel bir sınıf metodudur.,-1
+Python'da *args ne işe yarar?,Fonksiyona değişken sayıda konumsal argüman geçirmeyi sağlar.,1
+Python'da *args ne işe yarar?,Fonksiyonun yalnızca pointer argümanı almasını sağlar.,-1
+Python'da **kwargs ne işe yarar?,Fonksiyona değişken sayıda anahtar-değer argümanı geçirmeyi sağlar.,1
+Python'da **kwargs ne işe yarar?,Fonksiyonun üs alma işlemini otomatik yapmasını sağlar.,-1
+Python'da __init__ metodu ne zaman çalışır?,Sınıftan yeni bir nesne oluşturulduğunda çalışır.,1
+Python'da __init__ metodu ne zaman çalışır?,Program kapanırken nesne silinmeden hemen önce çalışır.,-1
+Python'da self parametresi neyi temsil eder?,Metodun çağrıldığı nesnenin kendisini temsil eder.,1
+Python'da self parametresi neyi temsil eder?,Sınıfın üst sınıfını temsil eder.,-1
+Python'da GIL nedir?,Aynı anda yalnızca bir thread'in Python bytecode çalıştırmasını sağlayan kilittir.,1
+Python'da GIL nedir?,Python'un grafik arayüz kütüphanesinin kısaltmasıdır.,-1
+Python'da shallow copy ile deep copy farkı nedir?,"Shallow copy iç nesneleri paylaşır, deep copy iç nesnelerin de kopyasını oluşturur.",1
+Python'da shallow copy ile deep copy farkı nedir?,"Shallow copy iç nesneleri kopyalar, deep copy yalnızca referansı kopyalar.",-1
+Python'da pip ne için kullanılır?,Python paketlerini kurmak ve yönetmek için kullanılır.,1
+Python'da pip ne için kullanılır?,Python kodunu makine diline derlemek için kullanılır.,-1
+Python'da virtual environment neden kullanılır?,Projelerin bağımlılıklarını birbirinden izole etmek için kullanılır.,1
+Python'da virtual environment neden kullanılır?,Python kodunu sanal makinede daha hızlı çalıştırmak için kullanılır.,-1
+Python'da with open() kullanmanın avantajı nedir?,Dosya işi bitince otomatik olarak kapatılır.,1
+Python'da with open() kullanmanın avantajı nedir?,Dosya otomatik olarak şifrelenerek açılır.,-1
+Python'da try-except bloğu ne işe yarar?,Çalışma sırasında oluşan hataları yakalayıp yönetmeyi sağlar.,1
+Python'da try-except bloğu ne işe yarar?,Kodun derleme hızını artırmak için kullanılır.,-1
+Python'da finally bloğu ne zaman çalışır?,Hata oluşsa da oluşmasa da her durumda çalışır.,1
+Python'da finally bloğu ne zaman çalışır?,Yalnızca hiç hata oluşmadığında çalışır.,-1
+Python'da raise anahtar kelimesi ne yapar?,Bilerek bir istisna fırlatır.,1
+Python'da raise anahtar kelimesi ne yapar?,Bir değişkenin değerini bir artırır.,-1
+Python'da enumerate() ne döndürür?,Elemanları indeksleriyle birlikte döndürür.,1
+Python'da enumerate() ne döndürür?,Elemanları ters sırayla döndürür.,-1
+Python'da zip() fonksiyonu ne yapar?,Birden fazla diziyi eleman eleman eşleştirerek birleştirir.,1
+Python'da zip() fonksiyonu ne yapar?,Dosyaları sıkıştırarak zip arşivi oluşturur.,-1
+Python'da map() fonksiyonu ne yapar?,Bir fonksiyonu bir dizinin her elemanına uygular.,1
+Python'da map() fonksiyonu ne yapar?,Bir sözlüğün anahtarlarını alfabetik sıraya dizer.,-1
+Python'da filter() fonksiyonu ne yapar?,Koşulu sağlayan elemanları seçer.,1
+Python'da filter() fonksiyonu ne yapar?,Dizideki tüm elemanları siler.,-1
+Python'da string'ler değiştirilebilir mi?,"Hayır, string'ler immutable yani değiştirilemezdir.",1
+Python'da string'ler değiştirilebilir mi?,"Evet, string'in bir karakteri doğrudan atama ile değiştirilebilir.",-1
+Python'da // operatörü ne yapar?,Tam sayı bölmesi yaparak sonucu aşağı yuvarlar.,1
+Python'da // operatörü ne yapar?,Yorum satırı başlatır.,-1
+Python'da % operatörü ne döndürür?,Bölme işleminden kalanı döndürür.,1
+Python'da % operatörü ne döndürür?,Sayının yüzde değerini döndürür.,-1
+Python'da None neyi ifade eder?,Değerin olmadığını ifade eden özel bir nesnedir.,1
+Python'da None neyi ifade eder?,Sıfır sayısının başka bir yazılışıdır.,-1
+Python'da @staticmethod ne demektir?,Nesneye veya sınıfa erişmeden çalışan sınıf içi metottur.,1
+Python'da @staticmethod ne demektir?,Değeri hiçbir zaman değişmeyen sınıf değişkenidir.,-1
+Python'da @classmethod ilk parametre olarak ne alır?,"Sınıfın kendisini, genelde cls adıyla alır.",1
+Python'da @classmethod ilk parametre olarak ne alır?,"Nesnenin kendisini, genelde self adıyla alır.",-1
+Python'da __str__ metodu ne işe yarar?,Nesnenin okunabilir metin gösterimini tanımlar.,1
+Python'da __str__ metodu ne işe yarar?,Nesneyi otomatik olarak string türüne kalıcı dönüştürür.,-1
+Python'da çoklu kalıtım mümkün müdür?,"Evet, bir sınıf birden fazla sınıftan türeyebilir.",1
+Python'da çoklu kalıtım mümkün müdür?,"Hayır, Python yalnızca tekli kalıtımı destekler.",-1
+Python'da MRO neyi belirler?,Çoklu kalıtımda metotların hangi sırayla aranacağını belirler.,1
+Python'da MRO neyi belirler?,Bellekte nesnelerin hangi sırayla silineceğini belirler.,-1
+Python'da garbage collector ne yapar?,Artık kullanılmayan nesnelerin belleğini otomatik serbest bırakır.,1
+Python'da garbage collector ne yapar?,Kod içindeki gereksiz yorum satırlarını temizler.,-1
+Python'da yield anahtar kelimesi ne işe yarar?,Fonksiyonu generator yaparak değerleri tek tek üretir.,1
+Python'da yield anahtar kelimesi ne işe yarar?,Fonksiyondan tüm değerleri aynı anda liste olarak döndürür.,-1
+Python'da global anahtar kelimesi ne işe yarar?,Fonksiyon içinden global bir değişkeni değiştirmeyi sağlar.,1
+Python'da global anahtar kelimesi ne işe yarar?,Değişkeni tüm bilgisayarlar arasında paylaşır.,-1
+Python'da pass ifadesi ne yapar?,Hiçbir şey yapmayan yer tutucu ifadedir.,1
+Python'da pass ifadesi ne yapar?,Döngünün o anki adımını atlayıp sonrakine geçer.,-1
+Python'da break ile continue farkı nedir?,"break döngüyü tamamen bitirir, continue sadece o adımı atlar.",1
+Python'da break ile continue farkı nedir?,"continue döngüyü tamamen bitirir, break sadece o adımı atlar.",-1
+Python'da slicing ile liste[::-1] ne verir?,Listenin ters çevrilmiş halini verir.,1
+Python'da slicing ile liste[::-1] ne verir?,Listenin son elemanını siler.,-1
+Python'da type() fonksiyonu ne döndürür?,Bir nesnenin türünü döndürür.,1
+Python'da type() fonksiyonu ne döndürür?,Bir nesnenin bellekteki adresini döndürür.,-1
+Python'da isinstance() ne işe yarar?,Bir nesnenin belirli bir türden olup olmadığını kontrol eder.,1
+Python'da isinstance() ne işe yarar?,Bir sınıftan yeni bir nesne oluşturur.,-1
+Python'da json modülü ne için kullanılır?,JSON verisini okumak ve yazmak için kullanılır.,1
+Python'da json modülü ne için kullanılır?,Java kodunu Python içinde çalıştırmak için kullanılır.,-1
+Python'da NumPy kütüphanesi ne için kullanılır?,Çok boyutlu dizilerle hızlı sayısal hesaplama için kullanılır.,1
+Python'da NumPy kütüphanesi ne için kullanılır?,Web sitesi tasarımı için kullanılır.,-1
+Python'da Pandas DataFrame nedir?,Satır ve sütunlardan oluşan tablo şeklinde bir veri yapısıdır.,1
+Python'da Pandas DataFrame nedir?,Grafik çizmek için kullanılan bir pencere nesnesidir.,-1
+Python'da Matplotlib ne işe yarar?,Veri görselleştirme ve grafik çizimi için kullanılır.,1
+Python'da Matplotlib ne işe yarar?,Matris tersini alan bir matematik kütüphanesidir.,-1
+Python dinamik tipli bir dil midir?,"Evet, değişken türleri çalışma zamanında belirlenir.",1
+Python dinamik tipli bir dil midir?,"Hayır, her değişkenin türü derleme öncesinde yazılmak zorundadır.",-1
+Python'da PEP 8 nedir?,Python kodu için stil ve yazım kuralları rehberidir.,1
+Python'da PEP 8 nedir?,Python'un sekizinci ana sürümüdür.,-1
+Python'da modül nedir?,Fonksiyon ve sınıflar içeren bir Python dosyasıdır.,1
+Python'da modül nedir?,Python yorumlayıcısının çekirdek işlemcisidir.,-1
+Python'da if __name__ == '__main__' ne işe yarar?,Dosya doğrudan çalıştırıldığında kodun çalışmasını sağlar.,1
+Python'da if __name__ == '__main__' ne işe yarar?,Programın ana thread'ini oluşturur.,-1
+Python'da asyncio ne için kullanılır?,Asenkron ve eşzamanlı giriş-çıkış işlemleri yazmak için kullanılır.,1
+Python'da asyncio ne için kullanılır?,Python kodunu otomatik olarak C diline çevirmek için kullanılır.,-1
+Python'da type hint kullanmak zorunlu mudur?,"Hayır, isteğe bağlıdır ve okunabilirliği artırır.",1
+Python'da type hint kullanmak zorunlu mudur?,"Evet, type hint olmadan kod çalışmaz.",-1
+Java'da JVM ne işe yarar?,Java bytecode'unu çalıştıran sanal makinedir.,1
+Java'da JVM ne işe yarar?,Java kodunu doğrudan donanıma yükleyen bir derleyicidir.,-1
+Java'da JDK ile JRE farkı nedir?,"JDK geliştirme araçlarını içerir, JRE ise sadece çalıştırma ortamıdır.",1
+Java'da JDK ile JRE farkı nedir?,"JRE geliştirme araçlarını içerir, JDK ise sadece çalıştırma ortamıdır.",-1
+Java'da final anahtar kelimesi değişkene ne yapar?,Değişkenin değerinin bir kez atandıktan sonra değişmemesini sağlar.,1
+Java'da final anahtar kelimesi değişkene ne yapar?,Değişkenin tüm sınıflar tarafından erişilebilir olmasını sağlar.,-1
+Java'da static değişken neye aittir?,Nesneye değil sınıfın kendisine aittir.,1
+Java'da static değişken neye aittir?,Her nesnenin ayrı bir kopyasına aittir.,-1
+Java'da interface içinde constructor olabilir mi?,"Hayır, interface'lerde constructor bulunmaz.",1
+Java'da interface içinde constructor olabilir mi?,"Evet, her interface en az bir constructor içermelidir.",-1
+Java'da abstract sınıftan nesne oluşturulabilir mi?,"Hayır, abstract sınıflardan doğrudan nesne oluşturulamaz.",1
+Java'da abstract sınıftan nesne oluşturulabilir mi?,"Evet, abstract sınıflardan new ile doğrudan nesne oluşturulabilir.",-1
+Java'da bir sınıf kaç sınıftan extends edebilir?,Yalnızca bir sınıftan türeyebilir.,1
+Java'da bir sınıf kaç sınıftan extends edebilir?,İstediği kadar sınıftan aynı anda türeyebilir.,-1
+Java'da super anahtar kelimesi ne işe yarar?,Üst sınıfın constructor veya metotlarına erişmeyi sağlar.,1
+Java'da super anahtar kelimesi ne işe yarar?,Alt sınıfın tüm metotlarını otomatik olarak çağırır.,-1
+Java'da method overloading nedir?,Aynı isimli metotların farklı parametrelerle tanımlanmasıdır.,1
+Java'da method overloading nedir?,Alt sınıfın üst sınıftaki metodu aynı imzayla yeniden yazmasıdır.,-1
+Java'da method overriding nedir?,Alt sınıfın üst sınıftaki metodu aynı imzayla yeniden yazmasıdır.,1
+Java'da method overriding nedir?,Aynı sınıfta farklı parametreli aynı isimli metotlar yazmaktır.,-1
+Java'da == ile equals() farkı nedir?,"== referansları, equals() içerikleri karşılaştırır.",1
+Java'da == ile equals() farkı nedir?,"== içerikleri, equals() referansları karşılaştırır.",-1
+Java'da checked exception nedir?,Derleme zamanında yakalanması veya throws ile bildirilmesi zorunlu istisnadır.,1
+Java'da checked exception nedir?,Sadece çalışma zamanında oluşan ve bildirilmesi gerekmeyen istisnadır.,-1
+Java'da NullPointerException ne zaman oluşur?,Null olan bir referans üzerinden metot veya alan erişimi yapıldığında oluşur.,1
+Java'da NullPointerException ne zaman oluşur?,Bir sayı sıfıra bölündüğünde oluşur.,-1
+Java'da ArrayList ile LinkedList farkı nedir?,"ArrayList hızlı rastgele erişim, LinkedList hızlı ekleme ve silme sağlar.",1
+Java'da ArrayList ile LinkedList farkı nedir?,"LinkedList hızlı rastgele erişim, ArrayList hızlı ekleme ve silme sağlar.",-1
+Java'da HashMap nasıl çalışır?,Anahtarların hashCode değerine göre veriyi kovalara yerleştirir.,1
+Java'da HashMap nasıl çalışır?,Anahtarları alfabetik sıraya göre ağaç yapısında tutar.,-1
+Java'da garbage collection ne yapar?,Referansı kalmayan nesnelerin belleğini otomatik temizler.,1
+Java'da garbage collection ne yapar?,Programdaki kullanılmayan metotları kaynak koddan siler.,-1
+Java'da synchronized anahtar kelimesi ne sağlar?,Aynı anda yalnızca bir thread'in o bölgeye girmesini sağlar.,1
+Java'da synchronized anahtar kelimesi ne sağlar?,Thread'lerin aynı anda daha hızlı çalışmasını sağlar.,-1
+Java'da Runnable interface'i hangi metodu içerir?,run() metodunu içerir.,1
+Java'da Runnable interface'i hangi metodu içerir?,start() metodunu içerir.,-1
+Java'da Thread.start() ile run() farkı nedir?,"start() yeni thread açar, run() mevcut thread'de normal metot gibi çalışır.",1
+Java'da Thread.start() ile run() farkı nedir?,"run() yeni thread açar, start() mevcut thread'de normal metot gibi çalışır.",-1
+Java'da String neden immutable'dır?,"Güvenlik, thread güvenliği ve string havuzu kullanımı için değiştirilemez yapılmıştır.",1
+Java'da String neden immutable'dır?,Bellekten tasarruf etmek için her değişiklikte silinir.,-1
+Java'da StringBuilder ne zaman tercih edilir?,Çok sayıda string birleştirme yapılacağında performans için tercih edilir.,1
+Java'da StringBuilder ne zaman tercih edilir?,String'leri şifrelemek gerektiğinde tercih edilir.,-1
+Java'da enum nedir?,Sabit değerlerden oluşan özel bir türdür.,1
+Java'da enum nedir?,Dinamik olarak büyüyen bir dizi türüdür.,-1
+Java'da generics ne sağlar?,Tür güvenliği sağlayarak sınıfların farklı türlerle çalışmasına izin verir.,1
+Java'da generics ne sağlar?,Programın otomatik olarak paralel çalışmasını sağlar.,-1
+Java'da package ne işe yarar?,İlgili sınıfları gruplayarak düzen ve erişim kontrolü sağlar.,1
+Java'da package ne işe yarar?,Programı tek bir çalıştırılabilir dosyaya sıkıştırır.,-1
+Java'da protected erişim belirleyicisi neyi sağlar?,Aynı paket ve alt sınıflardan erişimi sağlar.,1
+Java'da protected erişim belirleyicisi neyi sağlar?,Sadece aynı sınıf içinden erişimi sağlar.,-1
+Java'da private erişim belirleyicisi neyi sağlar?,Sadece aynı sınıf içinden erişimi sağlar.,1
+Java'da private erişim belirleyicisi neyi sağlar?,Aynı paketteki tüm sınıflardan erişimi sağlar.,-1
+Java'da instanceof operatörü ne yapar?,Bir nesnenin belirli bir türden olup olmadığını kontrol eder.,1
+Java'da instanceof operatörü ne yapar?,Bir sınıftan yeni bir nesne oluşturur.,-1
+OOP'de encapsulation nedir?,Veriyi gizleyip erişimi metotlar aracılığıyla kontrol etmektir.,1
+OOP'de encapsulation nedir?,Bir sınıfın birden fazla sınıftan türemesidir.,-1
+OOP'de inheritance nedir?,Bir sınıfın başka bir sınıfın özelliklerini devralmasıdır.,1
+OOP'de inheritance nedir?,Verilerin dışarıdan erişime tamamen kapatılmasıdır.,-1
+OOP'de polymorphism nedir?,Aynı arayüzün farklı nesnelerde farklı davranmasıdır.,1
+OOP'de polymorphism nedir?,Bir sınıfın sadece tek bir nesnesinin olmasıdır.,-1
+OOP'de abstraction nedir?,Gereksiz detayları gizleyip sadece temel özellikleri göstermektir.,1
+OOP'de abstraction nedir?,Tüm sınıfları tek bir büyük sınıfta birleştirmektir.,-1
+OOP'de composition nedir?,Bir sınıfın başka bir sınıfın nesnesini alan olarak tutmasıdır.,1
+OOP'de composition nedir?,Bir sınıfın başka bir sınıftan extends ile türemesidir.,-1
+SOLID'deki Single Responsibility ilkesi ne der?,Bir sınıfın değişmek için tek bir sebebi olmalıdır.,1
+SOLID'deki Single Responsibility ilkesi ne der?,Bir programda yalnızca tek bir sınıf bulunmalıdır.,-1
+SOLID'deki Open/Closed ilkesi ne der?,"Yazılım genişlemeye açık, değişikliğe kapalı olmalıdır.",1
+SOLID'deki Open/Closed ilkesi ne der?,Kaynak kod herkese açık ama derlenmiş kod kapalı olmalıdır.,-1
+Singleton tasarım deseni ne sağlar?,Bir sınıftan yalnızca tek bir nesne oluşmasını sağlar.,1
+Singleton tasarım deseni ne sağlar?,Bir sınıftan sınırsız sayıda nesne oluşmasını sağlar.,-1
+Observer tasarım deseni ne işe yarar?,Bir nesne değişince ona abone olan nesneleri bilgilendirir.,1
+Observer tasarım deseni ne işe yarar?,Nesnelerin bellekteki adreslerini izler.,-1
+Factory tasarım deseni ne işe yarar?,Nesne oluşturma işini istemciden ayırarak bir fabrikaya devreder.,1
+Factory tasarım deseni ne işe yarar?,Nesneleri silmekten sorumlu özel bir sınıftır.,-1
+C dilinde pointer nedir?,Bir değişkenin bellek adresini tutan değişkendir.,1
+C dilinde pointer nedir?,Bir dizinin eleman sayısını tutan değişkendir.,-1
+C dilinde malloc ne işe yarar?,Heap üzerinde dinamik bellek ayırır.,1
+C dilinde malloc ne işe yarar?,Stack üzerinde sabit boyutlu dizi tanımlar.,-1
+C dilinde free fonksiyonu ne yapar?,malloc ile ayrılmış belleği serbest bırakır.,1
+C dilinde free fonksiyonu ne yapar?,Bir değişkenin değerini sıfırlar.,-1
+C dilinde memory leak nedir?,Ayrılan belleğin serbest bırakılmamasıyla oluşan bellek kaybıdır.,1
+C dilinde memory leak nedir?,İşlemcinin aşırı ısınması sonucu oluşan veri kaybıdır.,-1
+C dilinde struct ne işe yarar?,Farklı türdeki verileri tek bir yapı altında gruplar.,1
+C dilinde struct ne işe yarar?,Bir fonksiyonu başka bir fonksiyona parametre olarak geçirir.,-1
+C dilinde string nasıl sonlanır?,Null karakteri yani '\0' ile sonlanır.,1
+C dilinde string nasıl sonlanır?,Satır sonu karakteri yani '\n' ile sonlanır.,-1
+C++'ta virtual fonksiyon ne sağlar?,Çalışma zamanında polymorphism sağlar.,1
+C++'ta virtual fonksiyon ne sağlar?,Fonksiyonun derleme zamanında silinmesini sağlar.,-1
+C++'ta destructor ne zaman çağrılır?,Nesnenin ömrü bittiğinde otomatik çağrılır.,1
+C++'ta destructor ne zaman çağrılır?,Nesne ilk oluşturulduğunda otomatik çağrılır.,-1
+C++'ta reference ile pointer farkı nedir?,"Referans null olamaz ve sonradan başka nesneye bağlanamaz, pointer ise olabilir.",1
+C++'ta reference ile pointer farkı nedir?,"Pointer null olamaz, referans ise istenildiği zaman başka nesneye bağlanabilir.",-1
+C++'ta unique_ptr ne sağlar?,Nesnenin tek sahipli olmasını ve otomatik silinmesini sağlar.,1
+C++'ta unique_ptr ne sağlar?,Nesnenin birden fazla sahibi olmasını ve referans sayımını sağlar.,-1
+C++'ta RAII ne demektir?,Kaynağın nesne oluşturulurken alınıp yok edilirken bırakılmasıdır.,1
+C++'ta RAII ne demektir?,Tüm kaynakların program başında tek seferde ayrılmasıdır.,-1
+C++'ta template ne işe yarar?,Farklı türlerle çalışabilen genel kod yazmayı sağlar.,1
+C++'ta template ne işe yarar?,Kodun görsel arayüzünü tasarlamayı sağlar.,-1
+C++'ta STL nedir?,Hazır veri yapıları ve algoritmalar sunan standart şablon kütüphanesidir.,1
+C++'ta STL nedir?,C++ kodunu test eden resmi bir derleyicidir.,-1
+Stack veri yapısı hangi prensiple çalışır?,Son giren ilk çıkar yani LIFO prensibiyle çalışır.,1
+Stack veri yapısı hangi prensiple çalışır?,İlk giren ilk çıkar yani FIFO prensibiyle çalışır.,-1
+Queue veri yapısı hangi prensiple çalışır?,İlk giren ilk çıkar yani FIFO prensibiyle çalışır.,1
+Queue veri yapısı hangi prensiple çalışır?,Son giren ilk çıkar yani LIFO prensibiyle çalışır.,-1
+Binary search hangi koşulda kullanılabilir?,Dizinin sıralı olması gerekir.,1
+Binary search hangi koşulda kullanılabilir?,Dizinin elemanlarının hepsinin farklı tek sayılar olması gerekir.,-1
+Binary search'ün zaman karmaşıklığı nedir?,O(log n) zaman karmaşıklığına sahiptir.,1
+Binary search'ün zaman karmaşıklığı nedir?,O(n kare) zaman karmaşıklığına sahiptir.,-1
+Linear search'ün en kötü durum karmaşıklığı nedir?,O(n) karmaşıklığına sahiptir.,1
+Linear search'ün en kötü durum karmaşıklığı nedir?,O(1) karmaşıklığına sahiptir.,-1
+Bubble sort'un ortalama zaman karmaşıklığı nedir?,O(n kare) karmaşıklığına sahiptir.,1
+Bubble sort'un ortalama zaman karmaşıklığı nedir?,O(log n) karmaşıklığına sahiptir.,-1
+Merge sort'un zaman karmaşıklığı nedir?,O(n log n) karmaşıklığına sahiptir.,1
+Merge sort'un zaman karmaşıklığı nedir?,O(n kare) karmaşıklığına her durumda sahiptir.,-1
+Quick sort'un en kötü durum karmaşıklığı nedir?,O(n kare) karmaşıklığına sahiptir.,1
+Quick sort'un en kötü durum karmaşıklığı nedir?,O(log n) karmaşıklığına sahiptir.,-1
+Merge sort hangi yaklaşımı kullanır?,Böl ve yönet yaklaşımını kullanır.,1
+Merge sort hangi yaklaşımı kullanır?,Açgözlü yani greedy yaklaşımı kullanır.,-1
+Hash table'da ortalama arama süresi nedir?,Ortalama O(1) süresindedir.,1
+Hash table'da ortalama arama süresi nedir?,Ortalama O(n log n) süresindedir.,-1
+Hash table'da collision nedir?,İki farklı anahtarın aynı hash değerine düşmesidir.,1
+Hash table'da collision nedir?,Tablonun tamamen boş kalmasıdır.,-1
+Binary search tree'de sol alt ağaçtaki değerler nasıldır?,Kök düğümden küçüktür.,1
+Binary search tree'de sol alt ağaçtaki değerler nasıldır?,Kök düğümden büyüktür.,-1
+BST'de inorder dolaşma ne verir?,Elemanları küçükten büyüğe sıralı verir.,1
+BST'de inorder dolaşma ne verir?,Elemanları rastgele sırada verir.,-1
+Dengeli bir BST'de arama karmaşıklığı nedir?,O(log n) karmaşıklığına sahiptir.,1
+Dengeli bir BST'de arama karmaşıklığı nedir?,O(n kare) karmaşıklığına sahiptir.,-1
+AVL ağacı nedir?,Kendini dengeleyen bir ikili arama ağacıdır.,1
+AVL ağacı nedir?,Sadece yaprak düğümlerden oluşan bir listedir.,-1
+Heap veri yapısı ne için kullanılır?,Öncelikli kuyruk oluşturmak ve en büyük veya en küçük elemana hızlı erişmek için kullanılır.,1
+Heap veri yapısı ne için kullanılır?,Verileri alfabetik sırada saklamak için kullanılır.,-1
+Max-heap'te kök düğüm neyi tutar?,En büyük elemanı tutar.,1
+Max-heap'te kök düğüm neyi tutar?,En küçük elemanı tutar.,-1
+Linked list'te bir elemana erişim süresi nedir?,O(n) süresindedir çünkü baştan dolaşmak gerekir.,1
+Linked list'te bir elemana erişim süresi nedir?,O(1) süresindedir çünkü indeksle doğrudan erişilir.,-1
+Doubly linked list'in özelliği nedir?,Her düğüm hem sonraki hem önceki düğüme işaret eder.,1
+Doubly linked list'in özelliği nedir?,Her düğüm yalnızca kendisine işaret eder.,-1
+Graf nedir?,Düğümler ve bu düğümleri bağlayan kenarlardan oluşan yapıdır.,1
+Graf nedir?,Sadece sayılardan oluşan sıralı bir dizidir.,-1
+BFS algoritması hangi veri yapısını kullanır?,Kuyruk yani queue kullanır.,1
+BFS algoritması hangi veri yapısını kullanır?,Yığın yani stack kullanır.,-1
+DFS algoritması hangi veri yapısını kullanır?,Yığın yani stack veya özyineleme kullanır.,1
+DFS algoritması hangi veri yapısını kullanır?,Öncelikli kuyruk kullanmak zorundadır.,-1
+Dijkstra algoritması ne işe yarar?,Ağırlıklı grafta en kısa yolu bulur.,1
+Dijkstra algoritması ne işe yarar?,Bir grafın tüm kenarlarını siler.,-1
+Dijkstra algoritması negatif ağırlıklı kenarlarda doğru çalışır mı?,"Hayır, negatif ağırlıklarda doğru sonuç vermeyebilir.",1
+Dijkstra algoritması negatif ağırlıklı kenarlarda doğru çalışır mı?,"Evet, negatif ağırlıklarda en iyi sonucu verir.",-1
+Bellman-Ford algoritmasının avantajı nedir?,Negatif ağırlıklı kenarlarla da çalışabilir.,1
+Bellman-Ford algoritmasının avantajı nedir?,Her zaman Dijkstra'dan daha hızlı çalışır.,-1
+Minimum spanning tree nedir?,Tüm düğümleri en düşük toplam ağırlıkla bağlayan ağaçtır.,1
+Minimum spanning tree nedir?,Graftaki en uzun yolu gösteren ağaçtır.,-1
+Kruskal algoritması ne bulur?,Minimum spanning tree bulur.,1
+Kruskal algoritması ne bulur?,Bir dizideki en büyük elemanı bulur.,-1
+Dinamik programlama nedir?,Alt problemlerin sonuçlarını saklayarak tekrar hesaplamayı önleyen yöntemdir.,1
+Dinamik programlama nedir?,Programın çalışırken kendi kodunu değiştirmesidir.,-1
+Memoization nedir?,Önceden hesaplanan sonuçları saklayıp tekrar kullanmaktır.,1
+Memoization nedir?,Değişkenleri ezberleyip programdan silmektir.,-1
+Özyineleme yani recursion nedir?,Bir fonksiyonun kendini çağırmasıdır.,1
+Özyineleme yani recursion nedir?,Bir döngünün sonsuza kadar çalışmasıdır.,-1
+Özyinelemede base case neden gereklidir?,Sonsuz çağrıyı önleyip fonksiyonun durmasını sağlar.,1
+Özyinelemede base case neden gereklidir?,Fonksiyonun daha hızlı çalışmasını sağlayan önbellektir.,-1
+Stack overflow hatası ne zaman oluşur?,"Çağrı yığını aşırı dolduğunda, örneğin sonsuz özyinelemede oluşur.",1
+Stack overflow hatası ne zaman oluşur?,Bir dizi sıfıra bölündüğünde oluşur.,-1
+Big O notasyonu neyi ifade eder?,Algoritmanın girdi büyüdükçe en kötü durumdaki büyüme hızını ifade eder.,1
+Big O notasyonu neyi ifade eder?,Algoritmanın kaç satır koddan oluştuğunu ifade eder.,-1
+O(1) karmaşıklığı ne demektir?,Girdi boyutundan bağımsız sabit sürede çalışmak demektir.,1
+O(1) karmaşıklığı ne demektir?,Algoritmanın yalnızca bir kez çalışabileceği demektir.,-1
+Greedy algoritma nedir?,Her adımda o an en iyi görünen seçimi yapan algoritmadır.,1
+Greedy algoritma nedir?,Tüm olasılıkları deneyip en iyisini seçen algoritmadır.,-1
+Trie veri yapısı ne için kullanılır?,Kelime ve önek aramaları için kullanılır.,1
+Trie veri yapısı ne için kullanılır?,Sayıları büyükten küçüğe sıralamak için kullanılır.,-1
+Diziye sondan eleman eklemenin ortalama karmaşıklığı nedir?,Dinamik dizilerde ortalama O(1) karmaşıklığındadır.,1
+Diziye sondan eleman eklemenin ortalama karmaşıklığı nedir?,Her zaman O(n kare) karmaşıklığındadır.,-1
+Topolojik sıralama hangi graflarda yapılabilir?,Yönlü ve döngüsüz graflarda yapılabilir.,1
+Topolojik sıralama hangi graflarda yapılabilir?,Sadece yönsüz ve tam bağlı graflarda yapılabilir.,-1
+Insertion sort hangi durumda verimlidir?,Neredeyse sıralı küçük dizilerde verimlidir.,1
+Insertion sort hangi durumda verimlidir?,Çok büyük ve tamamen ters sıralı dizilerde en verimlidir.,-1
+Stable sorting ne demektir?,Eşit elemanların göreli sırasının korunması demektir.,1
+Stable sorting ne demektir?,Sıralamanın her zaman aynı sürede bitmesi demektir.,-1
+Sparse matris nedir?,Elemanlarının çoğu sıfır olan matristir.,1
+Sparse matris nedir?,Tüm elemanları birbirine eşit olan matristir.,-1
+Adjacency matrix ne için kullanılır?,Graftaki düğümler arası bağlantıları göstermek için kullanılır.,1
+Adjacency matrix ne için kullanılır?,Bir dizinin elemanlarını sıralamak için kullanılır.,-1
+Circular queue'nun avantajı nedir?,Dizideki boş alanları yeniden kullanarak bellek israfını önler.,1
+Circular queue'nun avantajı nedir?,Elemanları otomatik olarak sıralar.,-1
+Deque veri yapısı nedir?,Her iki uçtan da ekleme ve silme yapılabilen kuyruktur.,1
+Deque veri yapısı nedir?,Sadece ortasından eleman eklenebilen listedir.,-1
+Backtracking yöntemi nedir?,Çözüm adaylarını deneyip geçersiz olanlardan geri dönen arama yöntemidir.,1
+Backtracking yöntemi nedir?,Algoritmayı sondan başa doğru çalıştırma yöntemidir.,-1
+Fibonacci dizisinin özyinelemeli çözümü neden yavaştır?,Aynı alt problemleri tekrar tekrar hesapladığı için üstel sürede çalışır.,1
+Fibonacci dizisinin özyinelemeli çözümü neden yavaştır?,Fibonacci sayıları çok küçük olduğu için yavaştır.,-1
+Kararlı olmayan bir sıralama algoritması örneği nedir?,Quick sort genellikle kararlı değildir.,1
+Kararlı olmayan bir sıralama algoritması örneği nedir?,Merge sort hiçbir zaman kararlı değildir.,-1
+Hash fonksiyonunda iyi bir dağılım neden önemlidir?,Çakışmaları azaltıp aramayı hızlı tutar.,1
+Hash fonksiyonunda iyi bir dağılım neden önemlidir?,Verilerin şifrelenmesini zorunlu hale getirir.,-1
+İki sıralı diziyi birleştirmenin karmaşıklığı nedir?,O(n plus m) karmaşıklığındadır.,1
+İki sıralı diziyi birleştirmenin karmaşıklığı nedir?,O(n çarpı m) karmaşıklığındadır.,-1
+Ağaçta yaprak düğüm nedir?,Hiç çocuğu olmayan düğümdür.,1
+Ağaçta yaprak düğüm nedir?,Ağacın en üstündeki kök düğümdür.,-1
+Osmanlı Devleti hangi yıl kuruldu?,Osmanlı Devleti 1299 yılında kuruldu.,1
+Osmanlı Devleti hangi yıl kuruldu?,Osmanlı Devleti 1453 yılında kuruldu.,-1
+Malazgirt Savaşı hangi yıl yapıldı?,Malazgirt Savaşı 1071 yılında yapıldı.,1
+Malazgirt Savaşı hangi yıl yapıldı?,Malazgirt Savaşı 1176 yılında yapıldı.,-1
+Türkiye Cumhuriyeti hangi tarihte ilan edildi?,Cumhuriyet 29 Ekim 1923 tarihinde ilan edildi.,1
+Türkiye Cumhuriyeti hangi tarihte ilan edildi?,Cumhuriyet 23 Nisan 1920 tarihinde ilan edildi.,-1
+TBMM hangi tarihte açıldı?,TBMM 23 Nisan 1920 tarihinde Ankara'da açıldı.,1
+TBMM hangi tarihte açıldı?,TBMM 29 Ekim 1923 tarihinde Ankara'da açıldı.,-1
+Lozan Antlaşması hangi tarihte imzalandı?,Lozan Antlaşması 24 Temmuz 1923'te imzalandı.,1
+Lozan Antlaşması hangi tarihte imzalandı?,Lozan Antlaşması 10 Ağustos 1920'de imzalandı.,-1
+Sevr Antlaşması hangi yıl imzalandı?,Sevr Antlaşması 1920 yılında imzalandı.,1
+Sevr Antlaşması hangi yıl imzalandı?,Sevr Antlaşması 1923 yılında imzalandı.,-1
+Sakarya Meydan Muharebesi hangi yıl yapıldı?,Sakarya Meydan Muharebesi 1921 yılında yapıldı.,1
+Sakarya Meydan Muharebesi hangi yıl yapıldı?,Sakarya Meydan Muharebesi 1915 yılında yapıldı.,-1
+Büyük Taarruz hangi tarihte başladı?,Büyük Taarruz 26 Ağustos 1922'de başladı.,1
+Büyük Taarruz hangi tarihte başladı?,Büyük Taarruz 26 Ağustos 1919'da başladı.,-1
+Çanakkale kara savaşları hangi tarihte başladı?,Çanakkale kara savaşları 25 Nisan 1915'te başladı.,1
+Çanakkale kara savaşları hangi tarihte başladı?,Çanakkale kara savaşları 25 Nisan 1918'de başladı.,-1
+Türkiye'de kadınlara milletvekili seçme ve seçilme hakkı hangi yıl verildi?,Türkiye'de bu hak kadınlara 1934 yılında verildi.,1
+Türkiye'de kadınlara milletvekili seçme ve seçilme hakkı hangi yıl verildi?,Türkiye'de bu hak kadınlara 1950 yılında verildi.,-1
+Soyadı Kanunu hangi yıl kabul edildi?,Soyadı Kanunu 1934 yılında kabul edildi.,1
+Soyadı Kanunu hangi yıl kabul edildi?,Soyadı Kanunu 1926 yılında kabul edildi.,-1
+Türkiye'de Latin alfabesine geçiş hangi yıl gerçekleşti?,Latin alfabesine geçiş 1928 yılında gerçekleşti.,1
+Türkiye'de Latin alfabesine geçiş hangi yıl gerçekleşti?,Latin alfabesine geçiş 1938 yılında gerçekleşti.,-1
+Saltanat hangi tarihte kaldırıldı?,Saltanat 1 Kasım 1922'de kaldırıldı.,1
+Saltanat hangi tarihte kaldırıldı?,Saltanat 3 Mart 1924'te kaldırıldı.,-1
+Halifelik hangi tarihte kaldırıldı?,Halifelik 3 Mart 1924'te kaldırıldı.,1
+Halifelik hangi tarihte kaldırıldı?,Halifelik 1 Kasım 1922'de kaldırıldı.,-1
+Türkiye NATO'ya hangi yıl üye oldu?,Türkiye 1952 yılında NATO'ya üye oldu.,1
+Türkiye NATO'ya hangi yıl üye oldu?,Türkiye 1949 yılında NATO'ya üye oldu.,-1
+Demokrat Parti hangi yıl kuruldu?,Demokrat Parti 1946 yılında kuruldu.,1
+Demokrat Parti hangi yıl kuruldu?,Demokrat Parti 1923 yılında kuruldu.,-1
+Erzurum Kongresi hangi yıl toplandı?,Erzurum Kongresi 1919 yılında toplandı.,1
+Erzurum Kongresi hangi yıl toplandı?,Erzurum Kongresi 1921 yılında toplandı.,-1
+Amasya Genelgesi ne zaman yayımlandı?,Amasya Genelgesi Haziran 1919'da yayımlandı.,1
+Amasya Genelgesi ne zaman yayımlandı?,Amasya Genelgesi Haziran 1922'de yayımlandı.,-1
+Mondros Ateşkes Antlaşması hangi tarihte imzalandı?,Mondros Ateşkesi 30 Ekim 1918'de imzalandı.,1
+Mondros Ateşkes Antlaşması hangi tarihte imzalandı?,Mondros Ateşkesi 30 Ekim 1914'te imzalandı.,-1
+Kanuni Sultan Süleyman hangi padişahın oğludur?,"Kanuni Sultan Süleyman, Yavuz Sultan Selim'in oğludur.",1
+Kanuni Sultan Süleyman hangi padişahın oğludur?,"Kanuni Sultan Süleyman, Fatih Sultan Mehmet'in oğludur.",-1
+Mohaç Meydan Muharebesi hangi yıl yapıldı?,Mohaç Muharebesi 1526 yılında yapıldı.,1
+Mohaç Meydan Muharebesi hangi yıl yapıldı?,Mohaç Muharebesi 1683 yılında yapıldı.,-1
+II. Viyana Kuşatması hangi yıl gerçekleşti?,II. Viyana Kuşatması 1683 yılında gerçekleşti.,1
+II. Viyana Kuşatması hangi yıl gerçekleşti?,II. Viyana Kuşatması 1526 yılında gerçekleşti.,-1
+Tanzimat Fermanı hangi yıl ilan edildi?,Tanzimat Fermanı 1839 yılında ilan edildi.,1
+Tanzimat Fermanı hangi yıl ilan edildi?,Tanzimat Fermanı 1876 yılında ilan edildi.,-1
+I. Meşrutiyet hangi yıl ilan edildi?,I. Meşrutiyet 1876 yılında ilan edildi.,1
+I. Meşrutiyet hangi yıl ilan edildi?,I. Meşrutiyet 1839 yılında ilan edildi.,-1
+Preveze Deniz Savaşı'nda Osmanlı donanmasının komutanı kimdi?,Osmanlı donanmasına Barbaros Hayreddin Paşa komuta etti.,1
+Preveze Deniz Savaşı'nda Osmanlı donanmasının komutanı kimdi?,Osmanlı donanmasına Kılıç Ali Paşa komuta etti.,-1
+Göktürk Yazıtları hangi alfabeyle yazılmıştır?,Göktürk Yazıtları Göktürk alfabesiyle yazılmıştır.,1
+Göktürk Yazıtları hangi alfabeyle yazılmıştır?,Göktürk Yazıtları Uygur alfabesiyle yazılmıştır.,-1
+Dandanakan Savaşı hangi iki devlet arasında yapıldı?,Selçuklular ile Gazneliler arasında yapıldı.,1
+Dandanakan Savaşı hangi iki devlet arasında yapıldı?,Selçuklular ile Bizanslılar arasında yapıldı.,-1
+Kurtuluş Savaşı'nda Doğu Cephesi komutanı kimdi?,Doğu Cephesi komutanı Kâzım Karabekir'di.,1
+Kurtuluş Savaşı'nda Doğu Cephesi komutanı kimdi?,Doğu Cephesi komutanı İsmet İnönü'ydü.,-1
+Mustafa Kemal Atatürk hangi şehirde doğmuştur?,Atatürk Selanik'te doğmuştur.,1
+Mustafa Kemal Atatürk hangi şehirde doğmuştur?,Atatürk Manastır'da doğmuştur.,-1
+Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?,İlk cumhurbaşkanı Mustafa Kemal Atatürk'tür.,1
+Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?,İlk cumhurbaşkanı İsmet İnönü'dür.,-1
+Türkiye Cumhuriyeti'nin ikinci cumhurbaşkanı kimdir?,İkinci cumhurbaşkanı İsmet İnönü'dür.,1
+Türkiye Cumhuriyeti'nin ikinci cumhurbaşkanı kimdir?,İkinci cumhurbaşkanı Celal Bayar'dır.,-1
+II. Dünya Savaşı hangi yıl başladı?,II. Dünya Savaşı 1939 yılında başladı.,1
+II. Dünya Savaşı hangi yıl başladı?,II. Dünya Savaşı 1914 yılında başladı.,-1
+I. Dünya Savaşı hangi yıl başladı?,I. Dünya Savaşı 1914 yılında başladı.,1
+I. Dünya Savaşı hangi yıl başladı?,I. Dünya Savaşı 1939 yılında başladı.,-1
+Berlin Duvarı hangi yıl yıkıldı?,Berlin Duvarı 1989 yılında yıkıldı.,1
+Berlin Duvarı hangi yıl yıkıldı?,Berlin Duvarı 1961 yılında yıkıldı.,-1
+Sovyetler Birliği hangi yıl dağıldı?,Sovyetler Birliği 1991 yılında dağıldı.,1
+Sovyetler Birliği hangi yıl dağıldı?,Sovyetler Birliği 1985 yılında dağıldı.,-1
+ABD Bağımsızlık Bildirgesi hangi yıl ilan edildi?,Bağımsızlık Bildirgesi 1776 yılında ilan edildi.,1
+ABD Bağımsızlık Bildirgesi hangi yıl ilan edildi?,Bağımsızlık Bildirgesi 1789 yılında ilan edildi.,-1
+Magna Carta hangi yıl imzalandı?,Magna Carta 1215 yılında imzalandı.,1
+Magna Carta hangi yıl imzalandı?,Magna Carta 1453 yılında imzalandı.,-1
+Kristof Kolomb Amerika kıtasına hangi yıl ulaştı?,Kolomb Amerika'ya 1492 yılında ulaştı.,1
+Kristof Kolomb Amerika kıtasına hangi yıl ulaştı?,Kolomb Amerika'ya 1592 yılında ulaştı.,-1
+Avrupa'da hareketli harfli matbaayı kim geliştirdi?,Avrupa'da hareketli harfli matbaayı Gutenberg geliştirdi.,1
+Avrupa'da hareketli harfli matbaayı kim geliştirdi?,Avrupa'da hareketli harfli matbaayı Da Vinci geliştirdi.,-1
+Batı Roma İmparatorluğu hangi yıl yıkıldı?,Batı Roma İmparatorluğu 476 yılında yıkıldı.,1
+Batı Roma İmparatorluğu hangi yıl yıkıldı?,Batı Roma İmparatorluğu 1453 yılında yıkıldı.,-1
+Avrupa'da Reform hareketini kim başlattı?,Reform hareketini Martin Luther başlattı.,1
+Avrupa'da Reform hareketini kim başlattı?,Reform hareketini Galileo Galilei başlattı.,-1
+Napolyon 1815'te hangi savaşta kesin olarak yenildi?,Napolyon 1815'te Waterloo Savaşı'nda yenildi.,1
+Napolyon 1815'te hangi savaşta kesin olarak yenildi?,Napolyon 1815'te Trafalgar Savaşı'nda yenildi.,-1
+Birleşmiş Milletler hangi yıl kuruldu?,Birleşmiş Milletler 1945 yılında kuruldu.,1
+Birleşmiş Milletler hangi yıl kuruldu?,Birleşmiş Milletler 1919 yılında kuruldu.,-1
+Hiroşima'ya atom bombası hangi yıl atıldı?,Hiroşima'ya atom bombası 1945 yılında atıldı.,1
+Hiroşima'ya atom bombası hangi yıl atıldı?,Hiroşima'ya atom bombası 1941 yılında atıldı.,-1
+Rusya'daki Ekim Devrimi hangi yıl gerçekleşti?,Ekim Devrimi 1917 yılında gerçekleşti.,1
+Rusya'daki Ekim Devrimi hangi yıl gerçekleşti?,Ekim Devrimi 1905 yılında gerçekleşti.,-1
+Gize'deki Büyük Piramit hangi firavun adına yapıldı?,Büyük Piramit firavun Keops adına yapıldı.,1
+Gize'deki Büyük Piramit hangi firavun adına yapıldı?,Büyük Piramit firavun Ramses adına yapıldı.,-1
+Çin Seddi'nin temel inşa amacı neydi?,Kuzeyden gelen göçebe saldırılarına karşı savunmaktı.,1
+Çin Seddi'nin temel inşa amacı neydi?,Güneyden gelen deniz saldırılarına karşı savunmaktı.,-1
+Avrupa Ekonomik Topluluğu'nu kuran Roma Antlaşması hangi yıl imzalandı?,Roma Antlaşması 1957 yılında imzalandı.,1
+Avrupa Ekonomik Topluluğu'nu kuran Roma Antlaşması hangi yıl imzalandı?,Roma Antlaşması 1992 yılında imzalandı.,-1
+Soğuk Savaş hangi iki süper güç arasında yaşandı?,ABD ile Sovyetler Birliği arasında yaşandı.,1
+Soğuk Savaş hangi iki süper güç arasında yaşandı?,ABD ile Çin Halk Cumhuriyeti arasında yaşandı.,-1
+Fransız İhtilali'nin ünlü sloganı nedir?,"Özgürlük, eşitlik ve kardeşlik.",1
+Fransız İhtilali'nin ünlü sloganı nedir?,"Barış, adalet ve kalkınma.",-1
+Sanayi Devrimi ilk olarak hangi ülkede başladı?,Sanayi Devrimi ilk olarak İngiltere'de başladı.,1
+Sanayi Devrimi ilk olarak hangi ülkede başladı?,Sanayi Devrimi ilk olarak Almanya'da başladı.,-1
+Hammurabi Kanunları hangi uygarlığa aittir?,Hammurabi Kanunları Babil uygarlığına aittir.,1
+Hammurabi Kanunları hangi uygarlığa aittir?,Hammurabi Kanunları Mısır uygarlığına aittir.,-1
+Yazıyı ilk kullanan uygarlık hangisidir?,Yazıyı ilk olarak Sümerler kullanmıştır.,1
+Yazıyı ilk kullanan uygarlık hangisidir?,Yazıyı ilk olarak Romalılar kullanmıştır.,-1
+Parayı ilk kullanan Anadolu uygarlığı hangisidir?,Parayı ilk olarak Lidyalılar kullanmıştır.,1
+Parayı ilk kullanan Anadolu uygarlığı hangisidir?,Parayı ilk olarak Hititler kullanmıştır.,-1
+Kadeş Antlaşması hangi iki devlet arasında imzalandı?,Hititler ile Mısırlılar arasında imzalandı.,1
+Kadeş Antlaşması hangi iki devlet arasında imzalandı?,Hititler ile Persler arasında imzalandı.,-1
+Hititlerin başkenti neresiydi?,Hititlerin başkenti Hattuşa'ydı.,1
+Hititlerin başkenti neresiydi?,Hititlerin başkenti Gordion'du.,-1
+Kavimler Göçü hangi yıl başladı?,Kavimler Göçü 375 yılında başladı.,1
+Kavimler Göçü hangi yıl başladı?,Kavimler Göçü 476 yılında başladı.,-1
+Talas Savaşı hangi yıl yapıldı?,Talas Savaşı 751 yılında yapıldı.,1
+Talas Savaşı hangi yıl yapıldı?,Talas Savaşı 1071 yılında yapıldı.,-1
+Kutadgu Bilig'in yazarı kimdir?,Kutadgu Bilig'i Yusuf Has Hacib yazmıştır.,1
+Kutadgu Bilig'in yazarı kimdir?,Kutadgu Bilig'i Kaşgarlı Mahmud yazmıştır.,-1
+Divanü Lügati't-Türk'ün yazarı kimdir?,Divanü Lügati't-Türk'ü Kaşgarlı Mahmud yazmıştır.,1
+Divanü Lügati't-Türk'ün yazarı kimdir?,Divanü Lügati't-Türk'ü Yusuf Has Hacib yazmıştır.,-1
+Kırım Savaşı'nda Osmanlı Devleti hangi devlete karşı savaştı?,"Osmanlı, Kırım Savaşı'nda Rusya'ya karşı savaştı.",1
+Kırım Savaşı'nda Osmanlı Devleti hangi devlete karşı savaştı?,"Osmanlı, Kırım Savaşı'nda İngiltere'ye karşı savaştı.",-1
+Balkan Savaşları hangi yıllarda yapıldı?,Balkan Savaşları 1912-1913 yıllarında yapıldı.,1
+Balkan Savaşları hangi yıllarda yapıldı?,Balkan Savaşları 1918-1919 yıllarında yapıldı.,-1
+Ankara hangi tarihte başkent ilan edildi?,Ankara 13 Ekim 1923'te başkent ilan edildi.,1
+Ankara hangi tarihte başkent ilan edildi?,Ankara 29 Ekim 1925'te başkent ilan edildi.,-1
+Türk Medeni Kanunu hangi yıl kabul edildi?,Türk Medeni Kanunu 1926 yılında kabul edildi.,1
+Türk Medeni Kanunu hangi yıl kabul edildi?,Türk Medeni Kanunu 1934 yılında kabul edildi.,-1
+Düzenli ordunun Batı Cephesi'ndeki ilk zaferi hangisidir?,Düzenli ordunun ilk zaferi I. İnönü Muharebesi'dir.,1
+Düzenli ordunun Batı Cephesi'ndeki ilk zaferi hangisidir?,Düzenli ordunun ilk zaferi Dumlupınar Muharebesi'dir.,-1
+Hatay hangi yıl Türkiye'ye katıldı?,Hatay 1939 yılında Türkiye'ye katıldı.,1
+Hatay hangi yıl Türkiye'ye katıldı?,Hatay 1923 yılında Türkiye'ye katıldı.,-1
+Montrö Boğazlar Sözleşmesi hangi yıl imzalandı?,Montrö Sözleşmesi 1936 yılında imzalandı.,1
+Montrö Boğazlar Sözleşmesi hangi yıl imzalandı?,Montrö Sözleşmesi 1946 yılında imzalandı.,-1
+Lale Devri hangi padişah döneminde yaşandı?,Lale Devri III. Ahmed döneminde yaşandı.,1
+Lale Devri hangi padişah döneminde yaşandı?,Lale Devri II. Mahmud döneminde yaşandı.,-1
+Yeniçeri Ocağı'nı hangi padişah kaldırdı?,Yeniçeri Ocağı'nı II. Mahmud kaldırdı.,1
+Yeniçeri Ocağı'nı hangi padişah kaldırdı?,Yeniçeri Ocağı'nı III. Selim kaldırdı.,-1
+Nizam-ı Cedid ordusunu hangi padişah kurdu?,Nizam-ı Cedid'i III. Selim kurmuştur.,1
+Nizam-ı Cedid ordusunu hangi padişah kurdu?,Nizam-ı Cedid'i II. Mahmud kurmuştur.,-1
+Osmanlı'da Türkçe eser basan ilk matbaayı kim kurdu?,İlk Türk matbaasını İbrahim Müteferrika kurmuştur.,1
+Osmanlı'da Türkçe eser basan ilk matbaayı kim kurdu?,İlk Türk matbaasını Katip Çelebi kurmuştur.,-1
+Haçlı Seferleri hangi yüzyılda başladı?,Haçlı Seferleri 11. yüzyılın sonunda başladı.,1
+Haçlı Seferleri hangi yüzyılda başladı?,Haçlı Seferleri 15. yüzyılın sonunda başladı.,-1
+Coğrafi Keşiflere hangi ülkeler öncülük etti?,Coğrafi Keşiflere Portekiz ve İspanya öncülük etti.,1
+Coğrafi Keşiflere hangi ülkeler öncülük etti?,Coğrafi Keşiflere Almanya ve Avusturya öncülük etti.,-1
+Ümit Burnu'nu dolaşarak deniz yoluyla Hindistan'a ulaşan denizci kimdir?,Hindistan'a deniz yoluyla Vasco da Gama ulaştı.,1
+Ümit Burnu'nu dolaşarak deniz yoluyla Hindistan'a ulaşan denizci kimdir?,Hindistan'a deniz yoluyla Ferdinand Macellan ulaştı.,-1
+Dünyanın çevresini dolaşan ilk deniz seferi kimin önderliğinde başladı?,Bu sefer Ferdinand Macellan önderliğinde başladı.,1
+Dünyanın çevresini dolaşan ilk deniz seferi kimin önderliğinde başladı?,Bu sefer Vasco da Gama önderliğinde başladı.,-1
+Türkiye sınırları içindeki en uzun nehir hangisidir?,Türkiye sınırları içindeki en uzun nehir Kızılırmak'tır.,1
+Türkiye sınırları içindeki en uzun nehir hangisidir?,Türkiye sınırları içindeki en uzun nehir Sakarya'dır.,-1
+Türkiye'nin en büyük gölü hangisidir?,Türkiye'nin en büyük gölü Van Gölü'dür.,1
+Türkiye'nin en büyük gölü hangisidir?,Türkiye'nin en büyük gölü Tuz Gölü'dür.,-1
+Türkiye'nin yüzölçümü en büyük ili hangisidir?,Yüzölçümü en büyük il Konya'dır.,1
+Türkiye'nin yüzölçümü en büyük ili hangisidir?,Yüzölçümü en büyük il Sivas'tır.,-1
+Türkiye'nin yüzölçümü en küçük ili hangisidir?,Yüzölçümü en küçük il Yalova'dır.,1
+Türkiye'nin yüzölçümü en küçük ili hangisidir?,Yüzölçümü en küçük il Kilis'tir.,-1
+Türkiye kaç coğrafi bölgeye ayrılır?,Türkiye yedi coğrafi bölgeye ayrılır.,1
+Türkiye kaç coğrafi bölgeye ayrılır?,Türkiye dokuz coğrafi bölgeye ayrılır.,-1
+Türkiye'nin en kalabalık şehri hangisidir?,Türkiye'nin en kalabalık şehri İstanbul'dur.,1
+Türkiye'nin en kalabalık şehri hangisidir?,Türkiye'nin en kalabalık şehri Ankara'dır.,-1
+Marmara Denizi'ni Ege Denizi'ne bağlayan boğaz hangisidir?,Marmara'yı Ege'ye Çanakkale Boğazı bağlar.,1
+Marmara Denizi'ni Ege Denizi'ne bağlayan boğaz hangisidir?,Marmara'yı Ege'ye İstanbul Boğazı bağlar.,-1
+Karadeniz'i Marmara Denizi'ne bağlayan boğaz hangisidir?,Karadeniz'i Marmara'ya İstanbul Boğazı bağlar.,1
+Karadeniz'i Marmara Denizi'ne bağlayan boğaz hangisidir?,Karadeniz'i Marmara'ya Çanakkale Boğazı bağlar.,-1
+Türkiye'de en fazla yağış alan bölge hangisidir?,En fazla yağış alan bölge Karadeniz Bölgesi'dir.,1
+Türkiye'de en fazla yağış alan bölge hangisidir?,En fazla yağış alan bölge İç Anadolu Bölgesi'dir.,-1
+Pamukkale travertenleri hangi ildedir?,Pamukkale travertenleri Denizli'dedir.,1
+Pamukkale travertenleri hangi ildedir?,Pamukkale travertenleri Nevşehir'dedir.,-1
+Peri bacalarıyla ünlü Kapadokya hangi bölgededir?,Kapadokya İç Anadolu Bölgesi'ndedir.,1
+Peri bacalarıyla ünlü Kapadokya hangi bölgededir?,Kapadokya Doğu Anadolu Bölgesi'ndedir.,-1
+Nemrut Dağı'ndaki dev heykeller hangi ildedir?,Nemrut Dağı heykelleri Adıyaman'dadır.,1
+Nemrut Dağı'ndaki dev heykeller hangi ildedir?,Nemrut Dağı heykelleri Erzincan'dadır.,-1
+Dünyanın en büyük sıcak çölü hangisidir?,En büyük sıcak çöl Sahra Çölü'dür.,1
+Dünyanın en büyük sıcak çölü hangisidir?,En büyük sıcak çöl Gobi Çölü'dür.,-1
+Dünyanın en yüksek dağı hangisidir?,Dünyanın en yüksek dağı Everest'tir.,1
+Dünyanın en yüksek dağı hangisidir?,Dünyanın en yüksek dağı K2'dir.,-1
+Yüzölçümü en büyük ülke hangisidir?,Yüzölçümü en büyük ülke Rusya'dır.,1
+Yüzölçümü en büyük ülke hangisidir?,Yüzölçümü en büyük ülke Kanada'dır.,-1
+Yüzölçümü en küçük ülke hangisidir?,Yüzölçümü en küçük ülke Vatikan'dır.,1
+Yüzölçümü en küçük ülke hangisidir?,Yüzölçümü en küçük ülke Monako'dur.,-1
+Avustralya'nın başkenti neresidir?,Avustralya'nın başkenti Kanberra'dır.,1
+Avustralya'nın başkenti neresidir?,Avustralya'nın başkenti Sidney'dir.,-1
+Kanada'nın başkenti neresidir?,Kanada'nın başkenti Ottawa'dır.,1
+Kanada'nın başkenti neresidir?,Kanada'nın başkenti Toronto'dur.,-1
+Brezilya'nın başkenti neresidir?,Brezilya'nın başkenti Brasilia'dır.,1
+Brezilya'nın başkenti neresidir?,Brezilya'nın başkenti Rio de Janeiro'dur.,-1
+Japonya'nın başkenti neresidir?,Japonya'nın başkenti Tokyo'dur.,1
+Japonya'nın başkenti neresidir?,Japonya'nın başkenti Osaka'dır.,-1
+Mısır'ın başkenti neresidir?,Mısır'ın başkenti Kahire'dir.,1
+Mısır'ın başkenti neresidir?,Mısır'ın başkenti İskenderiye'dir.,-1
+Almanya'nın başkenti neresidir?,Almanya'nın başkenti Berlin'dir.,1
+Almanya'nın başkenti neresidir?,Almanya'nın başkenti Münih'tir.,-1
+İspanya'nın başkenti neresidir?,İspanya'nın başkenti Madrid'dir.,1
+İspanya'nın başkenti neresidir?,İspanya'nın başkenti Barselona'dır.,-1
+İsviçre'nin federal yönetim merkezi neresidir?,İsviçre'nin federal yönetim merkezi Bern'dir.,1
+İsviçre'nin federal yönetim merkezi neresidir?,İsviçre'nin federal yönetim merkezi Zürih'tir.,-1
+Dünyanın en büyük kıtası hangisidir?,Dünyanın en büyük kıtası Asya'dır.,1
+Dünyanın en büyük kıtası hangisidir?,Dünyanın en büyük kıtası Afrika'dır.,-1
+Dünyanın en küçük kıtası hangisidir?,Dünyanın en küçük kıtası Avustralya'dır.,1
+Dünyanın en küçük kıtası hangisidir?,Dünyanın en küçük kıtası Avrupa'dır.,-1
+Okyanuslardaki en derin nokta nerededir?,En derin nokta Mariana Çukuru'ndadır.,1
+Okyanuslardaki en derin nokta nerededir?,En derin nokta Porto Riko Çukuru'ndadır.,-1
+Ekvator Dünya'yı hangi iki yarım küreye ayırır?,Ekvator Dünya'yı kuzey ve güney yarım kürelere ayırır.,1
+Ekvator Dünya'yı hangi iki yarım küreye ayırır?,Ekvator Dünya'yı doğu ve batı yarım kürelere ayırır.,-1
+Başlangıç meridyeni hangi yerleşimden geçer?,Başlangıç meridyeni Greenwich'ten geçer.,1
+Başlangıç meridyeni hangi yerleşimden geçer?,Başlangıç meridyeni Paris'ten geçer.,-1
+Dünya kendi ekseni etrafındaki bir turu yaklaşık ne kadar sürede tamamlar?,Dünya kendi etrafında yaklaşık 24 saatte döner.,1
+Dünya kendi ekseni etrafındaki bir turu yaklaşık ne kadar sürede tamamlar?,Dünya kendi etrafında yaklaşık 365 günde döner.,-1
+Mevsimlerin oluşmasının temel nedeni nedir?,Dünya'nın eksen eğikliği ve Güneş etrafındaki hareketidir.,1
+Mevsimlerin oluşmasının temel nedeni nedir?,Dünya'nın Güneş'e olan uzaklığının değişmesidir.,-1
+Türkiye hangi deprem kuşağı üzerinde yer alır?,Türkiye Alp-Himalaya deprem kuşağı üzerindedir.,1
+Türkiye hangi deprem kuşağı üzerinde yer alır?,Türkiye Pasifik Ateş Çemberi üzerindedir.,-1
+Kuzey Anadolu Fay Hattı nasıl bir faydır?,Kuzey Anadolu Fayı sağ yanal doğrultu atımlı bir faydır.,1
+Kuzey Anadolu Fay Hattı nasıl bir faydır?,Kuzey Anadolu Fayı sol yanal doğrultu atımlı bir faydır.,-1
+Türkiye'de Akdeniz iklimi başlıca nerelerde görülür?,"Akdeniz, Ege ve Güney Marmara kıyılarında görülür.",1
+Türkiye'de Akdeniz iklimi başlıca nerelerde görülür?,Karadeniz ve Doğu Marmara kıyılarında görülür.,-1
+Karadeniz ikliminin temel özelliği nedir?,Her mevsim yağışlı ve ılıman bir iklimdir.,1
+Karadeniz ikliminin temel özelliği nedir?,Yazları çok kurak ve sıcak bir iklimdir.,-1
+Karasal iklimin temel özelliği nedir?,"Yazları sıcak ve kurak, kışları soğuk ve karlıdır.",1
+Karasal iklimin temel özelliği nedir?,"Yazları serin ve yağışlı, kışları ılık ve yağışlıdır.",-1
+Tuz Gölü hangi coğrafi bölgededir?,Tuz Gölü İç Anadolu Bölgesi'ndedir.,1
+Tuz Gölü hangi coğrafi bölgededir?,Tuz Gölü Ege Bölgesi'nin iç kesimindedir.,-1
+Fırat Nehri hangi körfeze dökülür?,"Fırat, Dicle ile birleşerek Basra Körfezi'ne dökülür.",1
+Fırat Nehri hangi körfeze dökülür?,"Fırat, Dicle ile birleşerek İskenderun Körfezi'ne dökülür.",-1
+Atatürk Barajı hangi nehir üzerindedir?,Atatürk Barajı Fırat Nehri üzerindedir.,1
+Atatürk Barajı hangi nehir üzerindedir?,Atatürk Barajı Dicle Nehri üzerindedir.,-1
+Türkiye'de çay tarımı en çok hangi ilde yapılır?,Çay tarımı en çok Rize'de yapılır.,1
+Türkiye'de çay tarımı en çok hangi ilde yapılır?,Çay tarımı en çok Antalya'da yapılır.,-1
+Türkiye'de fındık üretimiyle öne çıkan bölge hangisidir?,Fındık üretiminde Karadeniz Bölgesi öne çıkar.,1
+Türkiye'de fındık üretimiyle öne çıkan bölge hangisidir?,Fındık üretiminde Akdeniz Bölgesi öne çıkar.,-1
+Amazon Yağmur Ormanları'nın büyük kısmı hangi ülkededir?,Amazon ormanlarının büyük kısmı Brezilya'dadır.,1
+Amazon Yağmur Ormanları'nın büyük kısmı hangi ülkededir?,Amazon ormanlarının büyük kısmı Meksika'dadır.,-1
+Himalaya Dağları hangi kıtadadır?,Himalaya Dağları Asya kıtasındadır.,1
+Himalaya Dağları hangi kıtadadır?,Himalaya Dağları Afrika kıtasındadır.,-1
+Alp Dağları hangi kıtadadır?,Alp Dağları Avrupa kıtasındadır.,1
+Alp Dağları hangi kıtadadır?,Alp Dağları Güney Amerika kıtasındadır.,-1
+And Dağları hangi kıta boyunca uzanır?,And Dağları Güney Amerika boyunca uzanır.,1
+And Dağları hangi kıta boyunca uzanır?,And Dağları Kuzey Amerika boyunca uzanır.,-1
+Günümüzde dünyanın en kalabalık ülkesi hangisidir?,Dünyanın en kalabalık ülkesi Hindistan'dır.,1
+Günümüzde dünyanın en kalabalık ülkesi hangisidir?,Dünyanın en kalabalık ülkesi Endonezya'dır.,-1
+Akdeniz'i Atlas Okyanusu'na bağlayan boğaz hangisidir?,Akdeniz'i Atlas Okyanusu'na Cebelitarık Boğazı bağlar.,1
+Akdeniz'i Atlas Okyanusu'na bağlayan boğaz hangisidir?,Akdeniz'i Atlas Okyanusu'na Hürmüz Boğazı bağlar.,-1
+Süveyş Kanalı hangi iki denizi birleştirir?,Süveyş Kanalı Akdeniz ile Kızıldeniz'i birleştirir.,1
+Süveyş Kanalı hangi iki denizi birleştirir?,Süveyş Kanalı Akdeniz ile Karadeniz'i birleştirir.,-1
+Panama Kanalı hangi iki okyanusu birleştirir?,Panama Kanalı Atlas ve Büyük Okyanus'u birleştirir.,1
+Panama Kanalı hangi iki okyanusu birleştirir?,Panama Kanalı Atlas ve Hint Okyanusu'nu birleştirir.,-1
+Lut Gölü olarak da bilinen Ölü Deniz'in en belirgin özelliği nedir?,Tuzluluk oranının çok yüksek olmasıdır.,1
+Lut Gölü olarak da bilinen Ölü Deniz'in en belirgin özelliği nedir?,Tuzluluk oranının çok düşük olmasıdır.,-1
+Dünyanın en büyük adası hangisidir?,Dünyanın en büyük adası Grönland'dır.,1
+Dünyanın en büyük adası hangisidir?,Dünyanın en büyük adası Madagaskar'dır.,-1
+Rüzgârın oluşmasının temel nedeni nedir?,Hava basıncı farkları rüzgârı oluşturur.,1
+Rüzgârın oluşmasının temel nedeni nedir?,Hava nemi farkları rüzgârı oluşturur.,-1
+Rüzgâr hangi yönde eser?,Rüzgâr yüksek basınçtan alçak basınca doğru eser.,1
+Rüzgâr hangi yönde eser?,Rüzgâr alçak basınçtan yüksek basınca doğru eser.,-1
+Troposferde yükseldikçe sıcaklık genel olarak nasıl değişir?,Troposferde yükseldikçe sıcaklık genellikle azalır.,1
+Troposferde yükseldikçe sıcaklık genel olarak nasıl değişir?,Troposferde yükseldikçe sıcaklık genellikle artar.,-1
+Kutup bölgelerinde yaz mevsiminde hangi olay görülür?,Güneşin uzun süre batmadığı kutup gündüzü görülür.,1
+Kutup bölgelerinde yaz mevsiminde hangi olay görülür?,Güneşin hiç doğmadığı kutup gecesi görülür.,-1
+Ağrı Dağı'nın oluşum kökeni nedir?,Ağrı Dağı volkanik kökenli bir dağdır.,1
+Ağrı Dağı'nın oluşum kökeni nedir?,Ağrı Dağı kıvrım kökenli bir dağdır.,-1
+Erciyes Dağı hangi ildedir?,Erciyes Dağı Kayseri'dedir.,1
+Erciyes Dağı hangi ildedir?,Erciyes Dağı Sivas'tadır.,-1
+Uludağ hangi ildedir?,Uludağ Bursa'dadır.,1
+Uludağ hangi ildedir?,Uludağ Balıkesir'dedir.,-1
+Toros Dağları Türkiye'nin hangi kesiminde uzanır?,Toros Dağları güneyde Akdeniz'e paralel uzanır.,1
+Toros Dağları Türkiye'nin hangi kesiminde uzanır?,Toros Dağları kuzeyde Karadeniz'e paralel uzanır.,-1
+Kuzey Anadolu Dağları hangi denize paralel uzanır?,Kuzey Anadolu Dağları Karadeniz'e paralel uzanır.,1
+Kuzey Anadolu Dağları hangi denize paralel uzanır?,Kuzey Anadolu Dağları Akdeniz'e paralel uzanır.,-1
+Türkiye'nin en doğu ucu hangi ildedir?,Türkiye'nin en doğu ucu Iğdır ilindedir.,1
+Türkiye'nin en doğu ucu hangi ildedir?,Türkiye'nin en doğu ucu Hakkari ilindedir.,-1
+Türkiye'nin en batı ucu nerededir?,Türkiye'nin en batı ucu Çanakkale'deki Gökçeada'dadır.,1
+Türkiye'nin en batı ucu nerededir?,Türkiye'nin en batı ucu İzmir'deki Çeşme'dedir.,-1
+Haritalardaki eş yükselti eğrileri neyi gösterir?,Aynı yükseltideki noktaları birleştiren çizgilerdir.,1
+Haritalardaki eş yükselti eğrileri neyi gösterir?,Aynı sıcaklıktaki noktaları birleştiren çizgilerdir.,-1
+Harita ölçeği küçüldükçe gösterilen ayrıntı nasıl değişir?,Ölçek küçüldükçe haritadaki ayrıntı azalır.,1
+Harita ölçeği küçüldükçe gösterilen ayrıntı nasıl değişir?,Ölçek küçüldükçe haritadaki ayrıntı artar.,-1
+Delta nasıl oluşur?,Akarsuların taşıdığı alüvyonların denizde birikmesiyle oluşur.,1
+Delta nasıl oluşur?,Rüzgârların taşıdığı kumların denizde birikmesiyle oluşur.,-1
+Nil Nehri hangi denize dökülür?,Nil Nehri Akdeniz'e dökülür.,1
+Nil Nehri hangi denize dökülür?,Nil Nehri Kızıldeniz'e dökülür.,-1
+Mississippi Nehri hangi ülkededir?,Mississippi Nehri ABD'dedir.,1
+Mississippi Nehri hangi ülkededir?,Mississippi Nehri Kanada'dadır.,-1
+Tuna Nehri hangi denize dökülür?,Tuna Nehri Karadeniz'e dökülür.,1
+Tuna Nehri hangi denize dökülür?,Tuna Nehri Baltık Denizi'ne dökülür.,-1
+Sahra Çölü hangi kıtadadır?,Sahra Çölü Afrika kıtasındadır.,1
+Sahra Çölü hangi kıtadadır?,Sahra Çölü Asya kıtasındadır.,-1
+İzlanda'nın başkenti neresidir?,İzlanda'nın başkenti Reykjavik'tir.,1
+İzlanda'nın başkenti neresidir?,İzlanda'nın başkenti Oslo'dur.,-1
+Arjantin'in başkenti neresidir?,Arjantin'in başkenti Buenos Aires'tir.,1
+Arjantin'in başkenti neresidir?,Arjantin'in başkenti Santiago'dur.,-1
+Hindistan'ın başkenti neresidir?,Hindistan'ın başkenti Yeni Delhi'dir.,1
+Hindistan'ın başkenti neresidir?,Hindistan'ın başkenti Mumbai'dir.,-1
+Fas'ın başkenti neresidir?,Fas'ın başkenti Rabat'tır.,1
+Fas'ın başkenti neresidir?,Fas'ın başkenti Kazablanka'dır.,-1
+Kuzey yarım kürede en uzun gün hangi tarihtedir?,Kuzey yarım kürede en uzun gün 21 Haziran'dır.,1
+Kuzey yarım kürede en uzun gün hangi tarihtedir?,Kuzey yarım kürede en uzun gün 21 Aralık'tır.,-1
+Gece ile gündüzün eşit olduğu tarihler hangileridir?,Gece-gündüz eşitliği 21 Mart ve 23 Eylül'dedir.,1
+Gece ile gündüzün eşit olduğu tarihler hangileridir?,Gece-gündüz eşitliği 21 Haziran ve 21 Aralık'tadır.,-1
+Nutuk adlı eseri kim yazmıştır?,Nutuk'u Mustafa Kemal Atatürk yazmıştır.,1
+Nutuk adlı eseri kim yazmıştır?,Nutuk'u Kâzım Karabekir yazmıştır.,-1
+İstiklal Marşı'nın şairi kimdir?,İstiklal Marşı'nın şairi Mehmet Akif Ersoy'dur.,1
+İstiklal Marşı'nın şairi kimdir?,İstiklal Marşı'nın şairi Namık Kemal'dir.,-1
+İstiklal Marşı'nın bugün kullanılan resmi bestesi kime aittir?,Resmi beste Osman Zeki Üngör'e aittir.,1
+İstiklal Marşı'nın bugün kullanılan resmi bestesi kime aittir?,Resmi beste Buhurizade Itri'ye aittir.,-1
+İstiklal Marşı TBMM'de hangi tarihte kabul edildi?,İstiklal Marşı 12 Mart 1921'de kabul edildi.,1
+İstiklal Marşı TBMM'de hangi tarihte kabul edildi?,İstiklal Marşı 29 Ekim 1923'te kabul edildi.,-1
+Safahat adlı eser kime aittir?,"Safahat, Mehmet Akif Ersoy'un eseridir.",1
+Safahat adlı eser kime aittir?,"Safahat, Tevfik Fikret'in eseridir.",-1
+Çalıkuşu romanının yazarı kimdir?,Çalıkuşu'nu Reşat Nuri Güntekin yazmıştır.,1
+Çalıkuşu romanının yazarı kimdir?,Çalıkuşu'nu Halide Edib Adıvar yazmıştır.,-1
+Sinekli Bakkal romanının yazarı kimdir?,Sinekli Bakkal'ı Halide Edib Adıvar yazmıştır.,1
+Sinekli Bakkal romanının yazarı kimdir?,Sinekli Bakkal'ı Reşat Nuri Güntekin yazmıştır.,-1
+İnce Memed romanının yazarı kimdir?,İnce Memed'i Yaşar Kemal yazmıştır.,1
+İnce Memed romanının yazarı kimdir?,İnce Memed'i Orhan Kemal yazmıştır.,-1
+Saatleri Ayarlama Enstitüsü romanının yazarı kimdir?,Bu romanı Ahmet Hamdi Tanpınar yazmıştır.,1
+Saatleri Ayarlama Enstitüsü romanının yazarı kimdir?,Bu romanı Peyami Safa 1960'ta yazmıştır.,-1
+Tutunamayanlar romanının yazarı kimdir?,Tutunamayanlar'ı Oğuz Atay yazmıştır.,1
+Tutunamayanlar romanının yazarı kimdir?,Tutunamayanlar'ı Yusuf Atılgan yazmıştır.,-1
+Kürk Mantolu Madonna romanının yazarı kimdir?,Kürk Mantolu Madonna'yı Sabahattin Ali yazmıştır.,1
+Kürk Mantolu Madonna romanının yazarı kimdir?,Kürk Mantolu Madonna'yı Sait Faik yazmıştır.,-1
+Nobel Edebiyat Ödülü'nü alan ilk Türk yazar kimdir?,Bu ödülü alan ilk Türk yazar Orhan Pamuk'tur.,1
+Nobel Edebiyat Ödülü'nü alan ilk Türk yazar kimdir?,Bu ödülü alan ilk Türk yazar Yaşar Kemal'dir.,-1
+Orhan Pamuk Nobel Edebiyat Ödülü'nü hangi yıl aldı?,Orhan Pamuk bu ödülü 2006 yılında aldı.,1
+Orhan Pamuk Nobel Edebiyat Ödülü'nü hangi yıl aldı?,Orhan Pamuk bu ödülü 1996 yılında aldı.,-1
+Türk edebiyatında ilk yerli roman kabul edilen eser hangisidir?,İlk yerli roman Taaşşuk-ı Talat ve Fitnat'tır.,1
+Türk edebiyatında ilk yerli roman kabul edilen eser hangisidir?,İlk yerli roman Halit Ziya'nın Mai ve Siyah'ıdır.,-1
+İlk yerli tiyatro eseri Şair Evlenmesi kime aittir?,"Şair Evlenmesi, Şinasi'nin eseridir.",1
+İlk yerli tiyatro eseri Şair Evlenmesi kime aittir?,"Şair Evlenmesi, Namık Kemal'in eseridir.",-1
+Vatan Yahut Silistre adlı tiyatro eseri kime aittir?,"Vatan Yahut Silistre, Namık Kemal'in eseridir.",1
+Vatan Yahut Silistre adlı tiyatro eseri kime aittir?,"Vatan Yahut Silistre, Ziya Paşa'nın eseridir.",-1
+Garip akımının öncüsü kimdir?,Garip akımının öncüsü Orhan Veli Kanık'tır.,1
+Garip akımının öncüsü kimdir?,Garip akımının öncüsü Nazım Hikmet'tir.,-1
+Yunus Emre hangi yüzyıllarda yaşamıştır?,Yunus Emre 13. ve 14. yüzyıllarda yaşamıştır.,1
+Yunus Emre hangi yüzyıllarda yaşamıştır?,Yunus Emre 16. ve 17. yüzyıllarda yaşamıştır.,-1
+Dede Korkut Hikâyeleri hangi Türk boyunun yaşamını anlatır?,Dede Korkut Hikâyeleri Oğuzların yaşamını anlatır.,1
+Dede Korkut Hikâyeleri hangi Türk boyunun yaşamını anlatır?,Dede Korkut Hikâyeleri Uygurların yaşamını anlatır.,-1
+16. yüzyılda Türkçe Leyla ile Mecnun mesnevisini yazan ünlü şair kimdir?,Bu mesneviyi Fuzuli yazmıştır.,1
+16. yüzyılda Türkçe Leyla ile Mecnun mesnevisini yazan ünlü şair kimdir?,Bu mesneviyi Baki yazmıştır.,-1
+Hüsn ü Aşk mesnevisinin yazarı kimdir?,Hüsn ü Aşk'ı Şeyh Galip yazmıştır.,1
+Hüsn ü Aşk mesnevisinin yazarı kimdir?,Hüsn ü Aşk'ı Nedim yazmıştır.,-1
+Romeo ve Juliet oyununun yazarı kimdir?,Romeo ve Juliet'i William Shakespeare yazmıştır.,1
+Romeo ve Juliet oyununun yazarı kimdir?,Romeo ve Juliet'i Charles Dickens yazmıştır.,-1
+Hamlet oyununun yazarı kimdir?,Hamlet'i William Shakespeare yazmıştır.,1
+Hamlet oyununun yazarı kimdir?,Hamlet'i Christopher Marlowe yazmıştır.,-1
+Suç ve Ceza romanının yazarı kimdir?,Suç ve Ceza'yı Fyodor Dostoyevski yazmıştır.,1
+Suç ve Ceza romanının yazarı kimdir?,Suç ve Ceza'yı Lev Tolstoy yazmıştır.,-1
+Savaş ve Barış romanının yazarı kimdir?,Savaş ve Barış'ı Lev Tolstoy yazmıştır.,1
+Savaş ve Barış romanının yazarı kimdir?,Savaş ve Barış'ı Fyodor Dostoyevski yazmıştır.,-1
+Don Kişot romanının yazarı kimdir?,Don Kişot'u Miguel de Cervantes yazmıştır.,1
+Don Kişot romanının yazarı kimdir?,Don Kişot'u Gabriel García Márquez yazmıştır.,-1
+Sefiller romanının yazarı kimdir?,Sefiller'i Victor Hugo yazmıştır.,1
+Sefiller romanının yazarı kimdir?,Sefiller'i Émile Zola yazmıştır.,-1
+Dönüşüm adlı novellanın yazarı kimdir?,Dönüşüm'ü Franz Kafka yazmıştır.,1
+Dönüşüm adlı novellanın yazarı kimdir?,Dönüşüm'ü Albert Camus yazmıştır.,-1
+Yüzyıllık Yalnızlık romanının yazarı kimdir?,Yüzyıllık Yalnızlık'ı Gabriel García Márquez yazmıştır.,1
+Yüzyıllık Yalnızlık romanının yazarı kimdir?,Yüzyıllık Yalnızlık'ı Jorge Luis Borges yazmıştır.,-1
+1984 romanının yazarı kimdir?,1984 romanını George Orwell yazmıştır.,1
+1984 romanının yazarı kimdir?,1984 romanını Aldous Huxley yazmıştır.,-1
+İlahi Komedya'nın yazarı kimdir?,İlahi Komedya'yı Dante Alighieri yazmıştır.,1
+İlahi Komedya'nın yazarı kimdir?,İlahi Komedya'yı Giovanni Boccaccio yazmıştır.,-1
+İlyada ve Odysseia destanları kime atfedilir?,Bu destanlar Homeros'a atfedilir.,1
+İlyada ve Odysseia destanları kime atfedilir?,Bu destanlar Sofokles'e atfedilir.,-1
+Faust adlı eserin yazarı kimdir?,Faust'u Johann Wolfgang von Goethe yazmıştır.,1
+Faust adlı eserin yazarı kimdir?,Faust'u Friedrich Schiller yazmıştır.,-1
+Küçük Prens kitabının yazarı kimdir?,Küçük Prens'i Antoine de Saint-Exupéry yazmıştır.,1
+Küçük Prens kitabının yazarı kimdir?,Küçük Prens'i Alexandre Dumas ve oğlu yazmıştır.,-1
+Mona Lisa tablosunu kim yapmıştır?,Mona Lisa'yı Leonardo da Vinci yapmıştır.,1
+Mona Lisa tablosunu kim yapmıştır?,Mona Lisa'yı Michelangelo yapmıştır.,-1
+Sistina Şapeli'nin tavan fresklerini kim yapmıştır?,Bu freskleri Michelangelo yapmıştır.,1
+Sistina Şapeli'nin tavan fresklerini kim yapmıştır?,Bu freskleri Raffaello yapmıştır.,-1
+Yıldızlı Gece tablosu hangi ressama aittir?,Yıldızlı Gece tablosu Vincent van Gogh'a aittir.,1
+Yıldızlı Gece tablosu hangi ressama aittir?,Yıldızlı Gece tablosu Claude Monet'ye aittir.,-1
+Guernica tablosu hangi ressama aittir?,Guernica tablosu Pablo Picasso'ya aittir.,1
+Guernica tablosu hangi ressama aittir?,Guernica tablosu Salvador Dalí'ye aittir.,-1
+Eriyen saatleriyle bilinen Belleğin Azmi tablosu kime aittir?,Bu tablo Salvador Dalí'ye aittir.,1
+Eriyen saatleriyle bilinen Belleğin Azmi tablosu kime aittir?,Bu tablo René Magritte'e aittir.,-1
+Kaplumbağa Terbiyecisi tablosu hangi ressama aittir?,"Kaplumbağa Terbiyecisi, Osman Hamdi Bey'e aittir.",1
+Kaplumbağa Terbiyecisi tablosu hangi ressama aittir?,"Kaplumbağa Terbiyecisi, Şeker Ahmet Paşa'ya aittir.",-1
+Empresyonizm akımına adını veren tablo hangisidir?,"Akıma adını Monet'nin İzlenim, Gün Doğumu tablosu verir.",1
+Empresyonizm akımına adını veren tablo hangisidir?,Akıma adını Manet'nin Çimenlerde Kahvaltı tablosu verir.,-1
+Kübizm akımının öncüleri kimlerdir?,Kübizmin öncüleri Picasso ve Braque'tır.,1
+Kübizm akımının öncüleri kimlerdir?,Kübizmin öncüleri Monet ve Renoir'dır.,-1
+Mimar Sinan hangi yapıyı ustalık eseri olarak nitelendirmiştir?,Mimar Sinan ustalık eseri olarak Selimiye Camii'ni görür.,1
+Mimar Sinan hangi yapıyı ustalık eseri olarak nitelendirmiştir?,Mimar Sinan ustalık eseri olarak Süleymaniye Camii'ni görür.,-1
+Selimiye Camii hangi şehirdedir?,Selimiye Camii Edirne'dedir.,1
+Selimiye Camii hangi şehirdedir?,Selimiye Camii Bursa'dadır.,-1
+Sultanahmet Camii'nin mimarı kimdir?,Sultanahmet Camii'nin mimarı Sedefkâr Mehmed Ağa'dır.,1
+Sultanahmet Camii'nin mimarı kimdir?,Sultanahmet Camii'nin mimarı Koca Mimar Sinan Ağa'dır.,-1
+Ayasofya ilk olarak hangi amaçla inşa edilmiştir?,Ayasofya Bizans döneminde kilise olarak inşa edildi.,1
+Ayasofya ilk olarak hangi amaçla inşa edilmiştir?,Ayasofya Osmanlı döneminde saray olarak inşa edildi.,-1
+Beethoven'ın 9. Senfonisi'nin son bölümünde hangi şiir kullanılır?,Schiller'in Neşeye Övgü şiiri kullanılır.,1
+Beethoven'ın 9. Senfonisi'nin son bölümünde hangi şiir kullanılır?,Goethe'nin Erlkönig şiiri kullanılır.,-1
+Türk Beşleri hangi alanda tanınır?,"Türk Beşleri, çok sesli Türk müziğinin öncü bestecileridir.",1
+Türk Beşleri hangi alanda tanınır?,"Türk Beşleri, Türk sinemasının öncü yönetmenleridir.",-1
+Dört Mevsim adlı keman konçertolarının bestecisi kimdir?,Dört Mevsim'in bestecisi Antonio Vivaldi'dir.,1
+Dört Mevsim adlı keman konçertolarının bestecisi kimdir?,Dört Mevsim'in bestecisi Johann Sebastian Bach'tır.,-1
+Sihirli Flüt operasının bestecisi kimdir?,Sihirli Flüt operasını Mozart bestelemiştir.,1
+Sihirli Flüt operasının bestecisi kimdir?,Sihirli Flüt operasını Verdi bestelemiştir.,-1
+Kuğu Gölü balesinin bestecisi kimdir?,Kuğu Gölü balesini Çaykovski bestelemiştir.,1
+Kuğu Gölü balesinin bestecisi kimdir?,Kuğu Gölü balesini Rahmaninov bestelemiştir.,-1
+Haiku hangi ülkenin edebiyatına ait bir şiir türüdür?,"Haiku, Japon edebiyatına ait bir şiir türüdür.",1
+Haiku hangi ülkenin edebiyatına ait bir şiir türüdür?,"Haiku, Çin edebiyatına ait bir şiir türüdür.",-1
+Klasik sone kaç dizeden oluşur?,Sone on dört dizeden oluşan bir şiir biçimidir.,1
+Klasik sone kaç dizeden oluşur?,Sone on iki dizeden oluşan bir şiir biçimidir.,-1
+Rubai kaç dizeden oluşur?,Rubai dört dizeden oluşan bir nazım biçimidir.,1
+Rubai kaç dizeden oluşur?,Rubai altı dizeden oluşan bir nazım biçimidir.,-1
+Divan edebiyatında gazelin ilk beytine ne denir?,Gazelin ilk beytine matla denir.,1
+Divan edebiyatında gazelin ilk beytine ne denir?,Gazelin ilk beytine makta denir.,-1
+Divan edebiyatında gazelin son beytine ne denir?,Gazelin son beytine makta denir.,1
+Divan edebiyatında gazelin son beytine ne denir?,Gazelin son beytine matla denir.,-1
+Mesnevi nazım biçiminin temel özelliği nedir?,Her beyti kendi içinde kafiyelenen uzun bir biçimdir.,1
+Mesnevi nazım biçiminin temel özelliği nedir?,Her dizesi aynı kafiyeyle biten kısa bir biçimdir.,-1
+Halk edebiyatında koşma genellikle hangi ölçüyle yazılır?,Koşma genellikle 11'li hece ölçüsüyle yazılır.,1
+Halk edebiyatında koşma genellikle hangi ölçüyle yazılır?,Koşma genellikle aruz ölçüsüyle yazılır.,-1
+Karacaoğlan hangi edebiyat geleneğinin temsilcisidir?,Karacaoğlan âşık edebiyatının temsilcisidir.,1
+Karacaoğlan hangi edebiyat geleneğinin temsilcisidir?,Karacaoğlan divan edebiyatının temsilcisidir.,-1
+Nasreddin Hoca anlatıları hangi türdedir?,Nasreddin Hoca anlatıları mizahi fıkra türündedir.,1
+Nasreddin Hoca anlatıları hangi türdedir?,Nasreddin Hoca anlatıları epik destan türündedir.,-1
+Servet-i Fünun döneminin önemli romancısı kimdir?,Servet-i Fünun'un önemli romancısı Halit Ziya Uşaklıgil'dir.,1
+Servet-i Fünun döneminin önemli romancısı kimdir?,Servet-i Fünun'un önemli romancısı Yakup Kadri Karaosmanoğlu'dur.,-1
+Aşk-ı Memnu romanının yazarı kimdir?,Aşk-ı Memnu'yu Halit Ziya Uşaklıgil yazmıştır.,1
+Aşk-ı Memnu romanının yazarı kimdir?,Aşk-ı Memnu'yu Recaizade Mahmut Ekrem yazmıştır.,-1
+Araba Sevdası romanının yazarı kimdir?,Araba Sevdası'nı Recaizade Mahmut Ekrem yazmıştır.,1
+Araba Sevdası romanının yazarı kimdir?,Araba Sevdası'nı Halit Ziya Uşaklıgil yazmıştır.,-1
+Yaban romanının yazarı kimdir?,Yaban'ı Yakup Kadri Karaosmanoğlu yazmıştır.,1
+Yaban romanının yazarı kimdir?,Yaban'ı Reşat Nuri Güntekin yazmıştır.,-1
+Memleketimden İnsan Manzaraları kime aittir?,Bu eser Nazım Hikmet Ran'a aittir.,1
+Memleketimden İnsan Manzaraları kime aittir?,Bu eser Ahmed Arif'e aittir.,-1
+Hasretinden Prangalar Eskittim adlı şiir kitabı kime aittir?,Bu kitap Ahmed Arif'e aittir.,1
+Hasretinden Prangalar Eskittim adlı şiir kitabı kime aittir?,Bu kitap Cemal Süreya'ya aittir.,-1
+Sait Faik Abasıyanık daha çok hangi türde öne çıkar?,Sait Faik daha çok öykü türünde öne çıkar.,1
+Sait Faik Abasıyanık daha çok hangi türde öne çıkar?,Sait Faik daha çok tiyatro türünde öne çıkar.,-1
+Cannes'da Altın Palmiye kazanan ilk Türk filmi hangisidir?,Altın Palmiye kazanan ilk Türk filmi Yol'dur.,1
+Cannes'da Altın Palmiye kazanan ilk Türk filmi hangisidir?,Altın Palmiye kazanan ilk Türk filmi Susuz Yaz'dır.,-1
+Berlin'de Altın Ayı kazanan ilk Türk filmi hangisidir?,Altın Ayı kazanan ilk Türk filmi Susuz Yaz'dır.,1
+Berlin'de Altın Ayı kazanan ilk Türk filmi hangisidir?,Altın Ayı kazanan ilk Türk filmi Yol'dur.,-1
+Nuri Bilge Ceylan Altın Palmiye'yi hangi filmiyle kazandı?,Altın Palmiye'yi Kış Uykusu filmiyle kazandı.,1
+Nuri Bilge Ceylan Altın Palmiye'yi hangi filmiyle kazandı?,Altın Palmiye'yi 2003'te Uzak filmiyle kazandı.,-1
+Floransa'daki ünlü mermer Davut heykeli kimin eseridir?,Bu Davut heykelini Michelangelo yapmıştır.,1
+Floransa'daki ünlü mermer Davut heykeli kimin eseridir?,Bu Davut heykelini Auguste Rodin yapmıştır.,-1
+Düşünen Adam heykeli kimin eseridir?,Düşünen Adam heykeli Auguste Rodin'e aittir.,1
+Düşünen Adam heykeli kimin eseridir?,Düşünen Adam heykeli Michelangelo'ya aittir.,-1
+Tiyatroda trajedi türü nerede ortaya çıkmıştır?,Trajedi türü Antik Yunan'da ortaya çıkmıştır.,1
+Tiyatroda trajedi türü nerede ortaya çıkmıştır?,Trajedi türü Antik Mısır'da ortaya çıkmıştır.,-1
+Fabl türünün temel özelliği nedir?,Hayvanların konuşturulduğu ders verici kısa öykülerdir.,1
+Fabl türünün temel özelliği nedir?,Gerçek tarihî olayları anlatan uzun destanlardır.,-1
+La Fontaine hangi türdeki eserleriyle tanınır?,La Fontaine fabllarıyla tanınır.,1
+La Fontaine hangi türdeki eserleriyle tanınır?,La Fontaine trajedileriyle tanınır.,-1
+C vitamini eksikliği hangi hastalığa yol açar?,C vitamini eksikliği skorbüt hastalığına yol açar.,1
+C vitamini eksikliği hangi hastalığa yol açar?,C vitamini eksikliği raşitizm hastalığına yol açar.,-1
+D vitamini eksikliği çocuklarda hangi hastalığa yol açar?,D vitamini eksikliği çocuklarda raşitizme yol açar.,1
+D vitamini eksikliği çocuklarda hangi hastalığa yol açar?,D vitamini eksikliği çocuklarda skorbüte yol açar.,-1
+Vücut D vitaminini hangi yolla üretebilir?,"Deri, güneş ışığındaki UVB ile D vitamini üretir.",1
+Vücut D vitaminini hangi yolla üretebilir?,"Mide, besinlerin sindirimi sırasında D vitamini üretir.",-1
+B12 vitamini başlıca hangi besinlerde bulunur?,B12 vitamini başlıca hayvansal besinlerde bulunur.,1
+B12 vitamini başlıca hangi besinlerde bulunur?,B12 vitamini başlıca taze meyve ve sebzelerde bulunur.,-1
+Demir eksikliği neye yol açabilir?,Demir eksikliği anemiye yol açabilir.,1
+Demir eksikliği neye yol açabilir?,Demir eksikliği guatra yol açabilir.,-1
+İyot eksikliği neye yol açabilir?,İyot eksikliği guatra yol açabilir.,1
+İyot eksikliği neye yol açabilir?,İyot eksikliği anemiye yol açabilir.,-1
+İnsülin hangi organdan salgılanır?,İnsülin pankreastan salgılanır.,1
+İnsülin hangi organdan salgılanır?,İnsülin karaciğerden salgılanır.,-1
+İnsülin hormonunun temel görevi nedir?,Kan şekerini düşürmektir.,1
+İnsülin hormonunun temel görevi nedir?,Kan şekerini yükseltmektir.,-1
+Glukagon hormonu kan şekerini nasıl etkiler?,Glukagon kan şekerini yükseltir.,1
+Glukagon hormonu kan şekerini nasıl etkiler?,Glukagon kan şekerini düşürür.,-1
+Safra hangi organda üretilir?,Safra karaciğerde üretilir.,1
+Safra hangi organda üretilir?,Safra pankreasta üretilir.,-1
+Safra nerede depolanır?,"Safra, safra kesesinde depolanır.",1
+Safra nerede depolanır?,"Safra, karın boşluğundaki dalakta depolanır.",-1
+Sağlıklı bir yetişkinin normal vücut sıcaklığı ne kadardır?,"Yaklaşık 36,5-37 °C'dir.",1
+Sağlıklı bir yetişkinin normal vücut sıcaklığı ne kadardır?,"Yaklaşık 38,5-39 °C'dir.",-1
+Sağlıklı bir yetişkinde normal dinlenme nabzı ne kadardır?,Genellikle dakikada 60-100 atım arasındadır.,1
+Sağlıklı bir yetişkinde normal dinlenme nabzı ne kadardır?,Genellikle dakikada 120-160 atım arasındadır.,-1
+Kırmızı kan hücresi naklinde evrensel verici kan grubu hangisidir?,Evrensel verici kan grubu 0 Rh negatiftir.,1
+Kırmızı kan hücresi naklinde evrensel verici kan grubu hangisidir?,Evrensel verici kan grubu AB Rh pozitiftir.,-1
+Kırmızı kan hücresi naklinde evrensel alıcı kan grubu hangisidir?,Evrensel alıcı kan grubu AB Rh pozitiftir.,1
+Kırmızı kan hücresi naklinde evrensel alıcı kan grubu hangisidir?,Evrensel alıcı kan grubu 0 Rh negatiftir.,-1
+Antibiyotikler hangi tür enfeksiyonlarda etkilidir?,Antibiyotikler bakteriyel enfeksiyonlarda etkilidir.,1
+Antibiyotikler hangi tür enfeksiyonlarda etkilidir?,Antibiyotikler viral enfeksiyonlarda etkilidir.,-1
+Grip hastalığının etkeni nedir?,"Grip, bir virüs tarafından oluşturulur.",1
+Grip hastalığının etkeni nedir?,"Grip, bir bakteri tarafından oluşturulur.",-1
+Penisilini kim keşfetmiştir?,Penisilini Alexander Fleming keşfetmiştir.,1
+Penisilini kim keşfetmiştir?,Penisilini Louis Pasteur keşfetmiştir.,-1
+Çiçek hastalığı aşısını kim geliştirmiştir?,Çiçek aşısını Edward Jenner geliştirmiştir.,1
+Çiçek hastalığı aşısını kim geliştirmiştir?,Çiçek aşısını Robert Koch geliştirmiştir.,-1
+Kuduz aşısını kim geliştirmiştir?,Kuduz aşısını Louis Pasteur geliştirmiştir.,1
+Kuduz aşısını kim geliştirmiştir?,Kuduz aşısını Edward Jenner geliştirmiştir.,-1
+Aşılar vücudu nasıl korur?,Bağışıklık sistemini etkene karşı önceden hazırlar.,1
+Aşılar vücudu nasıl korur?,Vücuttaki tüm mikropları kana karışarak doğrudan öldürür.,-1
+Proteinlerin temel yapı taşı nedir?,Proteinlerin yapı taşı amino asitlerdir.,1
+Proteinlerin temel yapı taşı nedir?,Proteinlerin yapı taşı yağ asitleridir.,-1
+Bir gram karbonhidrat yaklaşık kaç kilokalori enerji verir?,Bir gram karbonhidrat yaklaşık 4 kcal enerji verir.,1
+Bir gram karbonhidrat yaklaşık kaç kilokalori enerji verir?,Bir gram karbonhidrat yaklaşık 9 kcal enerji verir.,-1
+Bir gram yağ yaklaşık kaç kilokalori enerji verir?,Bir gram yağ yaklaşık 9 kcal enerji verir.,1
+Bir gram yağ yaklaşık kaç kilokalori enerji verir?,Bir gram yağ yaklaşık 4 kcal enerji verir.,-1
+Bir gram protein yaklaşık kaç kilokalori enerji verir?,Bir gram protein yaklaşık 4 kcal enerji verir.,1
+Bir gram protein yaklaşık kaç kilokalori enerji verir?,Bir gram protein yaklaşık 7 kcal enerji verir.,-1
+Yağda çözünen vitaminler hangileridir?,"Yağda çözünen vitaminler A, D, E ve K'dir.",1
+Yağda çözünen vitaminler hangileridir?,"Yağda çözünen vitaminler B, C, E ve K'dir.",-1
+Suda çözünen vitaminler hangileridir?,B grubu vitaminleri ve C vitamini suda çözünür.,1
+Suda çözünen vitaminler hangileridir?,A vitamini ve D vitamini suda çözünür.,-1
+Kalsiyumun vücuttaki temel görevi nedir?,Kemik ve dişlerin yapısında yer alır.,1
+Kalsiyumun vücuttaki temel görevi nedir?,Kanda oksijen taşınmasını sağlar.,-1
+Kanda oksijeni taşıyan protein hangisidir?,Kanda oksijeni hemoglobin taşır.,1
+Kanda oksijeni taşıyan protein hangisidir?,Kanda oksijeni insülin taşır.,-1
+Beyaz kan hücrelerinin temel görevi nedir?,Vücudu enfeksiyonlara karşı savunmaktır.,1
+Beyaz kan hücrelerinin temel görevi nedir?,Vücutta oksijen ve karbondioksit taşımaktır.,-1
+Trombositlerin temel görevi nedir?,Trombositler kanın pıhtılaşmasını sağlar.,1
+Trombositlerin temel görevi nedir?,Trombositler kanda oksijen taşınmasını sağlar.,-1
+İnsan vücudunun en büyük organı hangisidir?,Vücudun en büyük organı deridir.,1
+İnsan vücudunun en büyük organı hangisidir?,Vücudun en büyük organı beyindir.,-1
+İnsan vücudunun en uzun kemiği hangisidir?,Vücudun en uzun kemiği uyluk kemiğidir.,1
+İnsan vücudunun en uzun kemiği hangisidir?,Vücudun en uzun kemiği kaval kemiğidir.,-1
+İnsan vücudunun en küçük kemiği hangisidir?,En küçük kemik orta kulaktaki üzengi kemiğidir.,1
+İnsan vücudunun en küçük kemiği hangisidir?,En küçük kemik ayaktaki küçük parmak kemiğidir.,-1
+İnsan kalbi kaç odacıktan oluşur?,İnsan kalbi dört odacıktan oluşur.,1
+İnsan kalbi kaç odacıktan oluşur?,İnsan kalbi üç odacıktan oluşur.,-1
+Akciğerlerde gaz değişimi nerede gerçekleşir?,Gaz değişimi alveollerde gerçekleşir.,1
+Akciğerlerde gaz değişimi nerede gerçekleşir?,Gaz değişimi bronşlarda gerçekleşir.,-1
+Böbreklerin temel görevi nedir?,Kanı süzerek idrar oluşturmaktır.,1
+Böbreklerin temel görevi nedir?,Sindirim enzimleri üretmektir.,-1
+Yetişkinlerde normal kabul edilen kan basıncı yaklaşık ne kadardır?,Yaklaşık 120/80 mmHg civarı normal kabul edilir.,1
+Yetişkinlerde normal kabul edilen kan basıncı yaklaşık ne kadardır?,Yaklaşık 160/110 mmHg civarı normal kabul edilir.,-1
+Lifli (posalı) besin tüketmenin faydası nedir?,Sindirimi düzenler ve kabızlığı önlemeye yardımcı olur.,1
+Lifli (posalı) besin tüketmenin faydası nedir?,Kan şekerini hızla yükseltir ve kabızlığa yol açar.,-1
+Tip 1 diyabette temel sorun nedir?,Tip 1 diyabette pankreas yeterli insülin üretemez.,1
+Tip 1 diyabette temel sorun nedir?,Tip 1 diyabette karaciğer yeterli safra üretemez.,-1
+Beden kitle indeksi nasıl hesaplanır?,"Kilonun, boyun metre cinsinden karesine bölünmesiyle hesaplanır.",1
+Beden kitle indeksi nasıl hesaplanır?,"Boyun, kilonun kilogram cinsinden karesine bölünmesiyle hesaplanır.",-1
+Yetişkinlerde normal kabul edilen beden kitle indeksi aralığı nedir?,"Yetişkinlerde 18,5 ile 24,9 arası normal kabul edilir.",1
+Yetişkinlerde normal kabul edilen beden kitle indeksi aralığı nedir?,"Yetişkinlerde 25 ile 29,9 arası normal kabul edilir.",-1
+Dünya Sağlık Örgütü yetişkinlere haftada ne kadar orta yoğunlukta fiziksel aktivite önerir?,Haftada en az 150 dakika önerir.,1
+Dünya Sağlık Örgütü yetişkinlere haftada ne kadar orta yoğunlukta fiziksel aktivite önerir?,Haftada en az 30 dakika önerir.,-1
+Dünya Sağlık Örgütü yetişkinlerin günlük tuz tüketimini ne kadarla sınırlamasını önerir?,Günde 5 gramdan az tuz tüketilmesini önerir.,1
+Dünya Sağlık Örgütü yetişkinlerin günlük tuz tüketimini ne kadarla sınırlamasını önerir?,Günde 15 gramdan az tuz tüketilmesini önerir.,-1
+İyi kolesterol olarak bilinen kolesterol türü hangisidir?,İyi kolesterol olarak HDL bilinir.,1
+İyi kolesterol olarak bilinen kolesterol türü hangisidir?,İyi kolesterol olarak LDL bilinir.,-1
+Sigarada bağımlılık yapan temel madde nedir?,Sigarada bağımlılık yapan madde nikotindir.,1
+Sigarada bağımlılık yapan temel madde nedir?,Sigarada bağımlılık yapan madde kafeindir.,-1
+Kafein başlıca hangi içeceklerde bulunur?,Kafein başta kahve ve çay olmak üzere içeceklerde bulunur.,1
+Kafein başlıca hangi içeceklerde bulunur?,Kafein başta süt ve ayran olmak üzere içeceklerde bulunur.,-1
+Dehidrasyon nedir?,Vücudun aldığından fazla sıvı kaybetmesidir.,1
+Dehidrasyon nedir?,Vücudun harcadığından fazla enerji almasıdır.,-1
+Probiyotikler nedir?,Sağlığa yararlı canlı mikroorganizmalardır.,1
+Probiyotikler nedir?,Sağlığa zararlı ölü mikroorganizmalardır.,-1
+Laktoz intoleransı nedir?,Laktozu sindiren laktaz enziminin yetersizliğidir.,1
+Laktoz intoleransı nedir?,Glutene karşı gelişen bağışıklık tepkisidir.,-1
+Çölyak hastalığı nedir?,Glutene karşı gelişen bağışıklık kaynaklı bir hastalıktır.,1
+Çölyak hastalığı nedir?,Süt şekerini sindiren laktaz enziminin yetersizliğinden kaynaklanır.,-1
+Gluten hangi tahıllarda bulunur?,"Gluten buğday, arpa ve çavdarda bulunur.",1
+Gluten hangi tahıllarda bulunur?,"Gluten pirinç, mısır ve patateste bulunur.",-1
+Omega-3 yağ asitlerinin zengin kaynağı hangi besinlerdir?,Somon ve uskumru gibi yağlı balıklar zengin kaynaktır.,1
+Omega-3 yağ asitlerinin zengin kaynağı hangi besinlerdir?,Beyaz ekmek ve şeker gibi rafine besinler zengin kaynaktır.,-1
+Yetişkinler için önerilen günlük uyku süresi ne kadardır?,Yetişkinler için genellikle gecede 7-9 saat önerilir.,1
+Yetişkinler için önerilen günlük uyku süresi ne kadardır?,Yetişkinler için genellikle gecede 4-5 saat önerilir.,-1
+Melatonin nedir?,"Melatonin, uyku-uyanıklık döngüsünü düzenleyen bir hormondur.",1
+Melatonin nedir?,"Melatonin, kan şekerini düzenleyen bir sindirim enzimidir.",-1
+Tiroid bezi vücudun neresinde bulunur?,Tiroid bezi boynun ön kısmında bulunur.,1
+Tiroid bezi vücudun neresinde bulunur?,Tiroid bezi karın boşluğunun sol tarafında bulunur.,-1
+Adrenalin hormonu hangi bezden salgılanır?,Adrenalin böbreküstü bezlerinden salgılanır.,1
+Adrenalin hormonu hangi bezden salgılanır?,Adrenalin boyundaki tiroid bezinden salgılanır.,-1
+Tükürükte nişasta sindirimini başlatan enzim hangisidir?,Tükürükteki amilaz nişasta sindirimini başlatır.,1
+Tükürükte nişasta sindirimini başlatan enzim hangisidir?,Tükürükteki pepsin nişasta sindirimini başlatır.,-1
+Midede protein sindirimi hangi enzimle başlar?,Midede protein sindirimi pepsin ile başlar.,1
+Midede protein sindirimi hangi enzimle başlar?,Midede protein sindirimi amilaz ile başlar.,-1
+Besinlerin emiliminin büyük kısmı nerede gerçekleşir?,Besin emiliminin büyük kısmı ince bağırsakta olur.,1
+Besinlerin emiliminin büyük kısmı nerede gerçekleşir?,Besin emiliminin büyük kısmı yemek borusunda olur.,-1
+Kalın bağırsağın temel görevi nedir?,Su ve minerallerin geri emilimini sağlar.,1
+Kalın bağırsağın temel görevi nedir?,Proteinlerin kimyasal sindirimini başlatır.,-1
+Sıtma nasıl bulaşır?,"Sıtma, Anopheles sivrisineklerinin ısırmasıyla bulaşır.",1
+Sıtma nasıl bulaşır?,"Sıtma, kirli suyun içilmesiyle doğrudan bulaşır.",-1
+Verem (tüberküloz) hastalığının etkeni nedir?,"Verem, Mycobacterium tuberculosis bakterisiyle oluşur.",1
+Verem (tüberküloz) hastalığının etkeni nedir?,"Verem, Staphylococcus aureus bakterisiyle oluşur.",-1
+HIV virüsü hangi sistemi hedef alır?,HIV bağışıklık sistemini hedef alır.,1
+HIV virüsü hangi sistemi hedef alır?,HIV sindirim sistemini hedef alır.,-1
+Eller sabunla en az ne kadar süre yıkanmalıdır?,Elleri sabunla en az 20 saniye yıkamak önerilir.,1
+Eller sabunla en az ne kadar süre yıkanmalıdır?,Elleri sabunla en az 3 saniye yıkamak önerilir.,-1
+Yetişkinde kalp masajı sırasında önerilen göğüs basısı hızı nedir?,Dakikada 100-120 bası hızı önerilir.,1
+Yetişkinde kalp masajı sırasında önerilen göğüs basısı hızı nedir?,Dakikada 30-40 bası hızı önerilir.,-1
+Kalp krizinin tıbbi adı nedir?,Kalp krizinin tıbbi adı miyokard enfarktüsüdür.,1
+Kalp krizinin tıbbi adı nedir?,Kalp krizinin tıbbi adı akut pnömotorakstır.,-1
+İnme (felç) neden oluşur?,Beyne giden kan akışının bozulmasıyla oluşur.,1
+İnme (felç) neden oluşur?,Kalbe giden sinir iletiminin artmasıyla oluşur.,-1
+Anemide kanda ne azalır?,Kandaki hemoglobin veya alyuvar miktarı azalır.,1
+Anemide kanda ne azalır?,Kandaki trombosit veya akyuvar miktarı azalır.,-1
+İyi bir kalsiyum kaynağı hangisidir?,Süt ve süt ürünleri iyi bir kalsiyum kaynağıdır.,1
+İyi bir kalsiyum kaynağı hangisidir?,Şeker ve şekerli içecekler iyi bir kalsiyum kaynağıdır.,-1
+A vitamini eksikliği neye yol açabilir?,A vitamini eksikliği gece körlüğüne yol açabilir.,1
+A vitamini eksikliği neye yol açabilir?,A vitamini eksikliği diş etlerinde skorbüte yol açabilir.,-1
+K vitamininin temel görevi nedir?,K vitamini kanın pıhtılaşmasında rol oynar.,1
+K vitamininin temel görevi nedir?,K vitamini görme pigmentinin yapımında rol oynar.,-1
+Yetişkin bir insan vücudunun yaklaşık ne kadarı sudur?,Yetişkin vücudunun yaklaşık yüzde 60'ı sudur.,1
+Yetişkin bir insan vücudunun yaklaşık ne kadarı sudur?,Yetişkin vücudunun yaklaşık yüzde 20'si sudur.,-1
+Alerjik tepkilerde başlıca hangi madde salgılanır?,Alerjik tepkilerde başlıca histamin salgılanır.,1
+Alerjik tepkilerde başlıca hangi madde salgılanır?,Alerjik tepkilerde başlıca insülin salgılanır.,-1
+Karaciğer ve kaslarda karbonhidrat hangi formda depolanır?,Karbonhidrat bu dokularda glikojen olarak depolanır.,1
+Karaciğer ve kaslarda karbonhidrat hangi formda depolanır?,Karbonhidrat bu dokularda nişasta olarak depolanır.,-1
+Enflasyon nedir?,Genel fiyat düzeyinin sürekli artmasıdır.,1
+Enflasyon nedir?,Genel fiyat düzeyinin sürekli azalmasıdır.,-1
+Deflasyon nedir?,Genel fiyat düzeyinin sürekli düşmesidir.,1
+Deflasyon nedir?,Genel fiyat düzeyinin sürekli yükselmesidir.,-1
+Stagflasyon nedir?,Durgunluk ile yüksek enflasyonun bir arada görülmesidir.,1
+Stagflasyon nedir?,Hızlı büyüme ile düşük enflasyonun bir arada görülmesidir.,-1
+Gayrisafi yurt içi hasıla (GSYH) nedir?,Bir ülkede belirli dönemde üretilen nihai mal ve hizmetlerin piyasa değeridir.,1
+Gayrisafi yurt içi hasıla (GSYH) nedir?,Bir ülkede belirli dönemde ithal edilen tüm ara malların toplam değeridir.,-1
+Türkiye'de para politikasından hangi kurum sorumludur?,Para politikasından Türkiye Cumhuriyet Merkez Bankası sorumludur.,1
+Türkiye'de para politikasından hangi kurum sorumludur?,Para politikasından Türkiye İstatistik Kurumu sorumludur.,-1
+Merkez bankası politika faizini artırırsa genellikle ne olur?,Kredi talebi azalır ve enflasyon baskısı düşer.,1
+Merkez bankası politika faizini artırırsa genellikle ne olur?,Kredi talebi artar ve enflasyon baskısı yükselir.,-1
+Talep kanunu neyi ifade eder?,Diğer koşullar sabitken fiyat artınca talep edilen miktar azalır.,1
+Talep kanunu neyi ifade eder?,Diğer koşullar sabitken fiyat artınca talep edilen miktar artar.,-1
+Arz kanunu neyi ifade eder?,Diğer koşullar sabitken fiyat artınca arz edilen miktar artar.,1
+Arz kanunu neyi ifade eder?,Diğer koşullar sabitken fiyat artınca arz edilen miktar azalır.,-1
+Tekel (monopol) piyasası nedir?,Piyasada tek bir satıcının bulunduğu yapıdır.,1
+Tekel (monopol) piyasası nedir?,Piyasada çok sayıda küçük satıcının bulunduğu yapıdır.,-1
+Oligopol piyasası nedir?,Piyasada az sayıda büyük satıcının bulunduğu yapıdır.,1
+Oligopol piyasası nedir?,Piyasada yalnızca tek bir alıcının bulunduğu yapıdır.,-1
+Tam rekabet piyasasının temel özelliği nedir?,Çok sayıda alıcı ve satıcının homojen ürün alıp sattığı piyasadır.,1
+Tam rekabet piyasasının temel özelliği nedir?,Tek bir satıcının farklılaştırılmış ürün sattığı piyasadır.,-1
+Fırsat maliyeti nedir?,Bir seçim yapılırken vazgeçilen en iyi alternatifin değeridir.,1
+Fırsat maliyeti nedir?,Bir seçim yapılırken ödenen toplam vergi tutarının değeridir.,-1
+Bileşik faiz nedir?,Faizin anaparaya eklenip yeniden faiz kazanmasıdır.,1
+Bileşik faiz nedir?,Faizin yalnızca ilk anapara üzerinden hesaplanmasıdır.,-1
+Basit faiz nedir?,Faizin yalnızca anapara üzerinden hesaplanmasıdır.,1
+Basit faiz nedir?,Faizin her dönem anaparaya eklenerek hesaplanmasıdır.,-1
+1000 TL yıllık yüzde 10 basit faizle 2 yıl yatırılırsa ne kadar faiz elde edilir?,Toplam 200 TL faiz elde edilir.,1
+1000 TL yıllık yüzde 10 basit faizle 2 yıl yatırılırsa ne kadar faiz elde edilir?,Toplam 210 TL faiz elde edilir.,-1
+1000 TL yıllık yüzde 10 bileşik faizle 2 yıl yatırılırsa birikim ne olur?,Birikim 1210 TL olur.,1
+1000 TL yıllık yüzde 10 bileşik faizle 2 yıl yatırılırsa birikim ne olur?,Birikim 1200 TL olur.,-1
+Hisse senedi nedir?,Bir şirketin sermayesine ortaklığı gösteren menkul kıymettir.,1
+Hisse senedi nedir?,Bir devletin borçlanmasını gösteren menkul kıymettir.,-1
+Tahvil nedir?,İhraççının borçlanmasını gösteren bir borçlanma aracıdır.,1
+Tahvil nedir?,İhraççıya ortaklık hakkı veren bir sermaye aracıdır.,-1
+Temettü nedir?,Şirketin kârından ortaklarına dağıttığı paydır.,1
+Temettü nedir?,Şirketin bankalara her yıl ödediği kredi faizi tutarıdır.,-1
+Borsa İstanbul'un ana hisse endeksi hangisidir?,Borsa İstanbul'un ana endeksi BIST 100'dür.,1
+Borsa İstanbul'un ana hisse endeksi hangisidir?,Borsa İstanbul'un ana endeksi Dow Jones'tur.,-1
+Yatırımda çeşitlendirme ne demektir?,Yatırımları farklı varlıklara dağıtarak riski azaltmaktır.,1
+Yatırımda çeşitlendirme ne demektir?,Tüm yatırımı tek bir varlığa yatırarak riski azaltmaktır.,-1
+Finansta likidite nedir?,Bir varlığın değer kaybetmeden hızla nakde çevrilebilmesidir.,1
+Finansta likidite nedir?,Bir varlığın uzun vadede istikrarlı biçimde değer kazanabilmesidir.,-1
+Bilanço neyi gösterir?,"Belirli bir tarihteki varlık, borç ve özkaynakları gösterir.",1
+Bilanço neyi gösterir?,"Belirli bir dönemdeki gelir, gider ve kâr ya da zararı gösterir.",-1
+Gelir tablosu neyi gösterir?,"Belirli bir dönemdeki gelir, gider ve kâr ya da zararı gösterir.",1
+Gelir tablosu neyi gösterir?,"Belirli bir tarihteki varlık, borç ve özkaynakları gösterir.",-1
+Temel muhasebe denklemi nedir?,"Varlıklar, borçlar ile özkaynakların toplamına eşittir.",1
+Temel muhasebe denklemi nedir?,"Varlıklar, gelirler ile giderlerin toplamına eşittir.",-1
+Katma değer vergisi (KDV) nasıl bir vergidir?,Mal ve hizmet teslimleri üzerinden alınan dolaylı bir vergidir.,1
+Katma değer vergisi (KDV) nasıl bir vergidir?,Kişilerin yıllık kazancı üzerinden alınan dolaysız bir vergidir.,-1
+Gelir vergisi nasıl bir vergidir?,Gerçek kişilerin kazançları üzerinden alınan dolaysız bir vergidir.,1
+Gelir vergisi nasıl bir vergidir?,Mal ve hizmet satışları üzerinden alınan dolaylı bir tüketim vergisidir.,-1
+Dış ticaret açığı nedir?,İthalatın ihracattan fazla olması durumudur.,1
+Dış ticaret açığı nedir?,İhracatın ithalattan fazla olması durumudur.,-1
+Devalüasyon nedir?,Ulusal paranın değerinin resmi olarak düşürülmesidir.,1
+Devalüasyon nedir?,Ulusal paranın değerinin resmi olarak yükseltilmesidir.,-1
+Yerli para değer kaybettiğinde ihracat genellikle nasıl etkilenir?,Yerli ürünler yurt dışında ucuzlar ve ihracat artma eğilimi gösterir.,1
+Yerli para değer kaybettiğinde ihracat genellikle nasıl etkilenir?,Yerli ürünler yurt dışında pahalılaşır ve ihracat azalma eğilimi gösterir.,-1
+Resesyon genellikle nasıl tanımlanır?,Genellikle art arda iki çeyrek ekonomik daralma olarak tanımlanır.,1
+Resesyon genellikle nasıl tanımlanır?,Genellikle art arda iki çeyrek ekonomik büyüme olarak tanımlanır.,-1
+İşsizlik oranı nasıl hesaplanır?,İşsizlerin işgücüne oranıyla hesaplanır.,1
+İşsizlik oranı nasıl hesaplanır?,İşsizlerin toplam nüfusa oranıyla hesaplanır.,-1
+Türk lirasından altı sıfır hangi yıl atıldı?,Altı sıfır 2005 yılında atıldı.,1
+Türk lirasından altı sıfır hangi yıl atıldı?,Altı sıfır 1995 yılında atıldı.,-1
+Avro banknot ve madeni paraları hangi yıl tedavüle girdi?,Avro nakit olarak 2002 yılında tedavüle girdi.,1
+Avro banknot ve madeni paraları hangi yıl tedavüle girdi?,Avro nakit olarak 1992 yılında tedavüle girdi.,-1
+Bitcoin kim tarafından tanıtılmıştır?,"Bitcoin, Satoshi Nakamoto takma adlı kişi veya grup tarafından tanıtıldı.",1
+Bitcoin kim tarafından tanıtılmıştır?,"Bitcoin, Vitalik Buterin adlı yazılımcı tarafından tanıtıldı.",-1
+Blokzincir teknolojisi nedir?,Kayıtların bloklar halinde birbirine bağlandığı dağıtık bir defterdir.,1
+Blokzincir teknolojisi nedir?,Kayıtların tek bir merkezi sunucuda tutulduğu klasik bir veritabanıdır.,-1
+Adam Smith'in en ünlü eseri hangisidir?,Adam Smith'in en ünlü eseri Milletlerin Zenginliği'dir.,1
+Adam Smith'in en ünlü eseri hangisidir?,Adam Smith'in en ünlü eseri İstihdamın Genel Teorisi'dir.,-1
+Kapital adlı eser kime aittir?,"Kapital, Karl Marx'ın eseridir.",1
+Kapital adlı eser kime aittir?,"Kapital, Adam Smith'in eseridir.",-1
+Ekonomide görünmez el kavramı kime aittir?,"Görünmez el, Adam Smith'e ait bir kavramdır.",1
+Ekonomide görünmez el kavramı kime aittir?,"Görünmez el, John Maynard Keynes'e ait bir kavramdır.",-1
+Keynesyen iktisat durgunluk dönemlerinde ne önerir?,Kamu harcamalarıyla talebi canlandırmayı önerir.,1
+Keynesyen iktisat durgunluk dönemlerinde ne önerir?,Kamu harcamalarını keserek talebi daraltmayı önerir.,-1
+Kredi notu neyi ifade eder?,Borçlunun geri ödeme kabiliyetine ilişkin bir değerlendirmedir.,1
+Kredi notu neyi ifade eder?,Borçlunun aylık harcama alışkanlıklarının bir listesidir.,-1
+Kredi kartında yalnızca asgari ödeme yapılırsa ne olur?,Kalan borca faiz işlemeye devam eder.,1
+Kredi kartında yalnızca asgari ödeme yapılırsa ne olur?,Kalan borç faizsiz olarak silinir.,-1
+Bankacılıkta mevduat nedir?,Bankaya faiz veya saklama amacıyla yatırılan paradır.,1
+Bankacılıkta mevduat nedir?,Bankadan faiz karşılığında alınan uzun vadeli tüketici kredisidir.,-1
+Enflasyon mevduat faizinden yüksekse reel getiri ne olur?,Reel getiri negatif olur.,1
+Enflasyon mevduat faizinden yüksekse reel getiri ne olur?,Reel getiri pozitif olur.,-1
+Reel faiz nedir?,Nominal faizin enflasyon etkisinden arındırılmış halidir.,1
+Reel faiz nedir?,Nominal faize enflasyon oranının doğrudan eklenmiş halidir.,-1
+Bir piyasada arz fazlası oluştuğunda fiyatlar nasıl hareket eder?,Fiyatlar düşme eğilimi gösterir.,1
+Bir piyasada arz fazlası oluştuğunda fiyatlar nasıl hareket eder?,Fiyatlar yükselme eğilimi gösterir.,-1
+Bütçe açığı nedir?,Kamu harcamalarının kamu gelirlerini aşmasıdır.,1
+Bütçe açığı nedir?,Kamu gelirlerinin kamu harcamalarını aşmasıdır.,-1
+Maliye politikasının temel araçları nelerdir?,Vergiler ve kamu harcamalarıdır.,1
+Maliye politikasının temel araçları nelerdir?,Politika faizi ve zorunlu karşılıklardır.,-1
+Para politikasının temel araçları nelerdir?,Politika faizi ve açık piyasa işlemleridir.,1
+Para politikasının temel araçları nelerdir?,Vergi oranları ve kamu yatırımlarıdır.,-1
+IMF ve Dünya Bankası hangi konferans sonucunda kuruldu?,Bretton Woods Konferansı sonucunda kuruldu.,1
+IMF ve Dünya Bankası hangi konferans sonucunda kuruldu?,1945'teki Yalta Konferansı sonucunda kuruldu.,-1
+ABD'nin merkez bankası hangisidir?,ABD'nin merkez bankası Federal Rezerv'dir.,1
+ABD'nin merkez bankası hangisidir?,ABD'nin merkez bankası Wall Street'tir.,-1
+Avro bölgesinin para politikasını hangi kurum yürütür?,Avrupa Merkez Bankası yürütür.,1
+Avro bölgesinin para politikasını hangi kurum yürütür?,Avrupa Yatırım Bankası yürütür.,-1
+Muhasebede amortisman nedir?,Duran varlığın maliyetinin ömrü boyunca giderleştirilmesidir.,1
+Muhasebede amortisman nedir?,Dönen varlığın maliyetinin tek seferde gelir yazılmasıdır.,-1
+Kâr marjı nasıl hesaplanır?,Kârın satış gelirine oranıyla hesaplanır.,1
+Kâr marjı nasıl hesaplanır?,Satış gelirinin kâra oranıyla hesaplanır.,-1
+Başabaş noktası nedir?,Toplam gelirin toplam maliyete eşit olduğu noktadır.,1
+Başabaş noktası nedir?,Toplam gelirin toplam maliyetin iki katı olduğu noktadır.,-1
+Sabit maliyet nedir?,Üretim miktarından bağımsız olarak değişmeyen maliyettir.,1
+Sabit maliyet nedir?,Üretim miktarıyla doğru orantılı değişen maliyettir.,-1
+Değişken maliyet nedir?,Üretim miktarına bağlı olarak değişen maliyettir.,1
+Değişken maliyet nedir?,Üretim miktarından bağımsız olarak sabit kalan maliyettir.,-1
+Ölçek ekonomisi nedir?,Üretim arttıkça birim maliyetin düşmesidir.,1
+Ölçek ekonomisi nedir?,Üretim arttıkça birim maliyetin yükselmesidir.,-1
+Reel GSYH ile nominal GSYH arasındaki fark nedir?,Reel GSYH fiyat değişimlerinden arındırılmış üretimi ölçer.,1
+Reel GSYH ile nominal GSYH arasındaki fark nedir?,Reel GSYH o yılın cari fiyatlarıyla hesaplanmış üretimi ölçer.,-1
+Kişi başına GSYH nasıl hesaplanır?,Toplam GSYH'nin nüfusa bölünmesiyle bulunur.,1
+Kişi başına GSYH nasıl hesaplanır?,Toplam GSYH'nin ihracata bölünmesiyle bulunur.,-1
+Gini katsayısı neyi ölçer?,Gelir dağılımındaki eşitsizliği ölçer.,1
+Gini katsayısı neyi ölçer?,Ülkenin dış borç düzeyini ölçer.,-1
+Gini katsayısının 0 olması neyi gösterir?,Gini katsayısının 0 olması tam eşitliği gösterir.,1
+Gini katsayısının 0 olması neyi gösterir?,Gini katsayısının 0 olması tam eşitsizliği gösterir.,-1
+Borsada ayı piyasası ne demektir?,Fiyatların uzun süre düştüğü piyasadır.,1
+Borsada ayı piyasası ne demektir?,Fiyatların uzun süre yükseldiği piyasadır.,-1
+Borsada boğa piyasası ne demektir?,Fiyatların uzun süre yükseldiği piyasadır.,1
+Borsada boğa piyasası ne demektir?,Fiyatların uzun süre düştüğü piyasadır.,-1
+Halka arz nedir?,Şirket hisselerinin ilk kez kamuya satışa sunulmasıdır.,1
+Halka arz nedir?,Şirket hisselerinin borsadan tamamen çekilmesidir.,-1
+Yatırım fonu nedir?,Birçok yatırımcının parasını profesyonelce yöneten ortak bir portföydür.,1
+Yatırım fonu nedir?,Tek bir yatırımcının parasını tutan vadesiz bir banka hesabıdır.,-1
+Kişisel finansta acil durum fonu ne kadar olmalıdır?,Genellikle 3-6 aylık temel giderler kadar önerilir.,1
+Kişisel finansta acil durum fonu ne kadar olmalıdır?,Genellikle 1-2 günlük temel giderler kadar önerilir.,-1
+Faiz oranları yükseldiğinde mevcut tahvillerin fiyatı nasıl değişir?,Mevcut tahvillerin fiyatı düşer.,1
+Faiz oranları yükseldiğinde mevcut tahvillerin fiyatı nasıl değişir?,Mevcut tahvillerin fiyatı yükselir.,-1
+Yatırımda risk ile beklenen getiri arasındaki ilişki nasıldır?,Beklenen getiri arttıkça genellikle risk de artar.,1
+Yatırımda risk ile beklenen getiri arasındaki ilişki nasıldır?,Beklenen getiri arttıkça genellikle risk azalır.,-1
+Döviz kuru nedir?,Bir ülke parasının başka bir ülke parası cinsinden fiyatıdır.,1
+Döviz kuru nedir?,Bir ülke parasının altın cinsinden sabit vergi oranıdır.,-1
+1929 Büyük Buhranı hangi ülkede başladı?,Büyük Buhran ABD'de başladı.,1
+1929 Büyük Buhranı hangi ülkede başladı?,Büyük Buhran Japonya'da başladı.,-1
+2008 küresel finans krizi hangi piyasada başladı?,ABD'deki yüksek riskli konut kredisi piyasasında başladı.,1
+2008 küresel finans krizi hangi piyasada başladı?,Çin'deki tarım ürünleri vadeli işlem piyasasında başladı.,-1
+Asgari ücret nedir?,Yasal olarak belirlenen en düşük ücrettir.,1
+Asgari ücret nedir?,Yasal olarak belirlenen en yüksek ücrettir.,-1
+Vergi mükellefi kimdir?,Vergi kanununa göre vergi borcu olan kişidir.,1
+Vergi mükellefi kimdir?,Vergiyi tahsil etmekle görevli kamu personelidir.,-1
+Fiyat esnekliği yüksek talep ne demektir?,Fiyat değişimine talebin güçlü tepki vermesidir.,1
+Fiyat esnekliği yüksek talep ne demektir?,Fiyat değişimine talebin hiç tepki vermemesidir.,-1
+Bir futbol takımı sahada kaç oyuncuyla oynar?,Bir futbol takımı sahada 11 oyuncuyla oynar.,1
+Bir futbol takımı sahada kaç oyuncuyla oynar?,Bir futbol takımı sahada 9 oyuncuyla oynar.,-1
+Bir basketbol takımı sahada kaç oyuncuyla oynar?,Bir basketbol takımı sahada 5 oyuncuyla oynar.,1
+Bir basketbol takımı sahada kaç oyuncuyla oynar?,Bir basketbol takımı sahada 6 oyuncuyla oynar.,-1
+Bir voleybol takımı sahada kaç oyuncuyla oynar?,Bir voleybol takımı sahada 6 oyuncuyla oynar.,1
+Bir voleybol takımı sahada kaç oyuncuyla oynar?,Bir voleybol takımı sahada 5 oyuncuyla oynar.,-1
+Bir hentbol takımı sahada kaç oyuncuyla oynar?,Bir hentbol takımı sahada kaleci dahil 7 oyuncuyla oynar.,1
+Bir hentbol takımı sahada kaç oyuncuyla oynar?,Bir hentbol takımı sahada kaleci dahil 11 oyuncuyla oynar.,-1
+Bir futbol maçının normal süresi ne kadardır?,Normal süre iki yarı halinde toplam 90 dakikadır.,1
+Bir futbol maçının normal süresi ne kadardır?,Normal süre iki yarı halinde toplam 80 dakikadır.,-1
+Bir NBA maçı nasıl bölümlerden oluşur?,NBA maçı 12'şer dakikalık dört çeyrekten oluşur.,1
+Bir NBA maçı nasıl bölümlerden oluşur?,NBA maçı 10'ar dakikalık dört çeyrekten oluşur.,-1
+FIBA kurallarına göre bir basketbol maçı nasıl bölümlerden oluşur?,FIBA maçları 10'ar dakikalık dört çeyrekten oluşur.,1
+FIBA kurallarına göre bir basketbol maçı nasıl bölümlerden oluşur?,FIBA maçları 12'şer dakikalık dört çeyrekten oluşur.,-1
+Basketbolda üç sayı çizgisinin dışından atılan basket kaç sayıdır?,Üç sayı çizgisi dışından atılan basket 3 sayıdır.,1
+Basketbolda üç sayı çizgisinin dışından atılan basket kaç sayıdır?,Üç sayı çizgisi dışından atılan basket 2 sayıdır.,-1
+Basketbolda başarılı bir serbest atış kaç sayıdır?,Başarılı her serbest atış 1 sayıdır.,1
+Basketbolda başarılı bir serbest atış kaç sayıdır?,Başarılı her serbest atış 2 sayıdır.,-1
+Voleybolda normal bir set kaç sayıda biter?,Normal setler 25 sayıda ve en az 2 farkla biter.,1
+Voleybolda normal bir set kaç sayıda biter?,Normal setler 21 sayıda ve en az 2 farkla biter.,-1
+Voleybolda beşinci (tie-break) set kaç sayı üzerinden oynanır?,Beşinci set 15 sayı üzerinden oynanır.,1
+Voleybolda beşinci (tie-break) set kaç sayı üzerinden oynanır?,Beşinci set 25 sayı üzerinden oynanır.,-1
+Teniste love terimi ne anlama gelir?,"Teniste love, sıfır sayı anlamına gelir.",1
+Teniste love terimi ne anlama gelir?,"Teniste love, kırk sayı anlamına gelir.",-1
+Teniste dört Grand Slam turnuvası hangileridir?,"Avustralya Açık, Fransa Açık, Wimbledon ve ABD Açık'tır.",1
+Teniste dört Grand Slam turnuvası hangileridir?,"Avustralya Açık, İtalya Açık, Wimbledon ve Kanada Açık'tır.",-1
+Wimbledon hangi tür kortta oynanır?,Wimbledon çim kortta oynanır.,1
+Wimbledon hangi tür kortta oynanır?,Wimbledon toprak kortta oynanır.,-1
+Roland Garros (Fransa Açık) hangi tür kortta oynanır?,Roland Garros toprak kortta oynanır.,1
+Roland Garros (Fransa Açık) hangi tür kortta oynanır?,Roland Garros çim kortta oynanır.,-1
+İlk modern Olimpiyat Oyunları nerede ve ne zaman yapıldı?,İlk modern Olimpiyatlar 1896'da Atina'da yapıldı.,1
+İlk modern Olimpiyat Oyunları nerede ve ne zaman yapıldı?,İlk modern Olimpiyatlar 1900'de Paris'te yapıldı.,-1
+Olimpiyat bayrağında kaç halka bulunur?,Olimpiyat bayrağında beş halka bulunur.,1
+Olimpiyat bayrağında kaç halka bulunur?,Olimpiyat bayrağında yedi halka bulunur.,-1
+Modern Olimpiyat Oyunları'nın kurucusu kimdir?,Modern Olimpiyatları Pierre de Coubertin başlatmıştır.,1
+Modern Olimpiyat Oyunları'nın kurucusu kimdir?,Modern Olimpiyatları Avery Brundage başlatmıştır.,-1
+Maraton koşusunun mesafesi ne kadardır?,"Maraton 42,195 kilometredir.",1
+Maraton koşusunun mesafesi ne kadardır?,"Maraton 21,097 kilometredir.",-1
+İlk FIFA Dünya Kupası nerede ve ne zaman yapıldı?,İlk Dünya Kupası 1930'da Uruguay'da yapıldı.,1
+İlk FIFA Dünya Kupası nerede ve ne zaman yapıldı?,İlk Dünya Kupası 1934'te İtalya'da yapıldı.,-1
+En çok FIFA Dünya Kupası kazanan ülke hangisidir?,En çok Dünya Kupası kazanan ülke Brezilya'dır.,1
+En çok FIFA Dünya Kupası kazanan ülke hangisidir?,En çok Dünya Kupası kazanan ülke Almanya'dır.,-1
+Türkiye 2002 FIFA Dünya Kupası'nı kaçıncı sırada bitirdi?,Türkiye 2002 Dünya Kupası'nı üçüncü bitirdi.,1
+Türkiye 2002 FIFA Dünya Kupası'nı kaçıncı sırada bitirdi?,Türkiye 2002 Dünya Kupası'nı ikinci bitirdi.,-1
+2022 FIFA Dünya Kupası hangi ülkede yapıldı?,2022 Dünya Kupası Katar'da yapıldı.,1
+2022 FIFA Dünya Kupası hangi ülkede yapıldı?,2022 Dünya Kupası Rusya'da yapıldı.,-1
+2022 FIFA Dünya Kupası'nı hangi ülke kazandı?,2022 Dünya Kupası'nı Arjantin kazandı.,1
+2022 FIFA Dünya Kupası'nı hangi ülke kazandı?,2022 Dünya Kupası'nı Fransa kazandı.,-1
+Galatasaray UEFA Kupası'nı hangi yıl kazandı?,Galatasaray UEFA Kupası'nı 2000 yılında kazandı.,1
+Galatasaray UEFA Kupası'nı hangi yıl kazandı?,Galatasaray UEFA Kupası'nı 2005 yılında kazandı.,-1
+Hakan Şükür 2002 Dünya Kupası'ndaki rekor golünü hangi takıma attı?,Güney Kore'ye karşı yaklaşık 11. saniyede gol attı.,1
+Hakan Şükür 2002 Dünya Kupası'ndaki rekor golünü hangi takıma attı?,Brezilya'ya karşı yaklaşık 11. saniyede gol attı.,-1
+Naim Süleymanoğlu hangi spor dalında yarışmıştır?,Naim Süleymanoğlu halterde yarışmıştır.,1
+Naim Süleymanoğlu hangi spor dalında yarışmıştır?,Naim Süleymanoğlu güreşte yarışmıştır.,-1
+Naim Süleymanoğlu kaç olimpiyat altın madalyası kazanmıştır?,Üç olimpiyat altın madalyası kazanmıştır.,1
+Naim Süleymanoğlu kaç olimpiyat altın madalyası kazanmıştır?,İki olimpiyat altın madalyası kazanmıştır.,-1
+Kırkpınar'da hangi spor yapılır?,Kırkpınar'da yağlı güreş yapılır.,1
+Kırkpınar'da hangi spor yapılır?,Kırkpınar'da atlı cirit yarışları yapılır.,-1
+Kırkpınar güreşleri hangi ilde yapılır?,Kırkpınar güreşleri Edirne'de yapılır.,1
+Kırkpınar güreşleri hangi ilde yapılır?,Kırkpınar güreşleri Kastamonu'da yapılır.,-1
+Giro d'Italia bisiklet yarışı hangi ülkede düzenlenir?,Giro d'Italia İtalya'da düzenlenir.,1
+Giro d'Italia bisiklet yarışı hangi ülkede düzenlenir?,Giro d'Italia İspanya'da düzenlenir.,-1
+Satrançta her oyuncu oyuna kaç taşla başlar?,Her oyuncu oyuna 16 taşla başlar.,1
+Satrançta her oyuncu oyuna kaç taşla başlar?,Her oyuncu oyuna 12 taşla başlar.,-1
+Satrançta yalnızca çapraz hareket eden taş hangisidir?,Fil yalnızca çapraz hareket eder.,1
+Satrançta yalnızca çapraz hareket eden taş hangisidir?,Kale yalnızca çapraz hareket eder.,-1
+Satrançta L şeklinde hareket eden taş hangisidir?,At L şeklinde hareket eder.,1
+Satrançta L şeklinde hareket eden taş hangisidir?,Fil L şeklinde hareket eder.,-1
+Satrançta rok hangi iki taş arasında yapılır?,Rok şah ile kale arasında yapılır.,1
+Satrançta rok hangi iki taş arasında yapılır?,Rok şah ile vezir arasında yapılır.,-1
+Golfte par nedir?,Bir deliğin beklenen standart vuruş sayısıdır.,1
+Golfte par nedir?,Bir deliğin çevresine yerleştirilen kum engelidir.,-1
+Golfte birdie ne demektir?,Bir delikte parın bir altında skor yapmaktır.,1
+Golfte birdie ne demektir?,Bir delikte parın bir üstünde skor yapmaktır.,-1
+Futbolda kırmızı kart gören oyuncuya ne olur?,Kırmızı kart gören oyuncu oyundan ihraç edilir.,1
+Futbolda kırmızı kart gören oyuncuya ne olur?,Kırmızı kart gören oyuncu beş dakika oyun dışı kalır.,-1
+Futbolda penaltı noktası kale çizgisine ne kadar uzaktadır?,Penaltı noktası kale çizgisinden 11 metre uzaktadır.,1
+Futbolda penaltı noktası kale çizgisine ne kadar uzaktadır?,Penaltı noktası kale çizgisinden 16 metre uzaktadır.,-1
+Basketbol potası yerden ne kadar yüksektedir?,"Pota yerden 3,05 metre yüksekliktedir.",1
+Basketbol potası yerden ne kadar yüksektedir?,"Pota yerden 2,75 metre yüksekliktedir.",-1
+Basketbolda hücum süresi ne kadardır?,Basketbolda hücum süresi 24 saniyedir.,1
+Basketbolda hücum süresi ne kadardır?,Basketbolda hücum süresi 30 saniyedir.,-1
+Buz hokeyinde her takım sahada kaç oyuncuyla oynar?,Buz hokeyinde her takım kaleci dahil 6 oyuncuyla oynar.,1
+Buz hokeyinde her takım sahada kaç oyuncuyla oynar?,Buz hokeyinde her takım kaleci dahil 8 oyuncuyla oynar.,-1
+Ragbi birliğinde (rugby union) her takım kaç oyuncuyla oynar?,Ragbi birliğinde her takım 15 oyuncuyla oynar.,1
+Ragbi birliğinde (rugby union) her takım kaç oyuncuyla oynar?,Ragbi birliğinde her takım 11 oyuncuyla oynar.,-1
+Yüzmede en hızlı stil hangisidir?,En hızlı yüzme stili serbest stil olarak bilinir.,1
+Yüzmede en hızlı stil hangisidir?,En hızlı yüzme stili kurbağalama olarak bilinir.,-1
+Olimpik bir yüzme havuzunun uzunluğu ne kadardır?,Olimpik yüzme havuzu 50 metre uzunluğundadır.,1
+Olimpik bir yüzme havuzunun uzunluğu ne kadardır?,Olimpik yüzme havuzu 25 metre uzunluğundadır.,-1
+Standart bir atletizm pistinin bir turu kaç metredir?,Standart atletizm pistinin bir turu 400 metredir.,1
+Standart bir atletizm pistinin bir turu kaç metredir?,Standart atletizm pistinin bir turu 200 metredir.,-1
+Usain Bolt'un 100 metre dünya rekoru kaç saniyedir?,"Usain Bolt'un 100 metre rekoru 9,58 saniyedir.",1
+Usain Bolt'un 100 metre dünya rekoru kaç saniyedir?,"Usain Bolt'un 100 metre rekoru 9,85 saniyedir.",-1
+Dekatlon kaç branştan oluşur?,Dekatlon on branştan oluşur.,1
+Dekatlon kaç branştan oluşur?,Dekatlon yedi branştan oluşur.,-1
+Heptatlon kaç branştan oluşur?,Heptatlon yedi branştan oluşur.,1
+Heptatlon kaç branştan oluşur?,Heptatlon on branştan oluşur.,-1
+Triatlon hangi branşlardan oluşur?,"Triatlon yüzme, bisiklet ve koşudan oluşur.",1
+Triatlon hangi branşlardan oluşur?,"Triatlon yüzme, kürek ve atıcılıktan oluşur.",-1
+Tour de France hangi sporun yarışıdır?,Tour de France bir bisiklet yarışıdır.,1
+Tour de France hangi sporun yarışıdır?,Tour de France bir otomobil rallisidir.,-1
+Sumo hangi ülkenin geleneksel sporudur?,"Sumo, Japonya'nın geleneksel güreş sporudur.",1
+Sumo hangi ülkenin geleneksel sporudur?,"Sumo, Kore'nin geleneksel güreş sporudur.",-1
+Taekwondo hangi ülke kökenlidir?,Taekwondo Kore kökenli bir dövüş sporudur.,1
+Taekwondo hangi ülke kökenlidir?,Taekwondo Japonya kökenli bir dövüş sporudur.,-1
+Judo hangi ülke kökenlidir?,Judo Japonya kökenli bir dövüş sporudur.,1
+Judo hangi ülke kökenlidir?,Judo Çin kökenli bir dövüş sporudur.,-1
+Profesyonel boksta bir raunt kaç dakikadır?,Profesyonel boksta bir raunt 3 dakikadır.,1
+Profesyonel boksta bir raunt kaç dakikadır?,Profesyonel boksta bir raunt 5 dakikadır.,-1
+Futbol liglerinde bir galibiyet kaç puan kazandırır?,Bir galibiyet 3 puan kazandırır.,1
+Futbol liglerinde bir galibiyet kaç puan kazandırır?,Bir galibiyet 2 puan kazandırır.,-1
+Fenerbahçe Spor Kulübü hangi yıl kuruldu?,Fenerbahçe 1907 yılında kuruldu.,1
+Fenerbahçe Spor Kulübü hangi yıl kuruldu?,Fenerbahçe 1923 yılında kuruldu.,-1
+Galatasaray Spor Kulübü hangi yıl kuruldu?,Galatasaray 1905 yılında kuruldu.,1
+Galatasaray Spor Kulübü hangi yıl kuruldu?,Galatasaray 1925 yılında kuruldu.,-1
+Beşiktaş Jimnastik Kulübü hangi yıl kuruldu?,Beşiktaş 1903 yılında kuruldu.,1
+Beşiktaş Jimnastik Kulübü hangi yıl kuruldu?,Beşiktaş 1933 yılında kuruldu.,-1
+Badmintonda hangi top kullanılır?,Badmintonda tüylü top kullanılır.,1
+Badmintonda hangi top kullanılır?,Badmintonda keçe kaplı top kullanılır.,-1
+Masa tenisinde bir set kaç sayıda biter?,Masa tenisinde bir set 11 sayıda biter.,1
+Masa tenisinde bir set kaç sayıda biter?,Masa tenisinde bir set 25 sayıda biter.,-1
+Kriket özellikle hangi ülkede çok popülerdir?,Kriket özellikle Hindistan'da çok popülerdir.,1
+Kriket özellikle hangi ülkede çok popülerdir?,Kriket özellikle Brezilya'da çok popülerdir.,-1
+Beyzbolda sahadaki savunma takımı kaç oyuncudan oluşur?,Beyzbolda savunma takımı 9 oyuncudan oluşur.,1
+Beyzbolda sahadaki savunma takımı kaç oyuncudan oluşur?,Beyzbolda savunma takımı 5 oyuncudan oluşur.,-1
+Super Bowl hangi sporun final maçıdır?,Super Bowl Amerikan futbolunun final maçıdır.,1
+Super Bowl hangi sporun final maçıdır?,Super Bowl profesyonel beyzbolun final maçıdır.,-1
+Hangisi bir Kış Olimpiyatları sporudur?,Kayaklı koşu bir Kış Olimpiyatları sporudur.,1
+Hangisi bir Kış Olimpiyatları sporudur?,Su topu bir Kış Olimpiyatları sporudur.,-1
+Türkiye kadın voleybol milli takımına hangi lakap verilir?,Kadın voleybol milli takımına Filenin Sultanları denir.,1
+Türkiye kadın voleybol milli takımına hangi lakap verilir?,Kadın voleybol milli takımına Potanın Perileri denir.,-1
+Filenin Sultanları 2023 Avrupa Şampiyonası'nda kaçıncı oldu?,Filenin Sultanları 2023'te Avrupa şampiyonu oldu.,1
+Filenin Sultanları 2023 Avrupa Şampiyonası'nda kaçıncı oldu?,Filenin Sultanları 2023'te Avrupa ikincisi oldu.,-1
+Günümüz futbol kurallarına göre bir takım maç başına en fazla kaç oyuncu değişikliği yapabilir?,Bir takım en fazla 5 oyuncu değişikliği yapabilir.,1
+Günümüz futbol kurallarına göre bir takım maç başına en fazla kaç oyuncu değişikliği yapabilir?,Bir takım en fazla 2 oyuncu değişikliği yapabilir.,-1
+Bowlingde ilk atışta tüm lobutların devrilmesine ne denir?,Buna strike denir.,1
+Bowlingde ilk atışta tüm lobutların devrilmesine ne denir?,Buna spare denir.,-1
+Ballon d'Or ödülü kime verilir?,Yılın en iyi futbolcusuna verilir.,1
+Ballon d'Or ödülü kime verilir?,Yılın en iyi teknik direktörüne verilir.,-1
+Eskrimde kullanılan üç silah türü nelerdir?,"Flöre, kılıç ve epedir.",1
+Eskrimde kullanılan üç silah türü nelerdir?,"Mızrak, balta ve kamadır.",-1
+Halterde yarışılan iki kaldırış türü nelerdir?,Koparma ve silkmedir.,1
+Halterde yarışılan iki kaldırış türü nelerdir?,Basma ve çekmedir.,-1
+Hentbolda kale alanına kimler girebilir?,Kale alanına yalnızca kaleci girebilir.,1
+Hentbolda kale alanına kimler girebilir?,Kale alanına tüm oyuncular serbestçe girebilir.,-1
+Su topunda her takım suda kaç oyuncuyla oynar?,Su topunda her takım kaleci dahil 7 oyuncuyla oynar.,1
+Su topunda her takım suda kaç oyuncuyla oynar?,Su topunda her takım kaleci dahil 11 oyuncuyla oynar.,-1
+Satranç tahtasında kaç kare bulunur?,Satranç tahtasında 64 kare bulunur.,1
+Satranç tahtasında kaç kare bulunur?,Satranç tahtasında 81 kare bulunur.,-1
+OSI modeli kaç katmandan oluşur?,OSI modeli yedi katmandan oluşur.,1
+OSI modeli kaç katmandan oluşur?,OSI modeli beş katmandan oluşur.,-1
+TCP/IP modeli genellikle kaç katmanla tanımlanır?,TCP/IP modeli genellikle dört katmanla tanımlanır.,1
+TCP/IP modeli genellikle kaç katmanla tanımlanır?,TCP/IP modeli genellikle sekiz katmanla tanımlanır.,-1
+IP protokolü OSI modelinin hangi katmanında çalışır?,IP protokolü ağ katmanında çalışır.,1
+IP protokolü OSI modelinin hangi katmanında çalışır?,IP protokolü uygulama katmanında çalışır.,-1
+Ethernet OSI modelinin hangi katmanlarında çalışır?,Ethernet fiziksel ve veri bağı katmanlarında çalışır.,1
+Ethernet OSI modelinin hangi katmanlarında çalışır?,Ethernet oturum ve sunum katmanlarında çalışır.,-1
+Yönlendiriciler (router) OSI modelinin hangi katmanında çalışır?,Yönlendiriciler ağ katmanında çalışır.,1
+Yönlendiriciler (router) OSI modelinin hangi katmanında çalışır?,Yönlendiriciler uygulama katmanında çalışır.,-1
+Klasik bir switch hangi bilgiye göre çerçeve iletir?,Klasik switch'ler veri bağı katmanında MAC adresleriyle çalışır.,1
+Klasik bir switch hangi bilgiye göre çerçeve iletir?,Klasik switch'ler oturum katmanında port numaralarıyla çalışır.,-1
+MAC adresi kaç bit uzunluğundadır?,MAC adresi 48 bit uzunluğundadır.,1
+MAC adresi kaç bit uzunluğundadır?,MAC adresi 32 bit uzunluğundadır.,-1
+IPv4 adresi kaç bit uzunluğundadır?,IPv4 adresi 32 bit uzunluğundadır.,1
+IPv4 adresi kaç bit uzunluğundadır?,IPv4 adresi 128 bit uzunluğundadır.,-1
+IPv6 adresi kaç bit uzunluğundadır?,IPv6 adresi 128 bit uzunluğundadır.,1
+IPv6 adresi kaç bit uzunluğundadır?,IPv6 adresi 64 bit uzunluğundadır.,-1
+HTTP varsayılan olarak hangi portu kullanır?,HTTP varsayılan olarak 80 numaralı portu kullanır.,1
+HTTP varsayılan olarak hangi portu kullanır?,HTTP varsayılan olarak 21 numaralı portu kullanır.,-1
+HTTPS varsayılan olarak hangi portu kullanır?,HTTPS varsayılan olarak 443 numaralı portu kullanır.,1
+HTTPS varsayılan olarak hangi portu kullanır?,HTTPS varsayılan olarak 8080 numaralı portu kullanır.,-1
+SSH varsayılan olarak hangi portu kullanır?,SSH varsayılan olarak 22 numaralı portu kullanır.,1
+SSH varsayılan olarak hangi portu kullanır?,SSH varsayılan olarak 23 numaralı portu kullanır.,-1
+DNS varsayılan olarak hangi portu kullanır?,DNS varsayılan olarak 53 numaralı portu kullanır.,1
+DNS varsayılan olarak hangi portu kullanır?,DNS varsayılan olarak 25 numaralı portu kullanır.,-1
+SMTP varsayılan olarak hangi portu kullanır?,SMTP varsayılan olarak 25 numaralı portu kullanır.,1
+SMTP varsayılan olarak hangi portu kullanır?,SMTP varsayılan olarak 110 numaralı portu kullanır.,-1
+DNS'in temel görevi nedir?,Alan adlarını IP adreslerine çözümler.,1
+DNS'in temel görevi nedir?,IP adreslerini MAC adreslerine çözümler.,-1
+ARP protokolü ne işe yarar?,IP adresine karşılık gelen MAC adresini bulur.,1
+ARP protokolü ne işe yarar?,Alan adına karşılık gelen IP adresini bulur.,-1
+DHCP protokolü ne işe yarar?,Cihazlara otomatik olarak IP adresi atar.,1
+DHCP protokolü ne işe yarar?,Cihazlar arasında dosyaları şifreleyerek aktarır.,-1
+TCP ile UDP arasındaki temel fark nedir?,"TCP bağlantı yönelimli ve güvenilirdir, UDP bağlantısızdır.",1
+TCP ile UDP arasındaki temel fark nedir?,"UDP bağlantı yönelimli ve güvenilirdir, TCP bağlantısızdır.",-1
+Gerçek zamanlı ses ve görüntü aktarımında genellikle hangi protokol tercih edilir?,Düşük gecikme için genellikle UDP tercih edilir.,1
+Gerçek zamanlı ses ve görüntü aktarımında genellikle hangi protokol tercih edilir?,Düşük gecikme için genellikle SMTP tercih edilir.,-1
+TCP üçlü el sıkışmasındaki mesaj sırası nedir?,"SYN, SYN-ACK ve ACK sırasıyla gerçekleşir.",1
+TCP üçlü el sıkışmasındaki mesaj sırası nedir?,"ACK, SYN-ACK ve SYN sırasıyla gerçekleşir.",-1
+192.168.0.0/16 bloğu nasıl bir IP aralığıdır?,192.168.0.0/16 özel (private) bir IP bloğudur.,1
+192.168.0.0/16 bloğu nasıl bir IP aralığıdır?,192.168.0.0/16 genel (public) bir IP bloğudur.,-1
+127.0.0.1 adresi neyi ifade eder?,127.0.0.1 yerel makineyi gösteren geri döngü adresidir.,1
+127.0.0.1 adresi neyi ifade eder?,127.0.0.1 varsayılan ağ geçidini gösteren yönlendirici adresidir.,-1
+Bir /24 IPv4 alt ağında kaç kullanılabilir host adresi vardır?,Bir /24 ağında 254 kullanılabilir host adresi vardır.,1
+Bir /24 IPv4 alt ağında kaç kullanılabilir host adresi vardır?,Bir /24 ağında 256 kullanılabilir host adresi vardır.,-1
+255.255.255.0 alt ağ maskesi CIDR gösteriminde nasıl yazılır?,255.255.255.0 maskesi /24 olarak gösterilir.,1
+255.255.255.0 alt ağ maskesi CIDR gösteriminde nasıl yazılır?,255.255.255.0 maskesi /16 olarak gösterilir.,-1
+NAT ne işe yarar?,Özel IP adreslerini genel IP adresine çevirir.,1
+NAT ne işe yarar?,Alan adlarını özel IP adreslerine çevirir.,-1
+Ping komutu hangi protokolü kullanır?,Ping komutu ICMP protokolünü kullanır.,1
+Ping komutu hangi protokolü kullanır?,Ping komutu SMTP protokolünü kullanır.,-1
+Traceroute komutu ne işe yarar?,Paketin hedefe giderken geçtiği yönlendiricileri gösterir.,1
+Traceroute komutu ne işe yarar?,Hedef bilgisayardaki açık dosyaların listesini gösterir.,-1
+Güvenlik duvarı (firewall) ne işe yarar?,Ağ trafiğine kurallara göre izin verir veya engeller.,1
+Güvenlik duvarı (firewall) ne işe yarar?,Ağ trafiğini sıkıştırarak bağlantıyı hızlandırır.,-1
+VPN ne sağlar?,İnternet üzerinden şifreli bir tünel oluşturur.,1
+VPN ne sağlar?,İnternet bağlantısının fiziksel hızını iki katına çıkarır.,-1
+TLS protokolü ne sağlar?,İletişimi şifreleyerek gizlilik ve bütünlük sağlar.,1
+TLS protokolü ne sağlar?,İletişimi sıkıştırarak yalnızca hız sağlar.,-1
+HTTP 404 durum kodu neyi belirtir?,"404, istenen kaynağın bulunamadığını belirtir.",1
+HTTP 404 durum kodu neyi belirtir?,"404, sunucuda iç hata oluştuğunu belirtir.",-1
+HTTP 500 durum kodu neyi belirtir?,"500, sunucuda iç hata oluştuğunu belirtir.",1
+HTTP 500 durum kodu neyi belirtir?,"500, istenen kaynağın bulunamadığını belirtir.",-1
+HTTP 200 durum kodu neyi belirtir?,"200, isteğin başarıyla tamamlandığını belirtir.",1
+HTTP 200 durum kodu neyi belirtir?,"200, isteğin yeniden yönlendirildiğini belirtir.",-1
+HTTP 301 durum kodu neyi belirtir?,"301, kaynağın kalıcı olarak taşındığını belirtir.",1
+HTTP 301 durum kodu neyi belirtir?,"301, isteğin yetki eksikliği nedeniyle reddedildiğini belirtir.",-1
+LAN nedir?,Sınırlı bir alandaki cihazları bağlayan yerel ağdır.,1
+LAN nedir?,Şehirleri ve kıtaları birbirine bağlayan geniş alan ağıdır.,-1
+WAN nedir?,Geniş coğrafi alanları birbirine bağlayan ağdır.,1
+WAN nedir?,Tek bir oda içindeki cihazları bağlayan ağdır.,-1
+Wi-Fi hangi IEEE standart ailesine dayanır?,"Wi-Fi, IEEE 802.11 standart ailesine dayanır.",1
+Wi-Fi hangi IEEE standart ailesine dayanır?,"Wi-Fi, IEEE 802.3 standart ailesine dayanır.",-1
+Ağlarda bant genişliği neyi ifade eder?,Birim zamanda aktarılabilen maksimum veri miktarıdır.,1
+Ağlarda bant genişliği neyi ifade eder?,Bir paketin hedefe ulaşması için geçen süredir.,-1
+Ağlarda gecikme (latency) neyi ifade eder?,Verinin kaynaktan hedefe ulaşması için geçen süredir.,1
+Ağlarda gecikme (latency) neyi ifade eder?,Birim zamanda aktarılabilen maksimum veri miktarıdır.,-1
+İşletim sistemi çekirdeğinin (kernel) görevi nedir?,Donanım ile yazılım arasında temel kaynak yönetimini yapar.,1
+İşletim sistemi çekirdeğinin (kernel) görevi nedir?,Kullanıcıya yalnızca grafik masaüstü arayüzü sunar.,-1
+Process ile thread arasındaki temel fark nedir?,Thread'ler aynı process içindeki bellek alanını paylaşır.,1
+Process ile thread arasındaki temel fark nedir?,Process'ler aynı thread içindeki bellek alanını paylaşır.,-1
+Deadlock nedir?,Süreçlerin birbirinin tuttuğu kaynağı sonsuza dek beklemesidir.,1
+Deadlock nedir?,Süreçlerin aynı anda çok hızlı çalışarak bitmesidir.,-1
+Deadlock oluşması için gereken dört koşul nelerdir?,"Karşılıklı dışlama, tut ve bekle, kesilemezlik ve döngüsel bekleme.",1
+Deadlock oluşması için gereken dört koşul nelerdir?,"Paralel çalışma, önbellekleme, sanallaştırma ve sayfalı bellek yönetimi.",-1
+Sanal bellek nedir?,Diskin bir bölümünü RAM'in uzantısı gibi kullanan bellek yönetimidir.,1
+Sanal bellek nedir?,RAM'in bir bölümünü diskin uzantısı gibi kullanan dosya yönetimidir.,-1
+Sayfalama (paging) nedir?,Belleği sabit boyutlu sayfalara bölerek yönetir.,1
+Sayfalama (paging) nedir?,Belleği değişken boyutlu dosyalara bölerek yönetir.,-1
+Page fault ne zaman oluşur?,İstenen sayfa fiziksel bellekte olmadığında oluşur.,1
+Page fault ne zaman oluşur?,İşlemci aşırı ısındığında donanım tarafından oluşturulur.,-1
+Bağlam değişimi (context switch) nedir?,CPU'nun bir süreçten diğerine geçerken durumu kaydetmesidir.,1
+Bağlam değişimi (context switch) nedir?,CPU'nun işletim sistemini yeniden başlatarak güncellemesidir.,-1
+Round Robin zamanlama algoritması nasıl çalışır?,Her sürece sırayla sabit bir zaman dilimi verir.,1
+Round Robin zamanlama algoritması nasıl çalışır?,Her zaman en uzun süren işi önce çalıştırır.,-1
+FCFS zamanlama algoritması nasıl çalışır?,İşleri geliş sırasına göre çalıştırır.,1
+FCFS zamanlama algoritması nasıl çalışır?,İşleri en kısa süre sırasına göre çalıştırır.,-1
+SJF zamanlama algoritması nasıl çalışır?,En kısa çalışma süresine sahip işi önce çalıştırır.,1
+SJF zamanlama algoritması nasıl çalışır?,En uzun çalışma süresine sahip işi önce çalıştırır.,-1
+İşletim sistemlerinde semafor nedir?,Paylaşılan kaynaklara erişimi senkronize eden bir sayaçtır.,1
+İşletim sistemlerinde semafor nedir?,Ağ paketlerini sıkıştıran bir donanım bileşenidir.,-1
+Mutex ne sağlar?,Bir kaynağa aynı anda yalnızca bir iş parçacığının erişmesini sağlar.,1
+Mutex ne sağlar?,Bir kaynağa aynı anda sınırsız iş parçacığının erişmesini sağlar.,-1
+Race condition nedir?,Sonucun iş parçacıklarının çalışma sırasına bağlı olmasıdır.,1
+Race condition nedir?,Sonucun yalnızca işlemcinin saat hızına bağlı olmasıdır.,-1
+Linux'ta ls komutu ne yapar?,ls komutu dizin içeriğini listeler.,1
+Linux'ta ls komutu ne yapar?,ls komutu dosyaları kalıcı olarak siler.,-1
+Linux'ta chmod komutu ne yapar?,chmod dosya izinlerini değiştirir.,1
+Linux'ta chmod komutu ne yapar?,chmod dosyanın sahibini değiştirir.,-1
+Linux'ta chown komutu ne yapar?,chown dosyanın sahibini değiştirir.,1
+Linux'ta chown komutu ne yapar?,chown dosya izinlerini değiştirir.,-1
+Linux'ta pwd komutu ne yapar?,pwd mevcut çalışma dizinini gösterir.,1
+Linux'ta pwd komutu ne yapar?,pwd kullanıcının parolasını değiştirir.,-1
+Linux'ta chmod 755 hangi izinleri verir?,"Sahibe tam yetki, grup ve diğerlerine okuma ve çalıştırma verir.",1
+Linux'ta chmod 755 hangi izinleri verir?,"Sahibe yalnızca okuma, grup ve diğerlerine tam yetki verir.",-1
+Unix sistemlerinde root kullanıcısı nedir?,"root, Unix sistemlerinde en yüksek yetkili kullanıcıdır.",1
+Unix sistemlerinde root kullanıcısı nedir?,"root, Unix sistemlerinde misafir kullanıcı hesabıdır.",-1
+Linux'ta sudo komutu ne yapar?,Bir komutu yönetici yetkisiyle çalıştırır.,1
+Linux'ta sudo komutu ne yapar?,Bir komutu arka planda düşük öncelikle çalıştırır.,-1
+Linux'ta kill -9 komutu ne yapar?,Sürece SIGKILL göndererek zorla sonlandırır.,1
+Linux'ta kill -9 komutu ne yapar?,Sürece SIGHUP göndererek yeniden başlatır.,-1
+Linux çekirdeğini ilk olarak kim geliştirmiştir?,Linux çekirdeğini Linus Torvalds geliştirmiştir.,1
+Linux çekirdeğini ilk olarak kim geliştirmiştir?,Linux çekirdeğini Richard Stallman geliştirmiştir.,-1
+Modern Windows sürümleri genellikle hangi dosya sistemini kullanır?,Modern Windows sürümleri genellikle NTFS kullanır.,1
+Modern Windows sürümleri genellikle hangi dosya sistemini kullanır?,Modern Windows sürümleri genellikle ext4 kullanır.,-1
+Linux dağıtımlarında yaygın kullanılan dosya sistemi hangisidir?,Linux'ta yaygın kullanılan dosya sistemi ext4'tür.,1
+Linux dağıtımlarında yaygın kullanılan dosya sistemi hangisidir?,Linux'ta yaygın kullanılan dosya sistemi FAT12'dir.,-1
+BIOS veya UEFI ne işe yarar?,Bilgisayar açılırken donanımı başlatıp önyükleyiciyi çalıştırır.,1
+BIOS veya UEFI ne işe yarar?,Bilgisayar kapanırken tüm kullanıcı dosyalarını otomatik olarak buluta yedekler.,-1
+Önbellek (cache) ne işe yarar?,Sık erişilen verileri hızlı erişim için geçici olarak tutar.,1
+Önbellek (cache) ne işe yarar?,Seyrek erişilen verileri yavaş diskte kalıcı olarak arşivler.,-1
+Zombie process nedir?,Sonlanmış ama ebeveyni çıkış durumunu okumamış süreçtir.,1
+Zombie process nedir?,Sonlanmamış ama ebeveyni tarafından dondurulmuş süreçtir.,-1
+Unix sistemlerinde fork() çağrısı ne yapar?,Çağıran sürecin kopyası olan yeni bir süreç oluşturur.,1
+Unix sistemlerinde fork() çağrısı ne yapar?,Çağıran süreci sonlandırıp belleğini serbest bırakır.,-1
+Kesme (interrupt) nedir?,Donanım veya yazılımın CPU'ya acil bir olayı bildirmesidir.,1
+Kesme (interrupt) nedir?,CPU'nun tüm belleği tamamen temizleyip sıfırlaması işlemidir.,-1
+Thrashing nedir?,Sistemin zamanının çoğunu sayfa değiş tokuşuyla harcamasıdır.,1
+Thrashing nedir?,Sistemin zamanının çoğunu ağ paketleri göndermekle harcamasıdır.,-1
+Hypervisor ne işe yarar?,Tek bir donanım üzerinde birden çok sanal makine çalıştırır.,1
+Hypervisor ne işe yarar?,Birden çok fiziksel donanımı tek bir arşiv dosyasına sıkıştırır.,-1
+Konteynerleri sanal makinelerden ayıran temel özellik nedir?,Konteynerler ana makinenin çekirdeğini paylaşır.,1
+Konteynerleri sanal makinelerden ayıran temel özellik nedir?,Konteynerler her biri kendi ayrı çekirdeğini çalıştırır.,-1
+CDN ne işe yarar?,İçeriği kullanıcıya yakın sunuculardan dağıtır.,1
+CDN ne işe yarar?,İçeriği yalnızca tek bir merkezi sunucudan dağıtır.,-1
+DDoS saldırısı nedir?,Çok sayıda kaynaktan hedefi trafiğe boğma saldırısıdır.,1
+DDoS saldırısı nedir?,Tek bir parolayı tahmin etmeye yönelik sosyal mühendisliktir.,-1
+Telnet'in SSH'ye göre en önemli dezavantajı nedir?,Telnet verileri şifrelemeden açık metin olarak iletir.,1
+Telnet'in SSH'ye göre en önemli dezavantajı nedir?,Telnet verileri SSH'den daha güçlü şifreleyerek iletir.,-1
+SQL kısaltması neyin ifadesidir?,"SQL, Structured Query Language ifadesinin kısaltmasıdır.",1
+SQL kısaltması neyin ifadesidir?,"SQL, Simple Query Logic ifadesinin kısaltmasıdır.",-1
+SQL'de SELECT ifadesi ne için kullanılır?,SELECT tablodan veri sorgulamak için kullanılır.,1
+SQL'de SELECT ifadesi ne için kullanılır?,SELECT tablodan veri silmek için kullanılır.,-1
+SQL'de WHERE ifadesi ne işe yarar?,WHERE satırları belirli bir koşula göre filtreler.,1
+SQL'de WHERE ifadesi ne işe yarar?,WHERE sonuçları belirli bir sütuna göre sıralar.,-1
+SQL'de ORDER BY ifadesi ne işe yarar?,ORDER BY sonuçları belirtilen sütuna göre sıralar.,1
+SQL'de ORDER BY ifadesi ne işe yarar?,ORDER BY satırları belirtilen koşula göre filtreler.,-1
+SQL'de GROUP BY ifadesi ne işe yarar?,GROUP BY satırları ortak değerlere göre gruplar.,1
+SQL'de GROUP BY ifadesi ne işe yarar?,GROUP BY satırları rastgele örneklem olarak seçer.,-1
+SQL'de HAVING ile WHERE arasındaki fark nedir?,"HAVING gruplanmış sonuçları, WHERE ise satırları filtreler.",1
+SQL'de HAVING ile WHERE arasındaki fark nedir?,"WHERE gruplanmış sonuçları, HAVING ise satırları filtreler.",-1
+SQL'de INNER JOIN ne döndürür?,Yalnızca iki tabloda eşleşen satırları döndürür.,1
+SQL'de INNER JOIN ne döndürür?,İki tablodaki tüm satırları eşleşmeye bakmadan döndürür.,-1
+Veritabanında birincil anahtar (primary key) nedir?,Her satırı benzersiz şekilde tanımlayan anahtardır.,1
+Veritabanında birincil anahtar (primary key) nedir?,Bir tablodaki tekrar eden değerleri tutan anahtardır.,-1
+Birincil anahtar NULL değer alabilir mi?,"Hayır, birincil anahtar NULL değer alamaz.",1
+Birincil anahtar NULL değer alabilir mi?,"Evet, birincil anahtar istenildiği kadar NULL alabilir.",-1
+Yabancı anahtar (foreign key) nedir?,Başka bir tablonun birincil anahtarına referans veren sütundur.,1
+Yabancı anahtar (foreign key) nedir?,Aynı tablodaki satırları rastgele sıralayan sütundur.,-1
+SQL'de DELETE ile TRUNCATE arasındaki fark nedir?,"DELETE koşulla satır silebilir, TRUNCATE tablodaki tüm satırları siler.",1
+SQL'de DELETE ile TRUNCATE arasındaki fark nedir?,"TRUNCATE koşulla satır silebilir, DELETE tablodaki tüm satırları siler.",-1
+SQL'de DROP TABLE ne yapar?,Tabloyu yapısı ve verileriyle birlikte tamamen kaldırır.,1
+SQL'de DROP TABLE ne yapar?,Tablodaki verileri silip yalnızca yapısını korur.,-1
+Veritabanı normalizasyonu nedir?,Veri tekrarını azaltmak için tabloları düzenleme sürecidir.,1
+Veritabanı normalizasyonu nedir?,Veri tekrarını artırmak için tabloları birleştirme sürecidir.,-1
+Birinci normal form (1NF) neyi gerektirir?,Her sütunun atomik (bölünemez) değerler içermesini gerektirir.,1
+Birinci normal form (1NF) neyi gerektirir?,Her tablonun en az üç yabancı anahtar içermesini gerektirir.,-1
+ACID kısaltmasındaki A harfi neyi ifade eder?,"A, işlemlerin bölünmezliğini ifade eden Atomicity'dir.",1
+ACID kısaltmasındaki A harfi neyi ifade eder?,"A, verilere erişilebilirliği ifade eden Availability'dir.",-1
+ACID kısaltmasındaki I harfi neyi ifade eder?,"I, eşzamanlı işlemlerin birbirinden yalıtılmasını ifade eder.",1
+ACID kısaltmasındaki I harfi neyi ifade eder?,"I, verilerin otomatik indekslenmesini ifade eden Indexing kavramıdır.",-1
+ACID kısaltmasındaki D harfi neyi ifade eder?,"D, onaylanan işlemlerin kalıcı olmasını ifade eder.",1
+ACID kısaltmasındaki D harfi neyi ifade eder?,"D, verilerin dağıtık tutulmasını ifade eder.",-1
+SQL'de COMMIT komutu ne yapar?,Transaction içindeki değişiklikleri kalıcı hale getirir.,1
+SQL'de COMMIT komutu ne yapar?,Transaction içindeki değişiklikleri geri alır.,-1
+SQL'de ROLLBACK komutu ne yapar?,Transaction içindeki değişiklikleri geri alır.,1
+SQL'de ROLLBACK komutu ne yapar?,Transaction içindeki değişiklikleri kalıcı hale getirir.,-1
+MongoDB hangi veri modelini kullanır?,MongoDB belge (document) tabanlı bir veritabanıdır.,1
+MongoDB hangi veri modelini kullanır?,MongoDB düğüm ve kenarlardan oluşan graf tabanlı bir veritabanıdır.,-1
+Redis nasıl bir veritabanıdır?,Redis bellek içi çalışan bir anahtar-değer veritabanıdır.,1
+Redis nasıl bir veritabanıdır?,Redis disk üzerinde çalışan bir graf veritabanıdır.,-1
+CAP teoremi ne söyler?,"Dağıtık sistemde tutarlılık, erişilebilirlik ve bölünme toleransı birlikte garanti edilemez.",1
+CAP teoremi ne söyler?,"Dağıtık sistemde tutarlılık, erişilebilirlik ve bölünme toleransı her zaman birlikte garanti edilir.",-1
+SQL'de COUNT(*) ne döndürür?,Sorgu sonucundaki satır sayısını döndürür.,1
+SQL'de COUNT(*) ne döndürür?,Sorgu sonucundaki sütun sayısını döndürür.,-1
+SQL'de DISTINCT ifadesi ne işe yarar?,Sonuçlardaki tekrar eden değerleri eler.,1
+SQL'de DISTINCT ifadesi ne işe yarar?,Sonuçlardaki NULL değerleri sıfıra çevirir.,-1
+SQL'de bir değerin NULL olup olmadığı nasıl kontrol edilir?,NULL kontrolü IS NULL ifadesiyle yapılır.,1
+SQL'de bir değerin NULL olup olmadığı nasıl kontrol edilir?,NULL kontrolü = NULL ifadesiyle yapılır.,-1
+Veritabanında view nedir?,Bir sorgunun sonucunu sanal tablo olarak sunar.,1
+Veritabanında view nedir?,Bir tablonun fiziksel yedeğini diske kopyalar.,-1
+Veritabanında trigger nedir?,Belirli bir olay gerçekleştiğinde otomatik çalışan nesnedir.,1
+Veritabanında trigger nedir?,Yalnızca kullanıcı elle çağırınca çalışan bir tablo türüdür.,-1
+ORM ne işe yarar?,Veritabanı tablolarını programlama dilindeki nesnelerle eşleştirir.,1
+ORM ne işe yarar?,Programlama dilindeki nesneleri doğrudan HTML'e dönüştürür.,-1
+Parametreli sorgular SQL injection riskini nasıl etkiler?,Parametreli sorgular SQL injection riskini azaltır.,1
+Parametreli sorgular SQL injection riskini nasıl etkiler?,Parametreli sorgular SQL injection riskini artırır.,-1
+HTML kısaltması neyin ifadesidir?,"HTML, HyperText Markup Language kısaltmasıdır.",1
+HTML kısaltması neyin ifadesidir?,"HTML, HighText Machine Language kısaltmasıdır.",-1
+CSS ne işe yarar?,"CSS, web sayfalarının görünümünü ve düzenini belirler.",1
+CSS ne işe yarar?,"CSS, web sayfalarının veritabanı bağlantısını yönetir.",-1
+JavaScript tarayıcıda ne işe yarar?,Sayfaya etkileşim ve dinamik davranış kazandırır.,1
+JavaScript tarayıcıda ne işe yarar?,Sayfanın sunucudaki dosya sistemini biçimlendirir.,-1
+CSS'te id seçicisi hangi işaretle yazılır?,id seçicisi # işaretiyle yazılır.,1
+CSS'te id seçicisi hangi işaretle yazılır?,id seçicisi . işaretiyle yazılır.,-1
+CSS'te class seçicisi hangi işaretle yazılır?,class seçicisi . işaretiyle yazılır.,1
+CSS'te class seçicisi hangi işaretle yazılır?,class seçicisi # işaretiyle yazılır.,-1
+CSS kutu modelinde içten dışa katman sırası nedir?,"İçerik, padding, border ve margin şeklindedir.",1
+CSS kutu modelinde içten dışa katman sırası nedir?,"İçerik, margin, border ve padding şeklindedir.",-1
+CSS'te position: absolute ne yapar?,Öğeyi en yakın konumlandırılmış atasına göre yerleştirir.,1
+CSS'te position: absolute ne yapar?,Öğeyi her zaman sayfanın normal akışında bırakır.,-1
+JavaScript'te === operatörü ne karşılaştırır?,=== hem değeri hem türü karşılaştırır.,1
+JavaScript'te === operatörü ne karşılaştırır?,"=== yalnızca değeri karşılaştırır, türü değil.",-1
+JavaScript'te let ile var arasındaki fark nedir?,"let blok kapsamlıdır, var fonksiyon kapsamlıdır.",1
+JavaScript'te let ile var arasındaki fark nedir?,"var blok kapsamlıdır, let fonksiyon kapsamlıdır.",-1
+JavaScript'te const ile tanımlanan değişkenin özelliği nedir?,const ile tanımlanan değişkene yeniden atama yapılamaz.,1
+JavaScript'te const ile tanımlanan değişkenin özelliği nedir?,const ile tanımlanan değişkene serbestçe yeniden atama yapılabilir.,-1
+JavaScript'te typeof null ifadesi ne döndürür?,typeof null ifadesi object döndürür.,1
+JavaScript'te typeof null ifadesi ne döndürür?,typeof null ifadesi null döndürür.,-1
+DOM nedir?,Sayfanın ağaç yapısındaki programlanabilir temsilidir.,1
+DOM nedir?,Sunucudaki veritabanının tablo yapısındaki temsilidir.,-1
+JSON nedir?,Hafif ve metin tabanlı bir veri değişim biçimidir.,1
+JSON nedir?,Ağır ve ikili tabanlı bir görüntü sıkıştırma biçimidir.,-1
+REST API'de GET metodu ne için kullanılır?,GET kaynağı okumak için kullanılır.,1
+REST API'de GET metodu ne için kullanılır?,GET kaynağı silmek için kullanılır.,-1
+REST API'de POST metodu genellikle ne için kullanılır?,POST genellikle yeni kaynak oluşturmak için kullanılır.,1
+REST API'de POST metodu genellikle ne için kullanılır?,POST genellikle kaynağı yalnızca okumak için kullanılır.,-1
+REST API'de DELETE metodu ne için kullanılır?,DELETE belirtilen kaynağı silmek için kullanılır.,1
+REST API'de DELETE metodu ne için kullanılır?,DELETE belirtilen kaynağı oluşturmak için kullanılır.,-1
+HTTP metotlarından PUT ve POST idempotentlik açısından nasıl farklıdır?,PUT idempotent iken POST genellikle idempotent değildir.,1
+HTTP metotlarından PUT ve POST idempotentlik açısından nasıl farklıdır?,POST idempotent iken PUT genellikle idempotent değildir.,-1
+Web'de cookie nedir?,Tarayıcıda saklanan ve isteklerle sunucuya gönderilen küçük veridir.,1
+Web'de cookie nedir?,Sunucuda saklanan ve tarayıcıya hiç gönderilmeyen büyük veridir.,-1
+localStorage ile sessionStorage arasındaki fark nedir?,"sessionStorage sekme kapanınca silinir, localStorage kalıcıdır.",1
+localStorage ile sessionStorage arasındaki fark nedir?,"localStorage sekme kapanınca silinir, sessionStorage kalıcıdır.",-1
+CORS nedir?,Farklı kökenler arası istekleri kontrol eden tarayıcı mekanizmasıdır.,1
+CORS nedir?,Aynı sunucudaki dosyaları sıkıştıran tarayıcı mekanizmasıdır.,-1
+XSS saldırısı nedir?,Sayfaya kötü amaçlı betik enjekte edilmesidir.,1
+XSS saldırısı nedir?,Veritabanına kötü amaçlı SQL enjekte edilmesidir.,-1
+CSRF saldırısı nedir?,Kullanıcının oturumu üzerinden istemediği isteklerin yaptırılmasıdır.,1
+CSRF saldırısı nedir?,Kullanıcının parolasının kaba kuvvet saldırısıyla tahmin edilmesidir.,-1
+JWT nedir?,Taraflar arasında imzalı bilgi taşıyan kompakt bir token biçimidir.,1
+JWT nedir?,Taraflar arasında video aktaran sıkıştırılmış bir dosya biçimidir.,-1
+Node.js nedir?,JavaScript'i sunucu tarafında çalıştıran bir çalışma ortamıdır.,1
+Node.js nedir?,JavaScript'i yalnızca tarayıcıda çalıştıran bir CSS kütüphanesidir.,-1
+npm nedir?,"npm, Node.js için bir paket yöneticisidir.",1
+npm nedir?,"npm, Python için geliştirilmiş bir derleyicidir.",-1
+React nedir?,Kullanıcı arayüzü oluşturmak için bir JavaScript kütüphanesidir.,1
+React nedir?,Sunucu tarafında veritabanı yönetimi için bir SQL motorudur.,-1
+React'te props nedir?,Bileşenlere dışarıdan aktarılan salt okunur verilerdir.,1
+React'te props nedir?,Bileşenlerin kendi içinde değiştirdiği yerel durumdur.,-1
+React'teki Virtual DOM nedir?,Gerçek DOM'un bellekteki hafif bir kopyasıdır.,1
+React'teki Virtual DOM nedir?,Gerçek DOM'un sunucudaki kalıcı bir yedeğidir.,-1
+Tek sayfa uygulaması (SPA) nedir?,Tek bir HTML sayfasını dinamik olarak güncelleyen uygulamadır.,1
+Tek sayfa uygulaması (SPA) nedir?,Her tıklamada tamamen yeni bir sayfa yükleyen uygulamadır.,-1
+AJAX ne sağlar?,Sayfayı yenilemeden sunucuyla asenkron veri alışverişi sağlar.,1
+AJAX ne sağlar?,Sayfayı her seferinde yenileyerek senkron veri alışverişi sağlar.,-1
+URL'de query string hangi işaretle başlar?,Query string ? işaretiyle başlar.,1
+URL'de query string hangi işaretle başlar?,Query string # işaretiyle başlar.,-1
+HTML'de başka bir sayfaya bağlantı vermek için hangi etiket kullanılır?,Bağlantı vermek için a etiketi kullanılır.,1
+HTML'de başka bir sayfaya bağlantı vermek için hangi etiket kullanılır?,Bağlantı vermek için link etiketi kullanılır.,-1
+HTML'de img etiketinin alt özniteliği ne işe yarar?,Görsel için metin açıklaması sağlar ve ekran okuyuculara yardımcı olur.,1
+HTML'de img etiketinin alt özniteliği ne işe yarar?,Görselin dosya boyutunu otomatik olarak küçültür ve hızlandırır.,-1
+CSS'te ekran boyutuna göre farklı stil uygulamak için hangi kural kullanılır?,@media kuralıyla ekran boyutuna göre stil uygulanır.,1
+CSS'te ekran boyutuna göre farklı stil uygulamak için hangi kural kullanılır?,@import kuralıyla ekran boyutuna göre stil uygulanır.,-1
+CSS Grid ne sağlar?,İki boyutlu satır ve sütun düzeni oluşturur.,1
+CSS Grid ne sağlar?,Yalnızca tek boyutlu metin akışı oluşturur.,-1
+Yaygın web sunucusu yazılımlarına örnek nedir?,Nginx ve Apache yaygın web sunucularıdır.,1
+Yaygın web sunucusu yazılımlarına örnek nedir?,MySQL ve PostgreSQL yaygın web sunucularıdır.,-1
+PostgreSQL nasıl bir veritabanıdır?,PostgreSQL ilişkisel bir veritabanı yönetim sistemidir.,1
+PostgreSQL nasıl bir veritabanıdır?,PostgreSQL belge tabanlı bir NoSQL veritabanıdır.,-1
+SQLite nasıl bir veritabanıdır?,"Sunucu gerektirmeyen, dosya tabanlı bir veritabanıdır.",1
+SQLite nasıl bir veritabanıdır?,"Yalnızca bulutta çalışan, dağıtık bir veritabanıdır.",-1
+Veritabanı indekslerinin dezavantajı nedir?,Yazma işlemlerini yavaşlatabilir ve ek depolama gerektirir.,1
+Veritabanı indekslerinin dezavantajı nedir?,Okuma işlemlerini yavaşlatır ve depolama alanını azaltır.,-1
+Veritabanlarında sharding nedir?,Veriyi birden çok sunucuya yatay olarak bölmektir.,1
+Veritabanlarında sharding nedir?,Veriyi tek sunucuda dikey olarak sıkıştırmaktır.,-1
+Veritabanı replikasyonu nedir?,Verinin birden fazla sunucuda kopyalarının tutulmasıdır.,1
+Veritabanı replikasyonu nedir?,Verinin tek bir sunucuda şifrelenerek silinmesidir.,-1
+SQL'de UNION ile UNION ALL arasındaki fark nedir?,"UNION tekrarları eler, UNION ALL tüm satırları korur.",1
+SQL'de UNION ile UNION ALL arasındaki fark nedir?,"UNION ALL tekrarları eler, UNION tüm satırları korur.",-1
+SQL'de LIKE 'A%' ifadesi neyi eşleştirir?,A harfiyle başlayan değerleri eşleştirir.,1
+SQL'de LIKE 'A%' ifadesi neyi eşleştirir?,A harfiyle biten değerleri eşleştirir.,-1
+HTTP'nin durumsuz (stateless) olması ne demektir?,Her istek önceki isteklerden bağımsız olarak işlenir.,1
+HTTP'nin durumsuz (stateless) olması ne demektir?,Her istek önceki isteklerin tüm durumunu otomatik saklar.,-1
+WebSocket ne sağlar?,İstemci ile sunucu arasında çift yönlü kalıcı bağlantı sağlar.,1
+WebSocket ne sağlar?,İstemci ile sunucu arasında tek yönlü geçici bağlantı sağlar.,-1
+GraphQL'in temel özelliği nedir?,İstemcinin ihtiyaç duyduğu alanları sorguyla belirtmesini sağlar.,1
+GraphQL'in temel özelliği nedir?,İstemcinin sabit uç noktalardan tüm alanları almasını zorunlu kılar.,-1
+Denetimli öğrenme nedir?,Etiketli verilerle model eğitilmesidir.,1
+Denetimli öğrenme nedir?,Etiketsiz verilerle model eğitilmesidir.,-1
+Denetimsiz öğrenme nedir?,Etiketsiz verilerdeki yapıları keşfetmektir.,1
+Denetimsiz öğrenme nedir?,Etiketli verilerle sınıf tahmini yapmaktır.,-1
+Pekiştirmeli öğrenme nedir?,Ajanın ödül ve cezalarla deneyerek öğrenmesidir.,1
+Pekiştirmeli öğrenme nedir?,Ajanın yalnızca etiketli örnekleri ezberlemesidir.,-1
+Aşırı öğrenme (overfitting) nedir?,Modelin eğitim verisini ezberleyip yeni veride kötü performans göstermesidir.,1
+Aşırı öğrenme (overfitting) nedir?,Modelin eğitim verisini öğrenemeyip her veride kötü performans göstermesidir.,-1
+Yetersiz öğrenme (underfitting) nedir?,Modelin veri yapısını yakalayamayacak kadar basit kalmasıdır.,1
+Yetersiz öğrenme (underfitting) nedir?,Modelin eğitim verisini gürültüsüyle birlikte ezberlemesidir.,-1
+Aşırı öğrenmeyi azaltmak için ne yapılabilir?,Daha fazla veri ve düzenlileştirme kullanılabilir.,1
+Aşırı öğrenmeyi azaltmak için ne yapılabilir?,Daha az veri ve daha karmaşık model kullanılabilir.,-1
+L2 düzenlileştirme kayıp fonksiyonuna ne ekler?,Ağırlıkların kareleri toplamını kayıp fonksiyonuna ekler.,1
+L2 düzenlileştirme kayıp fonksiyonuna ne ekler?,Ağırlıkların mutlak değerleri toplamını kayıp fonksiyonuna ekler.,-1
+L1 düzenlileştirme kayıp fonksiyonuna ne ekler?,Ağırlıkların mutlak değerleri toplamını ceza olarak ekler.,1
+L1 düzenlileştirme kayıp fonksiyonuna ne ekler?,Ağırlıkların kareleri toplamını ceza olarak ekler.,-1
+L1 düzenlileştirmenin ağırlıklar üzerindeki tipik etkisi nedir?,L1 düzenlileştirme bazı ağırlıkları tam sıfıra çekebilir.,1
+L1 düzenlileştirmenin ağırlıklar üzerindeki tipik etkisi nedir?,L1 düzenlileştirme tüm ağırlıkları eşit şekilde büyütür.,-1
+Gradyan inişi (gradient descent) parametreleri nasıl günceller?,Kaybı azaltmak için parametreleri gradyanın ters yönünde günceller.,1
+Gradyan inişi (gradient descent) parametreleri nasıl günceller?,Kaybı azaltmak için parametreleri gradyanla aynı yönde günceller.,-1
+Öğrenme oranı çok büyük seçilirse ne olur?,Optimizasyon ıraksayabilir veya salınım yapabilir.,1
+Öğrenme oranı çok büyük seçilirse ne olur?,Optimizasyon her zaman daha hızlı ve kararlı yakınsar.,-1
+Öğrenme oranı çok küçük seçilirse ne olur?,Eğitim çok yavaş ilerler.,1
+Öğrenme oranı çok küçük seçilirse ne olur?,Eğitim hemen ıraksar.,-1
+Stokastik gradyan inişi (SGD) her adımda ne kullanır?,Her adımda tek örnek veya küçük bir alt küme kullanır.,1
+Stokastik gradyan inişi (SGD) her adımda ne kullanır?,Her güncelleme adımında mutlaka tüm veri setini birlikte kullanır.,-1
+Makine öğrenmesinde epoch nedir?,Tüm eğitim verisinin model tarafından bir kez işlenmesidir.,1
+Makine öğrenmesinde epoch nedir?,Tek bir örneğin model tarafından bir kez işlenmesidir.,-1
+Batch size neyi ifade eder?,Bir güncellemede kullanılan örnek sayısıdır.,1
+Batch size neyi ifade eder?,Sinir ağı modelindeki toplam gizli katman sayısıdır.,-1
+Optimizasyonda momentum ne işe yarar?,Önceki güncellemelerin yönünü biriktirerek yakınsamayı hızlandırır.,1
+Optimizasyonda momentum ne işe yarar?,Önceki güncellemeleri tamamen silerek yakınsamayı yavaşlatır.,-1
+Adam optimizasyon algoritmasının temel fikri nedir?,Momentum ile uyarlanabilir öğrenme oranlarını birleştirir.,1
+Adam optimizasyon algoritmasının temel fikri nedir?,Sabit öğrenme oranıyla yalnızca ikinci türevleri kullanır.,-1
+Sigmoid fonksiyonunun çıktı aralığı nedir?,Sigmoid fonksiyonu 0 ile 1 arasında değer üretir.,1
+Sigmoid fonksiyonunun çıktı aralığı nedir?,Sigmoid fonksiyonu -1 ile 1 arasında değer üretir.,-1
+tanh fonksiyonunun çıktı aralığı nedir?,tanh fonksiyonu -1 ile 1 arasında değer üretir.,1
+tanh fonksiyonunun çıktı aralığı nedir?,tanh fonksiyonu 0 ile 1 arasında değer üretir.,-1
+ReLU aktivasyon fonksiyonu nasıl çalışır?,"ReLU negatif girdilerde 0, pozitiflerde girdinin kendisini verir.",1
+ReLU aktivasyon fonksiyonu nasıl çalışır?,"ReLU pozitif girdilerde 0, negatiflerde girdinin kendisini verir.",-1
+Softmax fonksiyonu ne yapar?,Çıktıları toplamı 1 olan olasılıklara dönüştürür.,1
+Softmax fonksiyonu ne yapar?,Çıktıları toplamı 0 olan ağırlıklara dönüştürür.,-1
+Kaybolan gradyan (vanishing gradient) problemi nedir?,Derin ağlarda gradyanların çok küçülüp öğrenmenin durmasıdır.,1
+Kaybolan gradyan (vanishing gradient) problemi nedir?,Derin ağlarda gradyanların çok büyüyüp sayısal taşma olmasıdır.,-1
+Doğrusal regresyonda en yaygın kullanılan kayıp fonksiyonu hangisidir?,Genellikle ortalama kare hata (MSE) kullanılır.,1
+Doğrusal regresyonda en yaygın kullanılan kayıp fonksiyonu hangisidir?,Genellikle çapraz entropi kaybı kullanılır.,-1
+Lojistik regresyon ne için kullanılır?,Sınıflandırma için kullanılan olasılıksal bir modeldir.,1
+Lojistik regresyon ne için kullanılır?,Kümeleme için kullanılan denetimsiz bir modeldir.,-1
+k-means algoritması nedir?,Verileri k adet kümeye ayıran denetimsiz bir algoritmadır.,1
+k-means algoritması nedir?,Verileri k adet sınıfa ayıran denetimli bir algoritmadır.,-1
+k-en yakın komşu (KNN) algoritması nasıl çalışır?,Yeni örneği en yakın k komşusuna göre sınıflandırır.,1
+k-en yakın komşu (KNN) algoritması nasıl çalışır?,Yeni örneği en uzak k komşusuna göre sınıflandırır.,-1
+PCA (temel bileşen analizi) ne yapar?,Veriyi en çok varyansı koruyan yönlere indirger.,1
+PCA (temel bileşen analizi) ne yapar?,Veriyi en az varyansı koruyan yönlere genişletir.,-1
+Destek vektör makineleri (SVM) neyi amaçlar?,Sınıflar arasındaki marjı en büyük yapan sınırı bulmayı amaçlar.,1
+Destek vektör makineleri (SVM) neyi amaçlar?,Sınıflar arasındaki marjı en küçük yapan sınırı bulmayı amaçlar.,-1
+Random forest nedir?,Birçok karar ağacının tahminlerini birleştiren bir topluluk yöntemidir.,1
+Random forest nedir?,Tek bir karar ağacını sürekli budayan bir kümeleme yöntemidir.,-1
+Boosting yöntemlerinin temel özelliği nedir?,"Boosting modelleri sırayla, öncekilerin hatalarına odaklanarak eğitir.",1
+Boosting yöntemlerinin temel özelliği nedir?,Boosting modelleri birbirinden tamamen bağımsız ve paralel eğitir.,-1
+Precision (kesinlik) neyi ölçer?,Pozitif tahminlerin ne kadarının gerçekten pozitif olduğunu ölçer.,1
+Precision (kesinlik) neyi ölçer?,Gerçek pozitiflerin ne kadarının yakalandığını ölçer.,-1
+Recall (duyarlılık) neyi ölçer?,Gerçek pozitiflerin ne kadarının doğru yakalandığını ölçer.,1
+Recall (duyarlılık) neyi ölçer?,Pozitif tahminlerin ne kadarının gerçekten pozitif olduğunu ölçer.,-1
+F1 skoru nasıl hesaplanır?,Precision ve recall'un harmonik ortalamasıdır.,1
+F1 skoru nasıl hesaplanır?,Precision ve recall'un aritmetik ortalamasıdır.,-1
+Karışıklık matrisi (confusion matrix) nedir?,Gerçek ve tahmin edilen sınıfların karşılaştırma tablosudur.,1
+Karışıklık matrisi (confusion matrix) nedir?,Modeldeki katmanların bağlantılarını gösteren tablodur.,-1
+Dengesiz veri setlerinde accuracy metriği neden sorunludur?,Dengesiz veride accuracy yanıltıcı derecede yüksek çıkabilir.,1
+Dengesiz veri setlerinde accuracy metriği neden sorunludur?,Dengesiz veride accuracy her zaman en güvenilir ölçüttür.,-1
+Veriyi eğitim ve test olarak ayırmanın amacı nedir?,Modelin görmediği verideki genelleme başarısını ölçmektir.,1
+Veriyi eğitim ve test olarak ayırmanın amacı nedir?,Modelin eğitim verisini daha hızlı ezberlemesini sağlamaktır.,-1
+Çapraz doğrulama (cross-validation) nasıl çalışır?,Veriyi parçalara bölüp her parçayı sırayla test için kullanır.,1
+Çapraz doğrulama (cross-validation) nasıl çalışır?,Veriyi hiç bölmeden tamamını hem eğitim hem test için kullanır.,-1
+Veri sızıntısı (data leakage) nedir?,Test bilgisinin eğitim sürecine sızıp sonucu şişirmesidir.,1
+Veri sızıntısı (data leakage) nedir?,Eğitim verisinin depolama diskinden yanlışlıkla silinip kaybolmasıdır.,-1
+Özellik ölçekleme (feature scaling) neden yapılır?,Farklı ölçekli özelliklerin optimizasyonu bozmasını önler.,1
+Özellik ölçekleme (feature scaling) neden yapılır?,Özellik sayısını otomatik olarak iki katına çıkarır.,-1
+Standardizasyon özellikleri nasıl dönüştürür?,"Özellikleri ortalaması 0, standart sapması 1 olacak şekilde dönüştürür.",1
+Standardizasyon özellikleri nasıl dönüştürür?,"Özellikleri ortalaması 1, standart sapması 0 olacak şekilde dönüştürür.",-1
+Evrişimli sinir ağları (CNN) özellikle hangi alanda yaygındır?,Özellikle görüntü işlemede yaygın kullanılır.,1
+Evrişimli sinir ağları (CNN) özellikle hangi alanda yaygındır?,Özellikle tablo verisini sıralamada yaygın kullanılır.,-1
+CNN'lerde pooling katmanı ne yapar?,Özellik haritalarının uzamsal boyutunu küçültür.,1
+CNN'lerde pooling katmanı ne yapar?,Özellik haritalarının uzamsal boyutunu büyütür.,-1
+Tekrarlayan sinir ağları (RNN) nasıl çalışır?,Sıralı verileri önceki adımların bilgisini taşıyarak işler.,1
+Tekrarlayan sinir ağları (RNN) nasıl çalışır?,Sıralı verileri her adımı tamamen bağımsız sayarak işler.,-1
+LSTM nedir?,Uzun vadeli bağımlılıkları kapılarla öğrenebilen bir RNN türüdür.,1
+LSTM nedir?,Uzun vadeli bağımlılıkları hiç öğrenemeyen basit bir CNN türüdür.,-1
+Transformer mimarisinin temel mekanizması nedir?,Transformer'ın temelinde dikkat (attention) mekanizması vardır.,1
+Transformer mimarisinin temel mekanizması nedir?,Transformer'ın temelinde evrişim (convolution) mekanizması vardır.,-1
+Transformer'ı tanıtan Attention Is All You Need makalesi hangi yıl yayımlandı?,Bu makale 2017 yılında yayımlanmıştır.,1
+Transformer'ı tanıtan Attention Is All You Need makalesi hangi yıl yayımlandı?,Bu makale 2012 yılında yayımlanmıştır.,-1
+Embedding nedir?,Kelime veya nesnelerin yoğun sayısal vektör temsilidir.,1
+Embedding nedir?,Kelime veya nesnelerin sıkıştırılmış görüntü dosyasıdır.,-1
+Kosinüs benzerliği neyi ölçer?,İki vektör arasındaki açının kosinüsüyle benzerliği ölçer.,1
+Kosinüs benzerliği neyi ölçer?,İki vektörün uzunluklarının toplamıyla benzerliği ölçer.,-1
+Doğal dil işlemede tokenization nedir?,Metni model için küçük birimlere ayırma işlemidir.,1
+Doğal dil işlemede tokenization nedir?,Metni model için şifreleyerek gizleme işlemidir.,-1
+Büyük dil modeli (LLM) nedir?,Büyük metin verisiyle eğitilmiş büyük bir dil modelidir.,1
+Büyük dil modeli (LLM) nedir?,Küçük tablo verisiyle eğitilmiş kural tabanlı bir sistemdir.,-1
+Transfer öğrenme nedir?,Bir görevde öğrenilen bilginin başka bir görevde kullanılmasıdır.,1
+Transfer öğrenme nedir?,Bir modelin her yeni görev için tamamen sıfırdan yeniden eğitilmesidir.,-1
+İnce ayar (fine-tuning) nedir?,Önceden eğitilmiş bir modelin yeni veriyle ek eğitimidir.,1
+İnce ayar (fine-tuning) nedir?,Eğitilmemiş bir modelin rastgele ağırlıklarla dondurulmasıdır.,-1
+Turing Testi'ni kim önermiştir?,Turing Testi'ni Alan Turing önermiştir.,1
+Turing Testi'ni kim önermiştir?,Turing Testi'ni John von Neumann önermiştir.,-1
+Yapay zekânın bir araştırma alanı olarak doğduğu kabul edilen etkinlik hangisidir?,1956 yılındaki Dartmouth çalıştayıdır.,1
+Yapay zekânın bir araştırma alanı olarak doğduğu kabul edilen etkinlik hangisidir?,1986 yılındaki Stanford çalıştayıdır.,-1
+Perceptron modelini kim geliştirmiştir?,Perceptron'u Frank Rosenblatt geliştirmiştir.,1
+Perceptron modelini kim geliştirmiştir?,Perceptron'u Geoffrey Hinton geliştirmiştir.,-1
+Tek katmanlı perceptron XOR problemini çözebilir mi?,Tek katmanlı perceptron XOR problemini çözemez.,1
+Tek katmanlı perceptron XOR problemini çözebilir mi?,Tek katmanlı perceptron XOR problemini kolayca çözer.,-1
+Dropout yöntemi ne işe yarar?,Eğitimde rastgele nöronları devre dışı bırakarak ezberlemeyi azaltır.,1
+Dropout yöntemi ne işe yarar?,Eğitimde tüm nöronları kalıcı olarak silerek ezberlemeyi artırır.,-1
+Yanlılık-varyans dengesinde yüksek varyans neyle ilişkilidir?,Yüksek varyans aşırı öğrenmeyle ilişkilidir.,1
+Yanlılık-varyans dengesinde yüksek varyans neyle ilişkilidir?,Yüksek varyans yetersiz öğrenmeyle ilişkilidir.,-1
+Hiperparametre nedir?,Eğitimden önce belirlenen öğrenme oranı gibi ayarlardır.,1
+Hiperparametre nedir?,Eğitim sırasında gradyanla öğrenilen ağırlıklardır.,-1
+Erken durdurma (early stopping) nasıl çalışır?,Doğrulama hatası artmaya başlayınca eğitimi durdurur.,1
+Erken durdurma (early stopping) nasıl çalışır?,Eğitim hatası sıfır olana kadar eğitimi zorla sürdürür.,-1
+Kayıp fonksiyonu neyi ölçer?,Model tahminleri ile gerçek değerler arasındaki hatayı ölçer.,1
+Kayıp fonksiyonu neyi ölçer?,Modelin toplam eğitim süresini saniye cinsinden ölçer ve raporlar.,-1
+Çapraz entropi kaybı hangi problemlerde yaygın kullanılır?,Sınıflandırma problemlerinde yaygın kullanılır.,1
+Çapraz entropi kaybı hangi problemlerde yaygın kullanılır?,Kümeleme problemlerinde yaygın kullanılır.,-1
+Üretken çekişmeli ağ (GAN) nedir?,Üretici ve ayırt edici iki ağın birbirine karşı eğitildiği yapıdır.,1
+Üretken çekişmeli ağ (GAN) nedir?,Tek bir ağın yalnızca sınıflandırma için eğitildiği yapıdır.,-1
+Doğal dil işleme (NLP) neyi konu alır?,Bilgisayarların insan dilini işlemesini konu alır.,1
+Doğal dil işleme (NLP) neyi konu alır?,Bilgisayarların ağ paketlerini yönlendirmesini konu alır.,-1
+Bilgisayarlı görü (computer vision) neyi konu alır?,Bilgisayarların görüntü ve videoları anlamasını konu alır.,1
+Bilgisayarlı görü (computer vision) neyi konu alır?,Bilgisayarların ses dalgalarını sıkıştırmasını konu alır.,-1
+AlphaGo hangi başarısıyla tanınır?,"AlphaGo, Go oyununda dünyanın en iyi oyuncularından birini yenmiştir.",1
+AlphaGo hangi başarısıyla tanınır?,"AlphaGo, 1997'de satrançta Garri Kasparov'u yenen ilk bilgisayar programıdır.",-1
+Deep Blue hangi başarısıyla tanınır?,Deep Blue 1997'de Garri Kasparov'u satrançta yenmiştir.,1
+Deep Blue hangi başarısıyla tanınır?,Deep Blue 2016'da Lee Sedol'u Go oyununda yenmiştir.,-1
+Dil modellerinde halüsinasyon nedir?,Modelin gerçek dışı bilgiyi kendinden emin şekilde üretmesidir.,1
+Dil modellerinde halüsinasyon nedir?,Modelin eğitim verisini birebir doğru şekilde tekrar etmesidir.,-1
+"ROC eğrisinde AUC değerinin 0,5 olması neyi gösterir?","AUC değerinin 0,5 olması rastgele tahmin düzeyini gösterir.",1
+"ROC eğrisinde AUC değerinin 0,5 olması neyi gösterir?","AUC değerinin 0,5 olması kusursuz sınıflandırmayı gösterir.",-1
+Aşağıdakilerden hangisi bir kümeleme problemine örnektir?,Müşterileri benzer davranışlarına göre etiketsiz gruplamak.,1
+Aşağıdakilerden hangisi bir kümeleme problemine örnektir?,E-postaların spam olup olmadığını etiketli veriyle tahmin etmek.,-1
+Regresyon ile sınıflandırma arasındaki fark nedir?,"Regresyon sürekli değer, sınıflandırma kategori tahmin eder.",1
+Regresyon ile sınıflandırma arasındaki fark nedir?,"Sınıflandırma sürekli değer, regresyon kategori tahmin eder.",-1
+One-hot encoding nedir?,Kategorik değişkeni ikili vektörlerle temsil eder.,1
+One-hot encoding nedir?,Sürekli değişkeni tek bir rastgele sayıyla temsil eder.,-1
+Batch normalization ne işe yarar?,Katman girdilerini normalize ederek eğitimi kararlı hale getirir.,1
+Batch normalization ne işe yarar?,Katman çıktılarını rastgele karıştırarak eğitimi yavaşlatır.,-1
+Doğrulama (validation) seti ne için kullanılır?,Hiperparametre seçimi ve model ayarı için kullanılır.,1
+Doğrulama (validation) seti ne için kullanılır?,Modelin ağırlıklarını doğrudan güncellemek için kullanılır.,-1
+Naive Bayes sınıflandırıcısının naive varsayımı nedir?,Özelliklerin sınıf verildiğinde birbirinden bağımsız olduğunu varsayar.,1
+Naive Bayes sınıflandırıcısının naive varsayımı nedir?,Özelliklerin sınıf verildiğinde birbirine tamamen bağımlı olduğunu varsayar.,-1
+Bir haftada kaç gün vardır?,Bir haftada yedi gün vardır.,1
+Bir haftada kaç gün vardır?,Bir haftada altı gün vardır.,-1
+Bir saatte kaç saniye vardır?,Bir saatte 3600 saniye vardır.,1
+Bir saatte kaç saniye vardır?,Bir saatte 360 saniye vardır.,-1
+Bir günde kaç dakika vardır?,Bir günde 1440 dakika vardır.,1
+Bir günde kaç dakika vardır?,Bir günde 1200 dakika vardır.,-1
+Artık yıllarda Şubat ayı kaç gündür?,Artık yıllarda Şubat 29 gündür.,1
+Artık yıllarda Şubat ayı kaç gündür?,Artık yıllarda Şubat 30 gündür.,-1
+Saf su deniz seviyesinde kaç derecede kaynar?,Su deniz seviyesinde 100 °C'de kaynar.,1
+Saf su deniz seviyesinde kaç derecede kaynar?,Su deniz seviyesinde 90 °C'de kaynar.,-1
+Saf su normal basınçta kaç derecede donar?,Saf su 0 °C'de donar.,1
+Saf su normal basınçta kaç derecede donar?,Saf su 4 °C'de donar.,-1
+Gökkuşağında geleneksel olarak kaç renk sayılır?,Gökkuşağında geleneksel olarak yedi renk sayılır.,1
+Gökkuşağında geleneksel olarak kaç renk sayılır?,Gökkuşağında geleneksel olarak beş renk sayılır.,-1
+Boyamada geleneksel ana renkler hangileridir?,"Geleneksel ana renkler kırmızı, sarı ve mavidir.",1
+Boyamada geleneksel ana renkler hangileridir?,"Geleneksel ana renkler yeşil, mor ve turuncudur.",-1
+Bir düzine kaç adettir?,Bir düzine 12 adettir.,1
+Bir düzine kaç adettir?,Bir düzine 10 adettir.,-1
+Bir kilometre kaç metredir?,Bir kilometre 1000 metredir.,1
+Bir kilometre kaç metredir?,Bir kilometre 100 metredir.,-1
+Bir kilogram kaç gramdır?,Bir kilogram 1000 gramdır.,1
+Bir kilogram kaç gramdır?,Bir kilogram 100 gramdır.,-1
+Türkiye'nin uluslararası telefon kodu nedir?,Türkiye'nin uluslararası telefon kodu +90'dır.,1
+Türkiye'nin uluslararası telefon kodu nedir?,Türkiye'nin uluslararası telefon kodu +49'dur.,-1
+Türkiye'de tek acil çağrı numarası hangisidir?,Türkiye'de tek acil çağrı numarası 112'dir.,1
+Türkiye'de tek acil çağrı numarası hangisidir?,Türkiye'de tek acil çağrı numarası 911'dir.,-1
+Trafik ışığında kırmızı ışık neyi ifade eder?,Kırmızı ışık durulması gerektiğini gösterir.,1
+Trafik ışığında kırmızı ışık neyi ifade eder?,Kırmızı ışık geçilebileceğini gösterir.,-1
+Türkiye'de trafik hangi taraftan akar?,Türkiye'de trafik sağdan akar.,1
+Türkiye'de trafik hangi taraftan akar?,Türkiye'de trafik soldan akar.,-1
+Birleşik Krallık'ta trafik hangi taraftan akar?,Birleşik Krallık'ta trafik soldan akar.,1
+Birleşik Krallık'ta trafik hangi taraftan akar?,Birleşik Krallık'ta trafik sağdan akar.,-1
+Türk bayrağı nasıl bir görünüme sahiptir?,Kırmızı zemin üzerinde beyaz ay ve yıldızdan oluşur.,1
+Türk bayrağı nasıl bir görünüme sahiptir?,Beyaz zemin üzerinde kırmızı ay ve yıldızdan oluşur.,-1
+Türkiye'nin para birimi nedir?,Türkiye'nin para birimi Türk lirasıdır.,1
+Türkiye'nin para birimi nedir?,Türkiye'nin para birimi Türk dinarıdır.,-1
+Japonya'nın para birimi nedir?,Japonya'nın para birimi yendir.,1
+Japonya'nın para birimi nedir?,Japonya'nın para birimi yuandır.,-1
+Birleşik Krallık'ın para birimi nedir?,Birleşik Krallık'ın para birimi sterlindir.,1
+Birleşik Krallık'ın para birimi nedir?,Birleşik Krallık'ın para birimi avrodur.,-1
+Dünya'ya en yakın yıldız hangisidir?,Dünya'ya en yakın yıldız Güneş'tir.,1
+Dünya'ya en yakın yıldız hangisidir?,Dünya'ya en yakın yıldız Kutup Yıldızı'dır.,-1
+Güneş'e en yakın gezegen hangisidir?,Güneş'e en yakın gezegen Merkür'dür.,1
+Güneş'e en yakın gezegen hangisidir?,Güneş'e en yakın gezegen Venüs'tür.,-1
+Güneş sisteminde kaç gezegen vardır?,Güneş sisteminde sekiz gezegen vardır.,1
+Güneş sisteminde kaç gezegen vardır?,Güneş sisteminde on gezegen vardır.,-1
+"Ay, Dünya etrafındaki bir turunu yaklaşık ne kadar sürede tamamlar?","Ay bu turu yaklaşık 27,3 günde tamamlar.",1
+"Ay, Dünya etrafındaki bir turunu yaklaşık ne kadar sürede tamamlar?",Ay bu turu yaklaşık 365 günde tamamlar.,-1
+Işığın boşluktaki hızı yaklaşık ne kadardır?,Yaklaşık saniyede 300.000 kilometredir.,1
+Işığın boşluktaki hızı yaklaşık ne kadardır?,Yaklaşık saniyede 300 kilometredir.,-1
+Işık mı yoksa ses mi daha hızlı yayılır?,Işık sesten çok daha hızlı yayılır.,1
+Işık mı yoksa ses mi daha hızlı yayılır?,Ses ışıktan çok daha hızlı yayılır.,-1
+Bitkiler fotosentez sırasında havadan hangi gazı alır?,Bitkiler fotosentezde karbondioksit alır.,1
+Bitkiler fotosentez sırasında havadan hangi gazı alır?,Bitkiler fotosentezde helyum alır.,-1
+Havada en bol bulunan gaz hangisidir?,Havada en bol bulunan gaz azottur.,1
+Havada en bol bulunan gaz hangisidir?,Havada en bol bulunan gaz oksijendir.,-1
+Telefonun patentini kim almıştır?,Telefonun patentini Alexander Graham Bell almıştır.,1
+Telefonun patentini kim almıştır?,Telefonun patentini Thomas Alva Edison almıştır.,-1
+Evrensel çekim yasasını kim formüle etmiştir?,Evrensel çekim yasasını Isaac Newton formüle etmiştir.,1
+Evrensel çekim yasasını kim formüle etmiştir?,Evrensel çekim yasasını Galileo Galilei formüle etmiştir.,-1
+Görelilik kuramını kim geliştirmiştir?,Görelilik kuramını Albert Einstein geliştirmiştir.,1
+Görelilik kuramını kim geliştirmiştir?,Görelilik kuramını Niels Bohr geliştirmiştir.,-1
+Pi sayısının yaklaşık değeri nedir?,"Pi sayısı yaklaşık 3,14'tür.",1
+Pi sayısının yaklaşık değeri nedir?,"Pi sayısı yaklaşık 2,71'dir.",-1
+Düzlemde bir üçgenin iç açıları toplamı kaç derecedir?,Bir üçgenin iç açıları toplamı 180 derecedir.,1
+Düzlemde bir üçgenin iç açıları toplamı kaç derecedir?,Bir üçgenin iç açıları toplamı 360 derecedir.,-1
+Bir altıgenin kaç kenarı vardır?,Altıgenin altı kenarı vardır.,1
+Bir altıgenin kaç kenarı vardır?,Altıgenin sekiz kenarı vardır.,-1
+En küçük asal sayı hangisidir?,En küçük asal sayı 2'dir.,1
+En küçük asal sayı hangisidir?,En küçük asal sayı 1'dir.,-1
+Roma rakamlarında 50 hangi harfle gösterilir?,"Roma rakamlarında 50, L harfiyle gösterilir.",1
+Roma rakamlarında 50 hangi harfle gösterilir?,"Roma rakamlarında 50, D harfiyle gösterilir.",-1
+Roma rakamlarında 100 hangi harfle gösterilir?,"Roma rakamlarında 100, C harfiyle gösterilir.",1
+Roma rakamlarında 100 hangi harfle gösterilir?,"Roma rakamlarında 100, M harfiyle gösterilir.",-1
+Türk alfabesinde kaç harf vardır?,Türk alfabesinde 29 harf vardır.,1
+Türk alfabesinde kaç harf vardır?,Türk alfabesinde 26 harf vardır.,-1
+Türk alfabesinde kaç ünlü harf vardır?,Türk alfabesinde sekiz ünlü harf vardır.,1
+Türk alfabesinde kaç ünlü harf vardır?,Türk alfabesinde altı ünlü harf vardır.,-1
+23 Nisan hangi bayram olarak kutlanır?,"23 Nisan, Ulusal Egemenlik ve Çocuk Bayramı'dır.",1
+23 Nisan hangi bayram olarak kutlanır?,"23 Nisan, Atatürk'ü Anma, Gençlik ve Spor Bayramı'dır.",-1
+19 Mayıs hangi bayram olarak kutlanır?,"19 Mayıs, Atatürk'ü Anma, Gençlik ve Spor Bayramı'dır.",1
+19 Mayıs hangi bayram olarak kutlanır?,"19 Mayıs, Ulusal Egemenlik ve Çocuk Bayramı'dır.",-1
+30 Ağustos hangi bayram olarak kutlanır?,"30 Ağustos, Zafer Bayramı'dır.",1
+30 Ağustos hangi bayram olarak kutlanır?,"30 Ağustos, Cumhuriyet Bayramı'dır.",-1
+10 Kasım neyin yıl dönümüdür?,"10 Kasım, Atatürk'ün ölüm yıl dönümüdür.",1
+10 Kasım neyin yıl dönümüdür?,"10 Kasım, Atatürk'ün doğum yıl dönümüdür.",-1
+Türkiye'de Öğretmenler Günü hangi tarihte kutlanır?,Öğretmenler Günü 24 Kasım'da kutlanır.,1
+Türkiye'de Öğretmenler Günü hangi tarihte kutlanır?,Öğretmenler Günü 14 Mart'ta kutlanır.,-1
+Jokersiz standart bir iskambil destesinde kaç kart vardır?,Jokersiz standart deste 52 karttan oluşur.,1
+Jokersiz standart bir iskambil destesinde kaç kart vardır?,Jokersiz standart deste 48 karttan oluşur.,-1
+Standart bir zarda karşılıklı yüzlerin toplamı kaçtır?,Standart zarda karşılıklı yüzlerin toplamı 7'dir.,1
+Standart bir zarda karşılıklı yüzlerin toplamı kaçtır?,Standart zarda karşılıklı yüzlerin toplamı 6'dır.,-1
+Türkiye'de evlerdeki şebeke gerilimi yaklaşık ne kadardır?,Türkiye'de şebeke gerilimi 230 volt civarındadır.,1
+Türkiye'de evlerdeki şebeke gerilimi yaklaşık ne kadardır?,Türkiye'de şebeke gerilimi 110 volt civarındadır.,-1
+Türkiye'de elektrik şebekesinin frekansı nedir?,Türkiye'de şebeke frekansı 50 hertzdir.,1
+Türkiye'de elektrik şebekesinin frekansı nedir?,Türkiye'de şebeke frekansı 60 hertzdir.,-1
+Buzdolabının iç sıcaklığı yaklaşık kaç derece olmalıdır?,Buzdolabı için yaklaşık 4 °C ideal kabul edilir.,1
+Buzdolabının iç sıcaklığı yaklaşık kaç derece olmalıdır?,Buzdolabı için yaklaşık 15 °C ideal kabul edilir.,-1
+Pusula iğnesi hangi yönü gösterir?,Pusula iğnesi manyetik kuzeyi gösterir.,1
+Pusula iğnesi hangi yönü gösterir?,Pusula iğnesi manyetik doğuyu gösterir.,-1
+Güneş hangi yönden doğar?,Güneş doğudan doğar.,1
+Güneş hangi yönden doğar?,Güneş batıdan doğar.,-1
+Ekmek hamurunun kabarmasını ne sağlar?,Mayanın ürettiği karbondioksit hamuru kabartır.,1
+Ekmek hamurunun kabarmasını ne sağlar?,Tuzun ürettiği oksijen hamuru kabartır.,-1
+Sirke neden kireci çözebilir?,Sirke asidik olduğu için kireci çözebilir.,1
+Sirke neden kireci çözebilir?,Sirke bazik olduğu için kireci çözebilir.,-1
+Çamaşır suyu ile tuz ruhu karıştırılırsa ne olur?,"Zehirli klor gazı açığa çıkabilir, bu yüzden karıştırılmamalıdır.",1
+Çamaşır suyu ile tuz ruhu karıştırılırsa ne olur?,"Zararsız oksijen gazı açığa çıkar, bu yüzden güvenle karıştırılabilir.",-1
+Yanan yağ tavasına su dökülmeli midir?,"Hayır, su dökülürse alevler sıçrayıp büyüyebilir.",1
+Yanan yağ tavasına su dökülmeli midir?,"Evet, üzerine bol su dökülürse alevler hemen söner.",-1
+Deprem sırasında kapalı alanda ne yapılması önerilir?,"Çök, kapan, tutun hareketi önerilir.",1
+Deprem sırasında kapalı alanda ne yapılması önerilir?,Hemen asansöre binip dışarı çıkılması önerilir.,-1
+Ozon tabakasının görevi nedir?,Güneşten gelen zararlı UV ışınlarının çoğunu soğurur.,1
+Ozon tabakasının görevi nedir?,Güneşten gelen tüm görünür ışığı tamamen engeller.,-1
+Başlıca sera gazlarından biri hangisidir?,Karbondioksit önemli bir sera gazıdır.,1
+Başlıca sera gazlarından biri hangisidir?,Helyum önemli bir sera gazıdır.,-1
+Kâğıt büyük ölçüde hangi hammaddeden yapılır?,Kâğıt büyük ölçüde ağaçlardan elde edilen selülozdan yapılır.,1
+Kâğıt büyük ölçüde hangi hammaddeden yapılır?,Kâğıt büyük ölçüde petrolden elde edilen plastikten yapılır.,-1
+Dünya'nın doğal uydusu hangisidir?,Dünya'nın tek doğal uydusu Ay'dır.,1
+Dünya'nın doğal uydusu hangisidir?,Dünya'nın tek doğal uydusu Phobos'tur.,-1
+Yetişkin bir insanda genellikle kaç diş bulunur?,Yetişkin bir insanda genellikle 32 diş bulunur.,1
+Yetişkin bir insanda genellikle kaç diş bulunur?,Yetişkin bir insanda genellikle 20 diş bulunur.,-1
+Bal arıları balı neyden üretir?,Bal arıları balı çiçek nektarından üretir.,1
+Bal arıları balı neyden üretir?,Bal arıları balı çiçek yapraklarından üretir.,-1
+En hızlı kara hayvanı hangisidir?,En hızlı kara hayvanı çitadır.,1
+En hızlı kara hayvanı hangisidir?,En hızlı kara hayvanı aslandır.,-1
+Dünyanın en büyük memelisi hangisidir?,En büyük memeli mavi balinadır.,1
+Dünyanın en büyük memelisi hangisidir?,En büyük memeli Afrika filidir.,-1
+Penguenler doğal olarak çoğunlukla nerede yaşar?,Penguenler büyük çoğunlukla güney yarım kürede yaşar.,1
+Penguenler doğal olarak çoğunlukla nerede yaşar?,Penguenler büyük çoğunlukla Kuzey Kutbu'nda yaşar.,-1
+Örümceklerin kaç bacağı vardır?,Örümceklerin sekiz bacağı vardır.,1
+Örümceklerin kaç bacağı vardır?,Örümceklerin altı bacağı vardır.,-1
+Böceklerin kaç bacağı vardır?,Böceklerin altı bacağı vardır.,1
+Böceklerin kaç bacağı vardır?,Böceklerin sekiz bacağı vardır.,-1
+Yarasalar hangi hayvan sınıfına aittir?,Yarasalar uçabilen memeli hayvanlardır.,1
+Yarasalar hangi hayvan sınıfına aittir?,Yarasalar uçabilen sürüngen hayvanlardır.,-1
+Balinalar nasıl solunum yapar?,Balinalar akciğerleriyle hava solur.,1
+Balinalar nasıl solunum yapar?,Balinalar solungaçlarıyla suda solur.,-1
+Kurbağalar hangi hayvan sınıfına aittir?,Kurbağalar iki yaşamlı (amfibi) hayvanlardır.,1
+Kurbağalar hangi hayvan sınıfına aittir?,Kurbağalar sürüngen (reptil) hayvanlardır.,-1
+Ekvatorda gece ve gündüz süreleri yıl boyunca nasıldır?,Ekvatorda gece ve gündüz yıl boyunca yaklaşık eşittir.,1
+Ekvatorda gece ve gündüz süreleri yıl boyunca nasıldır?,Ekvatorda gece ve gündüz yıl boyunca çok farklıdır.,-1
+Bir asır kaç yıldır?,Bir asır 100 yıldır.,1
+Bir asır kaç yıldır?,Bir asır 1000 yıldır.,-1
+Bir milenyum kaç yıldır?,Bir milenyum 1000 yıldır.,1
+Bir milenyum kaç yıldır?,Bir milenyum 100 yıldır.,-1
+SOS sinyali ne anlama gelir?,"SOS, uluslararası bir tehlike ve yardım çağrısıdır.",1
+SOS sinyali ne anlama gelir?,"SOS, uluslararası bir karşılama ve selam işaretidir.",-1
+Bir yılda kaç ay vardır?,Bir yılda on iki ay vardır.,1
+Bir yılda kaç ay vardır?,Bir yılda on üç ay vardır.,-1
